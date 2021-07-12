@@ -1,0 +1,15 @@
+<map id="twr_tag_voc_lp_set_compensation" name="twr_tag_voc_lp_set_compensation">
+<area shape="rect" id="node2" href="$group__twr__sgpc3.html#ga342896f1abc29b9c1b4eb439fa141acf" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="200,188,415,215"/>
+<area shape="rect" id="node3" href="$group__twr__sgpc3.html#ga3bfe52a0b8878ec24b81f30c0e82f7e5" title="Start measurement manually. " alt="" coords="490,5,642,32"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="492,57,640,98"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#ga39d14277e9c8269517346f394edf645b" title="Schedule current task to tick relative from now. " alt="" coords="492,122,640,163"/>
+<area shape="rect" id="node9" href="$group__twr__i2c.html#gae8097b226e2cab90469e926c3dda7071" title="Write to I2C channel. " alt="" coords="511,188,621,215"/>
+<area shape="rect" id="node11" href="$group__twr__i2c.html#gab21971b0e27ae85a568aa4cf21c0b9df" title="Read from I2C channel. " alt="" coords="513,239,619,265"/>
+<area shape="rect" id="node13" href="$group__twr__scheduler.html#gab25eb80ff164190c8b03427fe461671e" title="Get current tick of spin in which task has been run. " alt="" coords="463,289,669,316"/>
+<area shape="rect" id="node14" href="$group__twr__scheduler.html#ga4471cfc1dd843adc16a2d9c566e06db7" title="Schedule current task to absolute tick. " alt="" coords="492,341,640,382"/>
+<area shape="rect" id="node6" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="739,129,841,156"/>
+<area shape="rect" id="node7" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="911,104,1032,131"/>
+<area shape="rect" id="node8" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="912,155,1031,181"/>
+<area shape="rect" id="node10" href="$group__twr__ds28e17.html#ga04696c854d2aa78bf22d52bb38f14179" title="Write to I2C. " alt="" coords="717,188,863,215"/>
+<area shape="rect" id="node12" href="$group__twr__ds28e17.html#gaef052e04c475d0b31a0f0f8f7797e683" title="Read from I2C. " alt="" coords="719,239,861,265"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="twr_ls013b7dh03_update" name="twr_ls013b7dh03_update">
+<area shape="rect" id="node2" href="$group__twr__spi.html#ga30845157e8cbebc05b3b8896a80f5be7" title="Check if is ready for transfer. " alt="" coords="259,107,390,133"/>
+<area shape="rect" id="node3" href="$group__twr__spi.html#ga45a2f6588eb5570c30b037d8d5b6215b" title="Execute async SPI transfer. " alt="" coords="239,157,411,184"/>
+<area shape="rect" id="node4" href="$group__twr__dma.html#ga0a3b3a12d52c011c18fc5eba31e4cf2a" title="Configure DMA channel. " alt="" coords="459,31,641,57"/>
+<area shape="rect" id="node7" href="$group__twr__dma.html#ga14113380c3f8e4f0e4d478d6775e0dd4" title="Start DMA channel. " alt="" coords="467,81,633,108"/>
+<area shape="rect" id="node8" href="$group__twr__timer.html#gab94da353716218723f9af0a07017e99b" title="Start timer. " alt="" coords="489,132,611,159"/>
+<area shape="rect" id="node9" href="$group__twr__timer.html#gaa059ce422d0c0c67a3cd5c9d90c0877f" title="Relative delay. " alt="" coords="486,183,614,209"/>
+<area shape="rect" id="node11" href="$group__twr__timer.html#gaa30d762d9247fd4d2baba987a6abd309" title="Stop timer. " alt="" coords="490,233,610,260"/>
+<area shape="rect" id="node12" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="459,284,641,311"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="734,5,855,32"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="735,56,854,83"/>
+<area shape="rect" id="node10" href="$group__twr__timer.html#gacc752416f6a5c8c0fb012d7366836c40" title="Get actual tick of timer. " alt="" coords="689,183,900,209"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="twr_gfx_printf" name="twr_gfx_printf">
+<area shape="rect" id="node2" href="$group__twr__gfx.html#gac2f0e0a27ef49d34ded0a0342a114d4b" title="Display draw string. " alt="" coords="167,5,321,32"/>
+<area shape="rect" id="node3" href="$group__twr__gfx.html#ga3e6280b1f870c48c751681b778a30077" title="Display draw char. " alt="" coords="369,5,515,32"/>
+<area shape="rect" id="node4" href="$group__twr__gfx.html#ga9e666cc5a7148f345d1f55edd68c98e8" title="Draw pixel. " alt="" coords="563,5,712,32"/>
+</map>

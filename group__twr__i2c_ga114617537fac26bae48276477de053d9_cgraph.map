@@ -1,0 +1,12 @@
+<map id="twr_i2c_deinit" name="twr_i2c_deinit">
+<area shape="rect" id="node2" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="445,56,581,83"/>
+<area shape="rect" id="node5" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="438,5,587,32"/>
+<area shape="rect" id="node6" href="$group__twr__ds28e17.html#ga82dfc50a60345a22fba6b3f8e828b8ee" title="Deinitialize DS28E17. " alt="" coords="195,157,345,184"/>
+<area shape="rect" id="node7" href="$group__twr__module__sensor.html#gad2bd43d6e1a59f5da25feca66550a704" title="Set pull of Sensor Module channel. " alt="" coords="167,107,373,133"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="689,5,810,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="690,56,809,83"/>
+<area shape="rect" id="node8" href="$group__twr__tca9534a.html#ga42ad181a18dddc574e8e2f50a42b1299" title="Write state to all pins. " alt="" coords="421,107,604,133"/>
+<area shape="rect" id="node9" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="652,107,847,133"/>
+<area shape="rect" id="node10" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="895,107,1065,133"/>
+<area shape="rect" id="node11" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="1113,99,1280,141"/>
+</map>

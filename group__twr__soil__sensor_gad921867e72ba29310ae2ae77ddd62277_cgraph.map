@@ -1,0 +1,6 @@
+<map id="twr_soil_sensor_set_update_interval" name="twr_soil_sensor_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="223,5,371,47"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="223,71,371,112"/>
+<area shape="rect" id="node4" href="$group__twr__soil__sensor.html#ga6287700a0c0a7e1d9f282b46069142e2" title="Start measurement manually. " alt="" coords="204,137,391,163"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="439,137,621,163"/>
+</map>

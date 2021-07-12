@@ -1,0 +1,7 @@
+<map id="twr_module_co2_set_update_interval" name="twr_module_co2_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__lp8.html#ga87b15302b625e9d741205960e3bf05ec" title="Set measurement interval. " alt="" coords="209,71,359,112"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="407,5,555,47"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="407,71,555,112"/>
+<area shape="rect" id="node5" href="$group__twr__lp8.html#ga60fd1ee60f1dc4b0c59680fe3e778809" title="Start measurement manually. " alt="" coords="413,137,548,163"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="603,137,785,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="twr_pwm_set" name="twr_pwm_set">
+<area shape="rect" id="node2" href="$group__twr__servo.html#ga157c9509dd8f9d4833be05ef1f6e7517" title="Set angle. " alt="" coords="190,5,346,32"/>
+<area shape="rect" id="node3" href="$group__twr__servo.html#ga36866014f4f731389809be2f10bc3a6d" title="Set Microseconds. " alt="" coords="163,56,373,83"/>
+</map>

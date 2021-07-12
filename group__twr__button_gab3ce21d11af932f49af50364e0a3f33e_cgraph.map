@@ -1,0 +1,7 @@
+<map id="twr_button_init" name="twr_button_init">
+<area shape="rect" id="node2" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="191,56,327,83"/>
+<area shape="rect" id="node5" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="184,5,333,32"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="173,107,344,133"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="392,5,513,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="393,56,512,83"/>
+</map>

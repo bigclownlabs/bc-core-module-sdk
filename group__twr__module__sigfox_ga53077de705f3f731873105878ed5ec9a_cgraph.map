@@ -1,0 +1,3 @@
+<map id="twr_module_sigfox_get_device_pac" name="twr_module_sigfox_get_device_pac">
+<area shape="rect" id="node2" href="$group__twr__wssfm10r1at.html#gae0302d74e1f533c8d5c02e381a9aa816" title="Get device PAC (can be called only in TWR_WSSFM10R1AT_EVENT_READ_DEVICE_PAC event) ..." alt="" coords="228,5,391,47"/>
+</map>

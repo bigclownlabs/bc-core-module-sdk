@@ -1,0 +1,8 @@
+<map id="twr_module_sensor_set_vdd" name="twr_module_sensor_set_vdd">
+<area shape="rect" id="node2" href="$group__twr__module__sensor.html#ga016b1cbf7aefff60b536e49969f532f1" title="Get Sensor Module revision. " alt="" coords="263,5,440,47"/>
+<area shape="rect" id="node4" href="$group__twr__tca9534a.html#ga42ad181a18dddc574e8e2f50a42b1299" title="Write state to all pins. " alt="" coords="260,71,443,98"/>
+<area shape="rect" id="node3" href="$group__twr__tca9534a.html#ga927211887a8fd91dd4ae94599aa828c1" title="Set pin direction. " alt="" coords="506,5,670,47"/>
+<area shape="rect" id="node5" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="491,71,685,98"/>
+<area shape="rect" id="node6" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="733,71,904,98"/>
+<area shape="rect" id="node7" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="952,64,1119,105"/>
+</map>

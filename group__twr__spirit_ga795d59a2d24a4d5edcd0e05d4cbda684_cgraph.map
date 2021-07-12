@@ -1,0 +1,6 @@
+<map id="twr_spirit1_set_rx_timeout" name="twr_spirit1_set_rx_timeout">
+<area shape="rect" id="node2" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="215,31,317,57"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="192,82,340,123"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="388,5,509,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="389,56,508,83"/>
+</map>

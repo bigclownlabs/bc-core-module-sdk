@@ -1,0 +1,51 @@
+<map id="twr_radio_init" name="twr_radio_init">
+<area shape="rect" id="node2" href="$group__twr__atsha204.html#ga41033791fc10ee37c46c2a33da3f1d89" title="Initialize ATSHA204 driver. " alt="" coords="189,501,328,527"/>
+<area shape="rect" id="node43" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="402,551,573,578"/>
+<area shape="rect" id="node44" href="$group__twr__atsha204.html#ga8603463bf6838189f592a9c611029ab8" title="Set callback function. " alt="" coords="168,653,349,695"/>
+<area shape="rect" id="node45" href="$group__twr__atsha204.html#ga580f432efeb5eee749d18c7e19bf1270" title="Reqeust for serial number. " alt="" coords="164,719,353,760"/>
+<area shape="rect" id="node48" href="$group__twr__queue.html#ga2b1c105e67014db5eb66efb8870637ae" title="Initialize queue. " alt="" coords="199,785,318,811"/>
+<area shape="rect" id="node49" href="$group__twr__spirit.html#gab55858c318da9beca964192922b33437" title="Initialize. " alt="" coords="199,551,318,578"/>
+<area shape="rect" id="node50" href="$group__twr__spirit.html#gafc23c303039ab8075f22bdc476cea0c6" title="Set callback function. " alt="" coords="177,836,340,877"/>
+<area shape="rect" id="node3" href="$group__twr__i2c.html#ga286eab51a1468de797ed590ef08f7984" title="Initialize I2C channel. " alt="" coords="439,501,536,527"/>
+<area shape="rect" id="node4" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="929,138,1035,165"/>
+<area shape="rect" id="node7" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="1175,239,1311,266"/>
+<area shape="rect" id="node8" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="1169,37,1318,63"/>
+<area shape="rect" id="node9" href="$group__twr__i2c.html#ga987a812f42e53e426ae8af64defd31cf" title="Set I2C channel speed. " alt="" coords="654,943,797,970"/>
+<area shape="rect" id="node16" href="$group__twr__module__sensor.html#gab13f9c29632d62290f1bb90da3e6b5c9" title="Initialize Sensor Module. " alt="" coords="637,450,814,477"/>
+<area shape="rect" id="node23" href="$group__twr__module__sensor.html#ga9faebc3210f730ac0a314c6305d30330" title="Semaphore for 1Wire Power up: for R1.1 set VDD On, for R1.0 pull up 56R on channel A..." alt="" coords="621,308,829,349"/>
+<area shape="rect" id="node28" href="$group__twr__module__sensor.html#ga8ea55a11c81f2af1412b68db35859a3b" title="Initialize and get Instance 1&#45;Wire for channel B. " alt="" coords="637,712,814,753"/>
+<area shape="rect" id="node31" href="$group__twr__module__x1.html#ga3ddeffc8c34754f355cb93cdb766e821" title="Initialize X1 Module. " alt="" coords="650,585,801,611"/>
+<area shape="rect" id="node39" href="$group__twr__module__x1.html#ga3f60bb31fad9722cce68d5fb7f9b693c" title="Initialize and get Instance 1&#45;Wire for channel B. " alt="" coords="877,442,1087,469"/>
+<area shape="rect" id="node40" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="1192,87,1295,114"/>
+<area shape="rect" id="node41" href="$group__twr__ds28e17.html#gae0b02aebafc15e58072c53ad56f241c0" title="Initialize DS28E17. " alt="" coords="659,998,792,1025"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="1437,177,1558,203"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="1438,101,1557,127"/>
+<area shape="rect" id="node10" href="$group__twr__ds28e17.html#gab8143cf3fefbcce42553a185551bc457" title="Set I2C speed. " alt="" coords="893,990,1071,1017"/>
+<area shape="rect" id="node11" href="$group__twr__onewire.html#ga62d16eadaa229627e490ecb48f7389a6" title="Start transaction, enable pll and run timer. " alt="" coords="1152,983,1335,1024"/>
+<area shape="rect" id="node12" href="$group__twr__onewire.html#ga6441ee52c20b2381ab08d9cb0ee96ac1" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="1172,1049,1315,1075"/>
+<area shape="rect" id="node13" href="$group__twr__onewire.html#gad0d9fbf6c1f6e9806f3409a92042f981" title="Stop transaction. " alt="" coords="1135,1099,1352,1126"/>
+<area shape="rect" id="node14" href="$group__twr__onewire.html#gaaf771beb6eccc2dcbe3dbc5051f59778" title="Select device. " alt="" coords="1169,1150,1317,1177"/>
+<area shape="rect" id="node15" href="$group__twr__onewire.html#ga0342106061d58212efc91ebad24579dd" title="Select device. " alt="" coords="1172,931,1315,958"/>
+<area shape="rect" id="node17" href="$group__twr__tca9534a.html#gacf098ee03916b91aebbda19827577948" title="Initialize TCA9534A. " alt="" coords="913,711,1051,738"/>
+<area shape="rect" id="node20" href="$group__twr__tca9534a.html#ga42ad181a18dddc574e8e2f50a42b1299" title="Write state to all pins. " alt="" coords="1152,374,1335,401"/>
+<area shape="rect" id="node22" href="$group__twr__tca9534a.html#gad13e3a65c109efc556015855383fb763" title="Set direction of all pins. " alt="" coords="897,493,1067,535"/>
+<area shape="rect" id="node18" href="$group__twr__i2c.html#gaedddada7a7d84f001b34bb42c731cf1f" title="Memory read 1 byte from I2C channel. " alt="" coords="1148,830,1339,857"/>
+<area shape="rect" id="node19" href="$group__twr__i2c.html#ga95b02a5c1d0636f36d58b7fc212d9174" title="Memory read from I2C channel. " alt="" coords="1414,830,1581,857"/>
+<area shape="rect" id="node21" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="1400,425,1595,451"/>
+<area shape="rect" id="node24" href="$group__twr__module__sensor.html#ga016b1cbf7aefff60b536e49969f532f1" title="Get Sensor Module revision. " alt="" coords="1155,291,1332,332"/>
+<area shape="rect" id="node26" href="$group__twr__module__sensor.html#gaa7b14b43c3ccd53c5927363fccf7ae0b" title="Set VDD On / Off. " alt="" coords="879,341,1085,367"/>
+<area shape="rect" id="node27" href="$group__twr__module__sensor.html#gad2bd43d6e1a59f5da25feca66550a704" title="Set pull of Sensor Module channel. " alt="" coords="879,290,1085,317"/>
+<area shape="rect" id="node25" href="$group__twr__tca9534a.html#ga927211887a8fd91dd4ae94599aa828c1" title="Set pin direction. " alt="" coords="1415,291,1579,332"/>
+<area shape="rect" id="node29" href="$group__twr__onewire.html#ga4942066d2b5fd009d65de9390966393a" title="Initialize 1&#45;Wire. " alt="" coords="899,762,1065,789"/>
+<area shape="rect" id="node30" href="$group__twr__onewire.html#ga87e8483ea4b467e238c41fdf12b80421" title="Initialize 1&#45;Wire. " alt="" coords="1178,779,1309,806"/>
+<area shape="rect" id="node32" href="$group__twr__log.html#ga09e88ba96b4141212f9860f7b50ec9f7" title="Log ERROR message (annotated in log as &lt;E&gt;) " alt="" coords="1443,526,1551,553"/>
+<area shape="rect" id="node33" href="$group__twr__onewire.html#gaec59dcd3d3dbc37ab40fce30fa139d75" title="Initialize 1&#45;Wire. " alt="" coords="890,661,1074,687"/>
+<area shape="rect" id="node34" href="$group__twr__ds2484.html#ga91bf94cf3df5fd958801ceea79f3e49c" title="Initialize DS2484. " alt="" coords="1181,881,1306,907"/>
+<area shape="rect" id="node35" href="$group__twr__ds2484.html#ga9cd7bd355924bcf0ae707cb3098d98c3" title="Enable DS2484. " alt="" coords="1169,729,1317,755"/>
+<area shape="rect" id="node36" href="$group__twr__ds2484.html#gaceb83a2f35ca8f7b979efcd3b69ba947" title="Disable DS2484. " alt="" coords="1168,627,1319,654"/>
+<area shape="rect" id="node37" href="$group__twr__ds2484.html#ga760e2bdd2cf5f11c5f2a4a0128244402" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="1175,678,1312,705"/>
+<area shape="rect" id="node38" href="$group__twr__log.html#ga28388886c1c6c6666159f97777aefd8c" title="Log WARNING message (annotated in log as &lt;W&gt;) " alt="" coords="1179,577,1308,603"/>
+<area shape="rect" id="node42" href="$group__twr__onewire.html#gae76801b3ecf96d048bec175924c11eb7" title="Enable call sleep mode for all ds28e17 after transaction. " alt="" coords="882,1041,1082,1083"/>
+<area shape="rect" id="node46" href="$group__twr__atsha204.html#ga2300596cbfe2ad7741e1d4929bc4d86b" title="Check if is ready for commands. " alt="" coords="401,697,573,723"/>
+<area shape="rect" id="node47" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="413,748,561,789"/>
+</map>

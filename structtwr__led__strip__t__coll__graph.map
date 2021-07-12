@@ -1,0 +1,4 @@
+<map id="twr_led_strip_t" name="twr_led_strip_t">
+<area shape="rect" id="node2" href="$structtwr__led__strip__driver__t.html" title="twr_led_strip_driver_t" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$structtwr__led__strip__buffer__t.html" title="twr_led_strip_buffer_t" alt="" coords="192,5,355,32"/>
+</map>

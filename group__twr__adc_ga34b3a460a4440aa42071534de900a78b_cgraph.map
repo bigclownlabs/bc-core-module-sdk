@@ -1,0 +1,5 @@
+<map id="twr_adc_calibration" name="twr_adc_calibration">
+<area shape="rect" id="node2" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="233,5,355,32"/>
+<area shape="rect" id="node3" href="$group__twr__adc.html#ga116e430db0221c8a12f1762425b75f14" title="Begins reading the ADC channel voltage in asynchronous mode. " alt="" coords="203,56,385,83"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="235,107,353,133"/>
+</map>

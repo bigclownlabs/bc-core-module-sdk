@@ -1,0 +1,5 @@
+<map id="twr_module_rs485_async_read" name="twr_module_rs485_async_read">
+<area shape="rect" id="node2" href="$group__twr__fifo.html#gac964da9bfe020888cd31365496280b5e" title="Read data from FIFO. " alt="" coords="276,31,383,57"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="431,5,552,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="432,56,551,83"/>
+</map>

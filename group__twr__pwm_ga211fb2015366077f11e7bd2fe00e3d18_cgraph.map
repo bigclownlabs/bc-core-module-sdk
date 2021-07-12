@@ -1,0 +1,5 @@
+<map id="twr_pwm_enable" name="twr_pwm_enable">
+<area shape="rect" id="node2" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="187,31,293,57"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="341,5,463,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="343,56,461,83"/>
+</map>

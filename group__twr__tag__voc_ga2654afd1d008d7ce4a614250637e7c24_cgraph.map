@@ -1,0 +1,6 @@
+<map id="twr_tag_voc_set_update_interval" name="twr_tag_voc_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__sgp30.html#ga88c82a88e3e745f0bd652b6433f69f3c" title="Set measurement interval. " alt="" coords="233,71,401,112"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="452,5,600,47"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="452,71,600,112"/>
+<area shape="rect" id="node5" href="$group__twr__sgp30.html#ga3610639ec6e906015a9c7869b1e2fcdf" title="Start measurement manually. " alt="" coords="449,137,603,163"/>
+</map>

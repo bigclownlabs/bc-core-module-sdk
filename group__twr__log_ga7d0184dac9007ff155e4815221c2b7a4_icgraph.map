@@ -1,0 +1,4 @@
+<map id="twr_log_debug" name="twr_log_debug">
+<area shape="rect" id="node2" href="$group__twr__cmwx1zzabz.html#gaf0fb139da084191b485084ef965983c9" title="Get pointer to string containg response on last sent command. " alt="" coords="171,5,333,47"/>
+<area shape="rect" id="node3" href="$group__twr__cmwx1zzabz.html#ga3fd7eea358f8d151d919b8397101b4d9" title="Set debugging flag which prints modem communication to twr_log. " alt="" coords="171,71,333,112"/>
+</map>

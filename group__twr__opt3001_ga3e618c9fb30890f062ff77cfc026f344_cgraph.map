@@ -1,0 +1,6 @@
+<map id="twr_opt3001_deinit" name="twr_opt3001_deinit">
+<area shape="rect" id="node2" href="$group__twr__i2c.html#gacaf2a9041a7908e29598536cf586d3bf" title="Memory write 2 bytes to I2C channel. " alt="" coords="200,13,403,39"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="208,63,395,90"/>
+<area shape="rect" id="node3" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="451,13,621,39"/>
+<area shape="rect" id="node4" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="669,5,836,47"/>
+</map>

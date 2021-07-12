@@ -1,0 +1,13 @@
+<map id="twr_fifo_is_empty" name="twr_fifo_is_empty">
+<area shape="rect" id="node2" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="192,79,399,106"/>
+<area shape="rect" id="node4" href="$group__twr__uart.html#gabe1881a63579335adf4aa6d726164c8d" title="Get data that has been received in async mode. " alt="" coords="217,195,374,222"/>
+<area shape="rect" id="node3" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="489,5,659,47"/>
+<area shape="rect" id="node5" href="$group__twr__atci.html#ga45cec5cc5b0173278f8277f2b8fa4eb3" title="Helper for help action. " alt="" coords="496,71,652,98"/>
+<area shape="rect" id="node6" href="$group__twr__cmwx1zzabz.html#ga3fd7eea358f8d151d919b8397101b4d9" title="Set debugging flag which prints modem communication to twr_log. " alt="" coords="493,123,655,164"/>
+<area shape="rect" id="node7" href="$group__twr__cmwx1zzabz.html#gaf0fb139da084191b485084ef965983c9" title="Get pointer to string containg response on last sent command. " alt="" coords="493,188,655,229"/>
+<area shape="rect" id="node8" href="$group__twr__esp8266.html#ga2754bcc44704cda430ec30004edb450f" title="Get received message data. " alt="" coords="476,253,672,295"/>
+<area shape="rect" id="node9" href="$group__twr__td1207r.html#ga05600b8913a68f90720e0b25e328cafc" title="Send RF frame command. " alt="" coords="497,319,651,360"/>
+<area shape="rect" id="node11" href="$group__twr__wssfm10r1at.html#gaffcd9ea4dfd89fee06ca56150a419a8a" title="Generate continuous wave command. " alt="" coords="447,385,701,411"/>
+<area shape="rect" id="node10" href="$group__twr__module__sigfox.html#gaa9a9f795d046045b52d78a3af5d8bd00" title="Send RF frame command. " alt="" coords="791,319,975,360"/>
+<area shape="rect" id="node12" href="$group__twr__module__sigfox.html#gad1d9edd03ddb05846308e1a8108b75c3" title="Generate continuous wave command. " alt="" coords="749,385,1016,411"/>
+</map>

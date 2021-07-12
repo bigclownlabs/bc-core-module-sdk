@@ -1,0 +1,3 @@
+<map id="twr_button_set_hold_time" name="twr_button_set_hold_time">
+<area shape="rect" id="node2" href="$group__twr__module__lcd.html#gac3fc59dfb048b655583333eb31f6a7dd" title="Set hold time (interval after which hold event is recognized when button is steadily pressed) ..." alt="" coords="244,5,396,47"/>
+</map>

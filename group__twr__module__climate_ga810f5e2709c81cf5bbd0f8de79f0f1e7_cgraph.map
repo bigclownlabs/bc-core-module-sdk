@@ -1,0 +1,5 @@
+<map id="twr_module_climate_measure_hygrometer" name="twr_module_climate_measure_hygrometer">
+<area shape="rect" id="node2" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="223,5,373,32"/>
+<area shape="rect" id="node4" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="223,56,373,83"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="421,23,569,65"/>
+</map>

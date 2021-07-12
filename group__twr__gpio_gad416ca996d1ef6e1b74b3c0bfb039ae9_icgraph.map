@@ -1,0 +1,51 @@
+<map id="twr_gpio_set_mode" name="twr_gpio_set_mode">
+<area shape="rect" id="node2" href="$group__twr__button.html#gab3ce21d11af932f49af50364e0a3f33e" title="Initialize button. " alt="" coords="253,56,373,83"/>
+<area shape="rect" id="node4" href="$group__twr__hc__sr04.html#ga62b9fe220602718424e1a61a20f811d0" title="Initialize HC&#45;SR04. " alt="" coords="249,183,377,209"/>
+<area shape="rect" id="node6" href="$group__twr__i2c.html#ga114617537fac26bae48276477de053d9" title="Deitialize I2C channel. " alt="" coords="256,376,369,403"/>
+<area shape="rect" id="node8" href="$group__twr__i2c.html#ga286eab51a1468de797ed590ef08f7984" title="Initialize I2C channel. " alt="" coords="264,705,361,732"/>
+<area shape="rect" id="node28" href="$group__twr__module__lcd.html#gae682f364f188a725410b3b9f74f530f8" title="Lcd get button driver. " alt="" coords="751,1154,904,1195"/>
+<area shape="rect" id="node32" href="$group__twr__led.html#gaad1e198afdaa9c66f49331cc829140f5" title="Initialize LED. " alt="" coords="263,1172,362,1199"/>
+<area shape="rect" id="node33" href="$group__twr__module__battery.html#ga541361981d1be7b1433879aa4f3649dc" title="Get Battery Module is pressent, can use without twr_module_battery_init. " alt="" coords="236,1223,389,1265"/>
+<area shape="rect" id="node34" href="$group__twr__module__encoder.html#gaa5ebbb7d15bc1ff541b08248841218a9" title="Deinitialize Encoder Module. " alt="" coords="233,1289,392,1330"/>
+<area shape="rect" id="node35" href="$group__twr__module__encoder.html#ga2f1ce6e98422e0f27db2995166d6e22a" title="Get Encoder Module is pressent, can use without twr_module_encoder_init. " alt="" coords="233,1354,392,1395"/>
+<area shape="rect" id="node36" href="$group__twr__module__power.html#gae9a4f07408db9077eebcfd2ca5de80ce" title="Initialize power module. " alt="" coords="225,1420,400,1447"/>
+<area shape="rect" id="node37" href="$group__twr__module__sensor.html#ga0f495975580e87fd5b28e28cda54da3b" title="Set output mode of Sensor Module channel. " alt="" coords="203,1471,423,1497"/>
+<area shape="rect" id="node40" href="$group__twr__pwm.html#gafaa2eb6fa082ecfd18388c1c6441b826" title="Disable PWM output on GPIO pin. " alt="" coords="245,1521,381,1548"/>
+<area shape="rect" id="node41" href="$group__twr__pyq1648.html#ga3afe3ee4fc8819a671a33ff3d30c2a6e" title="Set blank period (for how long alarm events will be ignored) " alt="" coords="225,1573,401,1614"/>
+<area shape="rect" id="node42" href="$group__twr__rf__ook.html#gafbf0ddf229131f7d11a72ba18f613ece" title="Initialize RF OOK library. " alt="" coords="253,1639,372,1665"/>
+<area shape="rect" id="node43" href="$group__twr__switch.html#ga2282cb638a2ad3fef57a95829a65b25b" title="Initialize button. " alt="" coords="253,1689,373,1716"/>
+<area shape="rect" id="node44" href="$group__twr__td1207r.html#ga53c0018c5c2b99a545f332605d5f51f9" title="Initialize TD1207R. " alt="" coords="517,1736,645,1763"/>
+<area shape="rect" id="node46" href="$group__twr__uart.html#gacfd54a34c04b83cc519f94d1666864a6" title="Deinitialize UART channel. " alt="" coords="253,1791,373,1817"/>
+<area shape="rect" id="node47" href="$group__twr__uart.html#ga229996e57c54475279dcc2b093afa85a" title="Initialize UART channel. " alt="" coords="261,1841,365,1868"/>
+<area shape="rect" id="node50" href="$group__twr__wssfm10r1at.html#ga94714e8ac7c54febaf3b96a09975a203" title="Initialize WSSFM10R1AT. " alt="" coords="500,1904,663,1931"/>
+<area shape="rect" id="node3" href="$group__twr__module__encoder.html#ga4254e0aea8071ae292f4bf220724428b" title="Initialize Encoder Module. " alt="" coords="488,5,675,32"/>
+<area shape="rect" id="node5" href="$group__twr__hc__sr04.html#ga0fcaa7fd3add9355156ce1f41ec0255e" title="Initialize HC&#45;SR04 for sensor module. " alt="" coords="492,57,671,98"/>
+<area shape="rect" id="node7" href="$group__twr__zssc3123.html#ga031864ee2f0e8de9b11fcf3600880f02" title="Deitialize ZSSC3123. " alt="" coords="504,123,659,149"/>
+<area shape="rect" id="node9" href="$group__twr__atsha204.html#ga41033791fc10ee37c46c2a33da3f1d89" title="Initialize ATSHA204 driver. " alt="" coords="512,173,651,200"/>
+<area shape="rect" id="node10" href="$group__twr__cy8cmbr3102.html#gac38ca1fc3b8d6cc240fdb532bd21fb41" title="Initialize CY8CMBR3102. " alt="" coords="498,224,665,251"/>
+<area shape="rect" id="node11" href="$group__twr__ds2484.html#ga91bf94cf3df5fd958801ceea79f3e49c" title="Initialize DS2484. " alt="" coords="519,275,644,301"/>
+<area shape="rect" id="node12" href="$group__twr__hdc2080.html#ga5f3972a44ca57d73825b79d4a7659292" title="Initialize HDC2080. " alt="" coords="515,325,648,352"/>
+<area shape="rect" id="node13" href="$group__twr__hts221.html#gacdcd126b54925d84afe88a36785fd27c" title="Initialize HTS221. " alt="" coords="520,376,643,403"/>
+<area shape="rect" id="node14" href="$group__twr__lis2dh12.html#ga9eb4b97c1466fe2d44f397141cddcb9e" title="Initialize LIS2DH12. " alt="" coords="515,427,648,453"/>
+<area shape="rect" id="node15" href="$group__twr__module__infra__grid.html#gaa35590b16b1edbe6727c78186497483d" title="Initialize Infra Grid Module. " alt="" coords="483,477,679,504"/>
+<area shape="rect" id="node16" href="$group__twr__mpl3115a2.html#ga0478691a3bb93e1a206ab387551f1ab2" title="Initialize MPL3115A2. " alt="" coords="506,528,657,555"/>
+<area shape="rect" id="node17" href="$group__twr__opt3001.html#ga09d25476cb40eacd8ddfb46fb467a483" title="Initialize OPT3001 driver. " alt="" coords="516,579,647,605"/>
+<area shape="rect" id="node18" href="$group__twr__sam__m8q.html#ga1fb3c90e8f69e657f69951ff1e10c407" title="Initialize SAM&#45;M8Q module driver. " alt="" coords="510,629,653,656"/>
+<area shape="rect" id="node19" href="$group__twr__sc16is740.html#gaa00e1266f0a933406c6da523d6ab15bb" title="SC16IS740 instance. " alt="" coords="510,680,653,707"/>
+<area shape="rect" id="node20" href="$group__twr__sgp30.html#ga9e14d1c5e6c734bd24eecbc0a9439c63" title="Initialize SGP30. " alt="" coords="523,731,640,757"/>
+<area shape="rect" id="node21" href="$group__twr__sgpc3.html#gaaae669956807dfe7bc1fb8c95de51255" title="Initialize SGPC3. " alt="" coords="523,781,639,808"/>
+<area shape="rect" id="node22" href="$group__twr__sht20.html#ga14adff3ac34db00b088d01b7741e740e" title="Initialize SHT20. " alt="" coords="524,832,639,859"/>
+<area shape="rect" id="node23" href="$group__twr__sht30.html#gae0ac142fe97c9423880e8bde9d7f6b5e" title="Initialize SHT30. " alt="" coords="524,883,639,909"/>
+<area shape="rect" id="node24" href="$group__twr__sps30.html#ga19948f548553feaefc505f6a40b9ad8b" title="Initialize SPS30. " alt="" coords="523,933,639,960"/>
+<area shape="rect" id="node25" href="$group__twr__ssd1306.html#ga3db5b63010927ffe69a1aa68a975c6d4" title="Initialize lcd driver. " alt="" coords="515,984,647,1011"/>
+<area shape="rect" id="node26" href="$group__twr__tag__nfc.html#ga47b20be5c3cb5180970f22eba447160d" title="Initialize NFC Tag. " alt="" coords="518,1035,645,1061"/>
+<area shape="rect" id="node27" href="$group__twr__tca9534a.html#gacf098ee03916b91aebbda19827577948" title="Initialize TCA9534A. " alt="" coords="512,1085,651,1112"/>
+<area shape="rect" id="node30" href="$group__twr__tmp112.html#gaeafc95258a46da4c0c521230f148e812" title="Initialize TMP112. " alt="" coords="517,1136,645,1163"/>
+<area shape="rect" id="node31" href="$group__twr__zssc3123.html#gae957ecbdcaf4834b43a09998a95b2b2a" title="Initialize ZSSC3123. " alt="" coords="512,1187,651,1213"/>
+<area shape="rect" id="node29" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="963,1154,1115,1195"/>
+<area shape="rect" id="node38" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="471,1434,692,1475"/>
+<area shape="rect" id="node39" href="$group__twr__pulse__counter.html#ga0d8120cc233f7a2a2a515b5dac93610b" title="Initialize pulse counter. " alt="" coords="497,1500,666,1527"/>
+<area shape="rect" id="node45" href="$group__twr__module__sigfox.html#gacb5e7a3de45a989de0f0670f906b36aa" title="Initialize HARDWARIO SigFox Module. " alt="" coords="740,1820,915,1847"/>
+<area shape="rect" id="node48" href="$group__twr__atci.html#gad254650b10cbb18f6ae1c3cf13e2c6d9" title="Set callback function for scan if uart is active. Used for low&#45;power when USB is disconnected (defaul..." alt="" coords="491,1787,672,1829"/>
+<area shape="rect" id="node49" href="$group__twr__cmwx1zzabz.html#ga14d4c613489903dd50463f4f45b21cbe" title="Initialize CMWX1ZZABZ. " alt="" coords="500,1853,663,1880"/>
+</map>

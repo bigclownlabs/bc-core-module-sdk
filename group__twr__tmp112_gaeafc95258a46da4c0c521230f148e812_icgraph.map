@@ -1,0 +1,5 @@
+<map id="twr_tmp112_init" name="twr_tmp112_init">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="193,5,356,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#gac0193120827c4b27167e0bdfba926b64" title="Initialize HARDWARIO Climate Module. " alt="" coords="183,71,366,98"/>
+<area shape="rect" id="node4" href="$group__twr__tag__temperature.html#ga0d125e90e3391320e1a6f876deb72e14" title="Initialize HARDWARIO Temperature Module. " alt="" coords="181,122,368,149"/>
+</map>

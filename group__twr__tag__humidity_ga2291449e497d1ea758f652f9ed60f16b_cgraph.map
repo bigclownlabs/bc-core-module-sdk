@@ -1,0 +1,7 @@
+<map id="twr_tag_humidity_measure" name="twr_tag_humidity_measure">
+<area shape="rect" id="node2" href="$group__twr__hts221.html#ga68eca06c20d7fce261fe0f78c6335577" title="Start measurement manually. " alt="" coords="259,5,417,32"/>
+<area shape="rect" id="node4" href="$group__twr__hdc2080.html#ga929d607172bbc24091380e0faa8fdd30" title="Start measurement manually. " alt="" coords="253,56,423,83"/>
+<area shape="rect" id="node5" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="263,107,413,133"/>
+<area shape="rect" id="node6" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="263,157,413,184"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="471,74,619,115"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="twr_i2c_write" name="twr_i2c_write">
+<area shape="rect" id="node2" href="$group__twr__atsha204.html#ga0a5e96713dbb8a2b4e7c526bf42e3f03" title="Get serial number. " alt="" coords="179,5,361,47"/>
+<area shape="rect" id="node3" href="$group__twr__sam__m8q.html#ga6d5d8c0a134f56e3a9d4763a1051c084" title="Get accuracy. " alt="" coords="167,71,373,98"/>
+<area shape="rect" id="node5" href="$group__twr__sgp30.html#gaa82d36df88b8a019e4a16cc2b4c3bc05" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="163,122,377,149"/>
+<area shape="rect" id="node7" href="$group__twr__sgpc3.html#ga342896f1abc29b9c1b4eb439fa141acf" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="163,173,377,199"/>
+<area shape="rect" id="node9" href="$group__twr__sht20.html#ga5ef3b4a449cdcc3aa0b479559bfb6110" title="Get measured temperature in kelvin. " alt="" coords="169,224,371,265"/>
+<area shape="rect" id="node10" href="$group__twr__sht30.html#ga3d783362a8fc81b326a8e43a9e404625" title="Get measured temperature in kelvin. " alt="" coords="169,289,371,331"/>
+<area shape="rect" id="node12" href="$group__twr__sps30.html#gaed5e4a55ca2d4bf997f781cc31b20f10" title="Get measured typical particle size in μm. " alt="" coords="187,355,353,396"/>
+<area shape="rect" id="node13" href="$group__twr__zssc3123.html#ga9cb202ab75e29f0b81150e7956e5d2fd" title="Unlock eerpom, work only with command mode. " alt="" coords="190,420,350,461"/>
+<area shape="rect" id="node4" href="$group__twr__module__gps.html#gabb8286b7464026ee933c74b8e857607e" title="Get accuracy. " alt="" coords="460,56,617,97"/>
+<area shape="rect" id="node6" href="$group__twr__tag__voc.html#gadcfe758f81af5b6d092c7a6ef2a94ed3" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="425,122,652,149"/>
+<area shape="rect" id="node8" href="$group__twr__tag__voc__lp.html#ga79936075a9c34d669e8f26aa01eb9f82" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="465,173,612,215"/>
+<area shape="rect" id="node11" href="$group__twr__module__climate.html#ga12952a030dfe35b40da2c50f8189510a" title="Get measured temperature in kelvin. " alt="" coords="446,289,631,331"/>
+</map>

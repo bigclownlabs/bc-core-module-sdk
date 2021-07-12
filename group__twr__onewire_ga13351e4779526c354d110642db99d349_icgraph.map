@@ -1,0 +1,4 @@
+<map id="twr_onewire_search_start" name="twr_onewire_search_start">
+<area shape="rect" id="node2" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="205,5,427,47"/>
+<area shape="rect" id="node3" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="241,71,391,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="twr_module_lcd_draw_line" name="twr_module_lcd_draw_line">
+<area shape="rect" id="node2" href="$group__twr__gfx.html#ga19710773f252b15bbe4d7b61bd404159" title="Display draw line. " alt="" coords="248,5,389,32"/>
+<area shape="rect" id="node3" href="$group__twr__gfx.html#ga9e666cc5a7148f345d1f55edd68c98e8" title="Draw pixel. " alt="" coords="437,5,587,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="twr_dma_channel_config" name="twr_dma_channel_config">
+<area shape="rect" id="node2" href="$group__twr__dac.html#gae990bccd16c1e9ea1eee3de4df03b271" title="Start asynchronous DAC channel operation. " alt="" coords="249,5,395,32"/>
+<area shape="rect" id="node3" href="$group__twr__spi.html#ga45a2f6588eb5570c30b037d8d5b6215b" title="Execute async SPI transfer. " alt="" coords="236,56,408,83"/>
+<area shape="rect" id="node7" href="$group__twr__uart.html#ga7548c8f5c14f670e12e0ee45afb3e5de" title="Start async reading. " alt="" coords="243,118,401,159"/>
+<area shape="rect" id="node4" href="$group__twr__ls013b7dh03.html#ga5dd7bca36feb74b56a49bc50ec9922c2" title="Lcd update, send data. " alt="" coords="456,45,641,72"/>
+<area shape="rect" id="node5" href="$group__twr__ls013b7dh03.html#ga18b9d88fcc2b534a25791d8b398507d0" title="Get Lcd driver. " alt="" coords="696,38,857,79"/>
+<area shape="rect" id="node6" href="$group__twr__module__lcd.html#gaf934e9beb1adcc41bda7441b94837640" title="Initialize lcd. " alt="" coords="912,45,1065,72"/>
+<area shape="rect" id="node8" href="$group__twr__cmwx1zzabz.html#ga14d4c613489903dd50463f4f45b21cbe" title="Initialize CMWX1ZZABZ. " alt="" coords="467,96,630,123"/>
+<area shape="rect" id="node9" href="$group__twr__td1207r.html#ga53c0018c5c2b99a545f332605d5f51f9" title="Initialize TD1207R. " alt="" coords="485,147,613,173"/>
+<area shape="rect" id="node11" href="$group__twr__wssfm10r1at.html#ga94714e8ac7c54febaf3b96a09975a203" title="Initialize WSSFM10R1AT. " alt="" coords="467,197,630,224"/>
+<area shape="rect" id="node10" href="$group__twr__module__sigfox.html#gacb5e7a3de45a989de0f0670f906b36aa" title="Initialize HARDWARIO SigFox Module. " alt="" coords="689,172,864,199"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="twr_button_set_debounce_time" name="twr_button_set_debounce_time">
+<area shape="rect" id="node2" href="$group__twr__module__lcd.html#ga540e703943fddb68839453956f2f36fe" title="Set debounce time (minimum sampling interval during which input cannot change to toggle its state) ..." alt="" coords="280,5,459,47"/>
+</map>

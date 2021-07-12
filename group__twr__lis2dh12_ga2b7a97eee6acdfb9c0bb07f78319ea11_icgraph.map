@@ -1,0 +1,6 @@
+<map id="twr_lis2dh12_measure" name="twr_lis2dh12_measure">
+<area shape="rect" id="node2" href="$group__twr__lis2dh12.html#gac0a5cfd7920a78418f972bdd379ac2e0" title="Get measured acceleration in g. " alt="" coords="223,5,415,32"/>
+<area shape="rect" id="node3" href="$group__twr__lis2dh12.html#gaf7e9161364c7e7835cb5d10d7917b1ac" title="Enable or disable accelerometer threshold alarm. " alt="" coords="230,56,407,83"/>
+<area shape="rect" id="node4" href="$group__twr__lis2dh12.html#gaf224f1c1813917ed3aa52c24eed9bddb" title="Set scale. " alt="" coords="232,107,405,133"/>
+<area shape="rect" id="node5" href="$group__twr__lis2dh12.html#ga880091e432e70787d287d4d6efd186a2" title="Set measurement interval. " alt="" coords="227,158,411,199"/>
+</map>

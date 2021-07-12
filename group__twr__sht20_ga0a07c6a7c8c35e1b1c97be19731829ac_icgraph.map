@@ -1,0 +1,5 @@
+<map id="twr_sht20_get_temperature_celsius" name="twr_sht20_get_temperature_celsius">
+<area shape="rect" id="node2" href="$group__twr__sht20.html#gadbd9cea7c87d4cc06299c05cfca1c556" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$group__twr__sht20.html#ga5ef3b4a449cdcc3aa0b479559bfb6110" title="Get measured temperature in kelvin. " alt="" coords="256,71,459,112"/>
+<area shape="rect" id="node4" href="$group__twr__tag__humidity.html#ga697b69dfc8fe0d8fbb77fdcf85687f15" title="Get measured temperature in degrees of Celsius. " alt="" coords="275,136,439,177"/>
+</map>

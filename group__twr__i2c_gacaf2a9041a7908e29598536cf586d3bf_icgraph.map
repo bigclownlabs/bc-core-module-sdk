@@ -1,0 +1,18 @@
+<map id="twr_i2c_memory_write_16b" name="twr_i2c_memory_write_16b">
+<area shape="rect" id="node2" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="273,27,480,54"/>
+<area shape="rect" id="node4" href="$group__twr__opt3001.html#ga3e618c9fb30890f062ff77cfc026f344" title="Deinitialize OPT3001 driver. " alt="" coords="303,97,450,123"/>
+<area shape="rect" id="node5" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="256,147,497,174"/>
+<area shape="rect" id="node8" href="$group__twr__tmp112.html#gab6f4547cfce8ffba814833740cc66851" title="Deinitialize TMP112. " alt="" coords="305,205,449,231"/>
+<area shape="rect" id="node10" href="$group__twr__tmp112.html#ga12df9950a886baa5df540771f624822f" title="Get measured temperature in kelvin. " alt="" coords="269,256,485,297"/>
+<area shape="rect" id="node13" href="$group__twr__zssc3123.html#ga43b4449d8101b0ee2b6cd1f5b46cfd04" title="Write to eeprom, work only with command mode. " alt="" coords="275,322,478,349"/>
+<area shape="rect" id="node14" href="$group__twr__zssc3123.html#gafd822369f4f332ba47761b4838ee6ae8" title="Read from eeprm, work only with command mode. " alt="" coords="293,373,460,415"/>
+<area shape="rect" id="node15" href="$group__twr__zssc3123.html#ga6b6b9ff5a9f6d30a81a4b9699ede123e" title="Ends Command Mode. " alt="" coords="293,439,461,466"/>
+<area shape="rect" id="node16" href="$group__twr__zssc3123.html#gafb7b5938a6fecadc5ccff4262380eda1" title="Start Command Mode. " alt="" coords="289,490,464,517"/>
+<area shape="rect" id="node17" href="$group__twr__zssc3123.html#ga9cb202ab75e29f0b81150e7956e5d2fd" title="Unlock eerpom, work only with command mode. " alt="" coords="297,541,457,583"/>
+<area shape="rect" id="node3" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="553,5,723,47"/>
+<area shape="rect" id="node6" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="558,71,718,112"/>
+<area shape="rect" id="node7" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="552,136,724,177"/>
+<area shape="rect" id="node9" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="557,201,719,243"/>
+<area shape="rect" id="node11" href="$group__twr__module__climate.html#ga12952a030dfe35b40da2c50f8189510a" title="Get measured temperature in kelvin. " alt="" coords="545,267,731,308"/>
+<area shape="rect" id="node12" href="$group__twr__tag__temperature.html#ga994d04b114b7556ed73cd903e60e80fc" title="Get measured temperature in kelvin. " alt="" coords="545,332,731,373"/>
+</map>

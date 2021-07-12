@@ -1,0 +1,5 @@
+<map id="twr_module_pir_init" name="twr_module_pir_init">
+<area shape="rect" id="node2" href="$group__twr__pyq1648.html#ga60a3f73bd63c76677c884d3f6284d3b7" title="Initialize PYQ1648 driver. " alt="" coords="204,31,339,57"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="387,5,557,32"/>
+<area shape="rect" id="node4" href="$group__twr__timer.html#ga8b95ffe85fa185b79d7b4c2eea961491" title="Initialize timer. " alt="" coords="415,56,529,83"/>
+</map>

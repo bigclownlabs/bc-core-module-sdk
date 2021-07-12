@@ -1,0 +1,4 @@
+<map id="twr_module_lcd_draw_circle" name="twr_module_lcd_draw_circle">
+<area shape="rect" id="node2" href="$group__twr__gfx.html#ga98421792337c0187cbcf6376d8f46a6b" title="Lcd draw circle, using Midpoint circle algorithm. " alt="" coords="217,13,369,39"/>
+<area shape="rect" id="node3" href="$group__twr__gfx.html#ga9e666cc5a7148f345d1f55edd68c98e8" title="Draw pixel. " alt="" coords="417,13,567,39"/>
+</map>

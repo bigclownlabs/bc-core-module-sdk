@@ -1,0 +1,6 @@
+<map id="twr_onewire_relay_get_state" name="twr_onewire_relay_get_state">
+<area shape="rect" id="node2" href="$group__twr__onewire.html#ga6441ee52c20b2381ab08d9cb0ee96ac1" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="242,5,385,32"/>
+<area shape="rect" id="node3" href="$group__twr__onewire.html#gaaf771beb6eccc2dcbe3dbc5051f59778" title="Select device. " alt="" coords="239,56,387,83"/>
+<area shape="rect" id="node4" href="$group__twr__onewire.html#ga09366edf3185fa880e8ebeb26e84b3d7" title="Select device. " alt="" coords="224,107,403,133"/>
+<area shape="rect" id="node5" href="$group__twr__onewire.html#gaafc6eafbe2c69bcaed5876c3aa418635" title="Select device. " alt="" coords="226,157,401,184"/>
+</map>

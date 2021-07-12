@@ -1,0 +1,7 @@
+<map id="twr_delay_us" name="twr_delay_us">
+<area shape="rect" id="node2" href="$group__twr__timer.html#ga8b95ffe85fa185b79d7b4c2eea961491" title="Initialize timer. " alt="" coords="169,5,282,32"/>
+<area shape="rect" id="node3" href="$group__twr__timer.html#gab94da353716218723f9af0a07017e99b" title="Start timer. " alt="" coords="164,56,287,83"/>
+<area shape="rect" id="node4" href="$group__twr__timer.html#gaa059ce422d0c0c67a3cd5c9d90c0877f" title="Relative delay. " alt="" coords="161,107,289,133"/>
+<area shape="rect" id="node6" href="$group__twr__timer.html#gaa30d762d9247fd4d2baba987a6abd309" title="Stop timer. " alt="" coords="165,157,285,184"/>
+<area shape="rect" id="node5" href="$group__twr__timer.html#gacc752416f6a5c8c0fb012d7366836c40" title="Get actual tick of timer. " alt="" coords="337,107,548,133"/>
+</map>

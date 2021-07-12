@@ -1,0 +1,12 @@
+<map id="twr_switch_set_pull_advance_time" name="twr_switch_set_pull_advance_time">
+<area shape="rect" id="node2" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="239,31,375,57"/>
+<area shape="rect" id="node5" href="$group__twr__timer.html#gab94da353716218723f9af0a07017e99b" title="Start timer. " alt="" coords="246,81,369,108"/>
+<area shape="rect" id="node6" href="$group__twr__timer.html#gaa059ce422d0c0c67a3cd5c9d90c0877f" title="Relative delay. " alt="" coords="243,132,371,159"/>
+<area shape="rect" id="node8" href="$group__twr__timer.html#gaa30d762d9247fd4d2baba987a6abd309" title="Stop timer. " alt="" coords="247,183,367,209"/>
+<area shape="rect" id="node9" href="$group__twr__gpio.html#gabfbe0f42fa02fd72b4584fdd0964ea3f" title="Get input state for GPIO channel. " alt="" coords="234,233,381,260"/>
+<area shape="rect" id="node10" href="$group__twr__scheduler.html#gab25eb80ff164190c8b03427fe461671e" title="Get current tick of spin in which task has been run. " alt="" coords="204,284,411,311"/>
+<area shape="rect" id="node11" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="233,335,381,377"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="503,5,625,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="505,56,623,83"/>
+<area shape="rect" id="node7" href="$group__twr__timer.html#gacc752416f6a5c8c0fb012d7366836c40" title="Get actual tick of timer. " alt="" coords="459,132,669,159"/>
+</map>

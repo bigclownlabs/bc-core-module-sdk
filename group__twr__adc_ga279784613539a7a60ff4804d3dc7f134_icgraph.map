@@ -1,0 +1,4 @@
+<map id="twr_adc_set_event_handler" name="twr_adc_set_event_handler">
+<area shape="rect" id="node2" href="$group__twr__analog__sensor.html#ga8d54c4b9dd4a4c2873dba319fe85763d" title="Initialize generic analog sensor. " alt="" coords="253,5,425,32"/>
+<area shape="rect" id="node3" href="$group__twr__module__battery.html#ga541361981d1be7b1433879aa4f3649dc" title="Get Battery Module is pressent, can use without twr_module_battery_init. " alt="" coords="263,57,416,98"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="twr_sht20_measure" name="twr_sht20_measure">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#gacb5a39bd817d0523dea9952d97c05809" title="Start measurement of all sensors manually. " alt="" coords="222,5,389,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#ga810f5e2709c81cf5bbd0f8de79f0f1e7" title="Start hygrometer measurement manually. " alt="" coords="221,71,390,112"/>
+<area shape="rect" id="node4" href="$group__twr__sht20.html#ga5ef3b4a449cdcc3aa0b479559bfb6110" title="Get measured temperature in kelvin. " alt="" coords="204,136,407,177"/>
+<area shape="rect" id="node5" href="$group__twr__sht20.html#ga35a052c5aee9a39e5a022e829e0a2b05" title="Set measurement interval. " alt="" coords="223,201,388,243"/>
+<area shape="rect" id="node10" href="$group__twr__tag__humidity.html#ga2291449e497d1ea758f652f9ed60f16b" title="Start measurement manually. " alt="" coords="205,267,405,294"/>
+<area shape="rect" id="node6" href="$group__twr__module__climate.html#gaa2360d9f20f8731bec68ddb26f8d24fe" title="Set measurement interval for all sensors. " alt="" coords="457,77,615,133"/>
+<area shape="rect" id="node7" href="$group__twr__module__climate.html#gad9f3ffe7f34d03ae9f62606b9ce87d94" title="Set measurement interval for hygrometer. " alt="" coords="457,157,615,213"/>
+<area shape="rect" id="node8" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="455,237,617,279"/>
+<area shape="rect" id="node9" href="$group__twr__tag__humidity.html#ga379580ba5d37cee41665a2cf14a788eb" title="Set measurement interval. " alt="" coords="455,303,617,344"/>
+</map>

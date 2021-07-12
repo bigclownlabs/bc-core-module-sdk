@@ -1,0 +1,7 @@
+<map id="twr_sgpc3_measure" name="twr_sgpc3_measure">
+<area shape="rect" id="node2" href="$group__twr__sgpc3.html#ga342896f1abc29b9c1b4eb439fa141acf" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="205,15,420,42"/>
+<area shape="rect" id="node4" href="$group__twr__sgpc3.html#ga33b9a2231e044403f00eb95b84d9be22" title="Set measurement interval. " alt="" coords="229,69,396,111"/>
+<area shape="rect" id="node6" href="$group__twr__tag__voc__lp.html#ga6c9e47d4075243bfab11cec67c12969a" title="Start measurement manually. " alt="" coords="221,135,405,162"/>
+<area shape="rect" id="node3" href="$group__twr__tag__voc__lp.html#ga79936075a9c34d669e8f26aa01eb9f82" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="468,5,615,47"/>
+<area shape="rect" id="node5" href="$group__twr__tag__voc__lp.html#ga612b9a8b8139deab9262419a1c362277" title="Set measurement interval. " alt="" coords="468,71,615,112"/>
+</map>

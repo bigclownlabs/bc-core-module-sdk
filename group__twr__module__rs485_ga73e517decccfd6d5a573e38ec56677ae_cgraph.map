@@ -1,0 +1,6 @@
+<map id="twr_module_rs485_deinit" name="twr_module_rs485_deinit">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="244,5,431,32"/>
+<area shape="rect" id="node3" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="240,56,435,83"/>
+<area shape="rect" id="node4" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="483,56,653,83"/>
+<area shape="rect" id="node5" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="701,49,868,90"/>
+</map>

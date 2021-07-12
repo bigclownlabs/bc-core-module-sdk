@@ -1,0 +1,10 @@
+<map id="twr_ls013b7dh03_init" name="twr_ls013b7dh03_init">
+<area shape="rect" id="node2" href="$group__twr__spi.html#gae1b616314428966dcbe0034b696beb05" title="Initialize SPI channel. " alt="" coords="215,132,312,159"/>
+<area shape="rect" id="node3" href="$group__twr__spi.html#ga9c2919414372254181d38f34e2a59e0f" title="Set SPI communication speed. " alt="" coords="392,5,535,32"/>
+<area shape="rect" id="node4" href="$group__twr__spi.html#gab5175f450869e4f4bbe446967fb9fe03" title="Set SPI mode of operation. " alt="" coords="393,56,533,83"/>
+<area shape="rect" id="node5" href="$group__twr__dma.html#ga7bd1f60a61692a40e29d7ae4992f0c3d" title="Initialize DMA. " alt="" coords="410,107,517,133"/>
+<area shape="rect" id="node7" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="615,157,785,184"/>
+<area shape="rect" id="node8" href="$group__twr__timer.html#ga8b95ffe85fa185b79d7b4c2eea961491" title="Initialize timer. " alt="" coords="407,208,520,235"/>
+<area shape="rect" id="node9" href="$group__twr__dma.html#ga55dce1090705bb46d493341972ca25ac" title="Set callback function. " alt="" coords="360,259,567,285"/>
+<area shape="rect" id="node6" href="$group__twr__fifo.html#gae90183e9e9b656a8733ebfaaa4f25bae" title="Initialize FIFO buffer. " alt="" coords="651,107,749,133"/>
+</map>

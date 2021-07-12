@@ -1,0 +1,5 @@
+<map id="twr_hdc2080_get_humidity_raw" name="twr_hdc2080_get_humidity_raw">
+<area shape="rect" id="node2" href="$group__twr__hdc2080.html#ga9cd03de810f829e8400c97e690632c8b" title="Get measured humidity as percentage. " alt="" coords="283,5,481,47"/>
+<area shape="rect" id="node4" href="$group__twr__tag__humidity.html#ga52d06895b567cba9afe6cde985598edc" title="Get measured humidity as raw value. " alt="" coords="300,71,464,112"/>
+<area shape="rect" id="node3" href="$group__twr__tag__humidity.html#ga86572e19d178962f0abc64f24e583273" title="Get measured humidity as percentage. " alt="" coords="529,5,696,47"/>
+</map>

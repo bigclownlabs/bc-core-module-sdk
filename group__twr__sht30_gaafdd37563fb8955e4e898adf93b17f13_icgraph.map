@@ -1,0 +1,4 @@
+<map id="twr_sht30_set_event_handler" name="twr_sht30_set_event_handler">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="211,5,374,47"/>
+<area shape="rect" id="node3" href="$group__twr__tag__humidity.html#gac73ff22c8edb01a26e1654743266e47d" title="Initialize HARDWARIO Humidity Module. " alt="" coords="211,71,375,98"/>
+</map>

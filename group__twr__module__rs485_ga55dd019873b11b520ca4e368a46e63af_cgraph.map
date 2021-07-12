@@ -1,0 +1,18 @@
+<map id="twr_module_rs485_available" name="twr_module_rs485_available">
+<area shape="rect" id="node2" href="$group__twr__sc16is740.html#gacf4cd9e7237019023d396ad55a27513c" title="Get RX FIXO available data. " alt="" coords="263,249,445,275"/>
+<area shape="rect" id="node3" href="$group__twr__i2c.html#gaedddada7a7d84f001b34bb42c731cf1f" title="Memory read 1 byte from I2C channel. " alt="" coords="493,249,684,275"/>
+<area shape="rect" id="node4" href="$group__twr__i2c.html#ga95b02a5c1d0636f36d58b7fc212d9174" title="Memory read from I2C channel. " alt="" coords="732,249,899,275"/>
+<area shape="rect" id="node5" href="$group__twr__ds28e17.html#ga5778c65f5dd6eb1b541f2350422ca015" title="Memory read from I2C. " alt="" coords="947,249,1149,275"/>
+<area shape="rect" id="node6" href="$group__twr__onewire.html#ga62d16eadaa229627e490ecb48f7389a6" title="Start transaction, enable pll and run timer. " alt="" coords="1215,5,1397,47"/>
+<area shape="rect" id="node7" href="$group__twr__onewire.html#ga6441ee52c20b2381ab08d9cb0ee96ac1" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="1235,71,1377,98"/>
+<area shape="rect" id="node8" href="$group__twr__onewire.html#gad0d9fbf6c1f6e9806f3409a92042f981" title="Stop transaction. " alt="" coords="1197,122,1415,149"/>
+<area shape="rect" id="node9" href="$group__twr__onewire.html#gac163fd0b3fe8b4aa8eb875443d328fb4" title="Calculate 16&#45;bit CRC, polynomial 0x8005. " alt="" coords="1234,173,1378,199"/>
+<area shape="rect" id="node10" href="$group__twr__onewire.html#gaaf771beb6eccc2dcbe3dbc5051f59778" title="Select device. " alt="" coords="1232,223,1380,250"/>
+<area shape="rect" id="node11" href="$group__twr__onewire.html#ga0342106061d58212efc91ebad24579dd" title="Select device. " alt="" coords="1235,274,1377,301"/>
+<area shape="rect" id="node12" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="1255,325,1357,351"/>
+<area shape="rect" id="node15" href="$group__twr__onewire.html#gacc7fb763cff4065214a50a809ac73f06" title="Select device. " alt="" coords="1225,375,1387,402"/>
+<area shape="rect" id="node16" href="$group__twr__onewire.html#gaafc6eafbe2c69bcaed5876c3aa418635" title="Select device. " alt="" coords="1219,426,1393,453"/>
+<area shape="rect" id="node17" href="$group__twr__onewire.html#gaa31f28e38411caf6badad7a5f59a13e1" title="Select device. " alt="" coords="1237,477,1375,503"/>
+<area shape="rect" id="node13" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="1463,299,1584,326"/>
+<area shape="rect" id="node14" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="1464,350,1583,377"/>
+</map>

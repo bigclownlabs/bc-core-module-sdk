@@ -1,0 +1,5 @@
+<map id="twr_sgpc3_set_update_interval" name="twr_sgpc3_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="222,5,370,47"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="222,71,370,112"/>
+<area shape="rect" id="node4" href="$group__twr__sgpc3.html#ga3bfe52a0b8878ec24b81f30c0e82f7e5" title="Start measurement manually. " alt="" coords="220,137,372,163"/>
+</map>

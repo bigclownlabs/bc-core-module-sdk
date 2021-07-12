@@ -1,0 +1,6 @@
+<map id="twr_gfx_draw_char" name="twr_gfx_draw_char">
+<area shape="rect" id="node2" href="$group__twr__gfx.html#gac2f0e0a27ef49d34ded0a0342a114d4b" title="Display draw string. " alt="" coords="221,35,375,61"/>
+<area shape="rect" id="node5" href="$group__twr__module__lcd.html#ga1c5d5339e5c024146b24264316e2bb3b" title="Lcd draw char. " alt="" coords="199,85,397,112"/>
+<area shape="rect" id="node3" href="$group__twr__gfx.html#gae8cdb46e8f575d3974ff9d91d2432a87" title="Display string. " alt="" coords="471,5,584,32"/>
+<area shape="rect" id="node4" href="$group__twr__module__lcd.html#ga66de7eab1c999f28087ffd22e3e0445c" title="Lcd draw string. " alt="" coords="445,57,609,98"/>
+</map>

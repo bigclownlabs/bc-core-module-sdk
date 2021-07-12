@@ -1,0 +1,6 @@
+<map id="twr_adc_async_measure" name="twr_adc_async_measure">
+<area shape="rect" id="node2" href="$group__twr__adc.html#ga34b3a460a4440aa42071534de900a78b" title="Calibration. " alt="" coords="236,13,385,40"/>
+<area shape="rect" id="node5" href="$group__twr__module__battery.html#ga541361981d1be7b1433879aa4f3649dc" title="Get Battery Module is pressent, can use without twr_module_battery_init. " alt="" coords="592,57,745,98"/>
+<area shape="rect" id="node3" href="$group__twr__adc.html#gaf3f471573f748780f775aa40f7ef4d99" title="Initialize ADC converter. " alt="" coords="433,13,535,40"/>
+<area shape="rect" id="node4" href="$group__twr__analog__sensor.html#ga8d54c4b9dd4a4c2873dba319fe85763d" title="Initialize generic analog sensor. " alt="" coords="583,5,755,32"/>
+</map>

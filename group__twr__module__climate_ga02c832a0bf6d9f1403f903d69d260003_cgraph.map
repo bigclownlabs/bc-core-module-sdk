@@ -1,0 +1,6 @@
+<map id="twr_module_climate_set_update_interval_barometer" name="twr_module_climate_set_update_interval_barometer">
+<area shape="rect" id="node2" href="$group__twr__mpl3115a2.html#gac58b8dd99547529f52b9f468fbe1cc05" title="Set measurement interval. " alt="" coords="212,26,415,67"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="697,26,845,67"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="482,26,630,67"/>
+<area shape="rect" id="node5" href="$group__twr__mpl3115a2.html#ga8c978d7dad4da50cb05f75aa0b507b10" title="Start measurement manually. " alt="" coords="463,92,649,118"/>
+</map>

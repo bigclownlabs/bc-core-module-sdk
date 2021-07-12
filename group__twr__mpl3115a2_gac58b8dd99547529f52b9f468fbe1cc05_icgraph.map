@@ -1,0 +1,5 @@
+<map id="twr_mpl3115a2_set_update_interval" name="twr_mpl3115a2_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#gaa2360d9f20f8731bec68ddb26f8d24fe" title="Set measurement interval for all sensors. " alt="" coords="263,5,422,61"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#ga02c832a0bf6d9f1403f903d69d260003" title="Set measurement interval for barometer. " alt="" coords="263,85,422,141"/>
+<area shape="rect" id="node4" href="$group__twr__tag__barometer.html#ga5cf632eef3e99d37e9c64eef42acaa04" title="Set measurement interval. " alt="" coords="256,166,429,207"/>
+</map>

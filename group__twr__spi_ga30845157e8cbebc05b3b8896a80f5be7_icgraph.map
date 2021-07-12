@@ -1,0 +1,7 @@
+<map id="twr_spi_is_ready" name="twr_spi_is_ready">
+<area shape="rect" id="node2" href="$group__twr__ls013b7dh03.html#ga273de54a71930eab4ead34902446876d" title="Send Lcd clear memory command. " alt="" coords="191,5,363,47"/>
+<area shape="rect" id="node3" href="$group__twr__ls013b7dh03.html#ga0fb6414024dc107e86e43b327e42880a" title="Check if lcd is ready for commands. " alt="" coords="201,71,352,112"/>
+<area shape="rect" id="node6" href="$group__twr__ls013b7dh03.html#ga5dd7bca36feb74b56a49bc50ec9922c2" title="Lcd update, send data. " alt="" coords="184,137,369,163"/>
+<area shape="rect" id="node4" href="$group__twr__ls013b7dh03.html#ga18b9d88fcc2b534a25791d8b398507d0" title="Get Lcd driver. " alt="" coords="417,100,579,141"/>
+<area shape="rect" id="node5" href="$group__twr__module__lcd.html#gaf934e9beb1adcc41bda7441b94837640" title="Initialize lcd. " alt="" coords="627,107,780,134"/>
+</map>

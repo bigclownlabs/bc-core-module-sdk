@@ -1,0 +1,14 @@
+<map id="twr_module_climate_set_update_interval_all_sensors" name="twr_module_climate_set_update_interval_all_sensors">
+<area shape="rect" id="node2" href="$group__twr__tmp112.html#ga2f36101c443477c80d1d5cb1c07c649b" title="Set measurement interval. " alt="" coords="224,81,403,122"/>
+<area shape="rect" id="node6" href="$group__twr__sht20.html#ga35a052c5aee9a39e5a022e829e0a2b05" title="Set measurement interval. " alt="" coords="231,177,396,218"/>
+<area shape="rect" id="node8" href="$group__twr__sht30.html#ga0c0a7d2c417c9ca14fdacce37b48aaf4" title="Set measurement interval. " alt="" coords="231,267,396,309"/>
+<area shape="rect" id="node10" href="$group__twr__opt3001.html#ga342d8d12eb3535080672511cf2ac40e7" title="Set measurement interval. " alt="" coords="222,350,405,391"/>
+<area shape="rect" id="node12" href="$group__twr__mpl3115a2.html#gac58b8dd99547529f52b9f468fbe1cc05" title="Set measurement interval. " alt="" coords="212,451,415,493"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="697,293,845,334"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="482,209,630,250"/>
+<area shape="rect" id="node5" href="$group__twr__tmp112.html#ga914fd94275d4c8f51df6daf962becda2" title="Start measurement manually. " alt="" coords="474,5,638,32"/>
+<area shape="rect" id="node7" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="481,107,631,133"/>
+<area shape="rect" id="node9" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="481,325,631,352"/>
+<area shape="rect" id="node11" href="$group__twr__opt3001.html#ga6be950d3f4b642137711f0ba99b83bdd" title="Start measurement manually. " alt="" coords="473,376,639,403"/>
+<area shape="rect" id="node13" href="$group__twr__mpl3115a2.html#ga8c978d7dad4da50cb05f75aa0b507b10" title="Start measurement manually. " alt="" coords="463,477,649,504"/>
+</map>

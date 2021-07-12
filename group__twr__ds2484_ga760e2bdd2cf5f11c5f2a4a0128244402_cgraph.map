@@ -1,0 +1,9 @@
+<map id="twr_ds2484_reset" name="twr_ds2484_reset">
+<area shape="rect" id="node2" href="$group__twr__ds2484.html#gaa20cb3832869300dbeac84af0cca985e" title="Wait until not busy. " alt="" coords="191,81,361,108"/>
+<area shape="rect" id="node3" href="$group__twr__delay.html#gaea9f6b178fdc76da84fb36446d05e01c" title="Delay us. " alt="" coords="409,81,517,108"/>
+<area shape="rect" id="node4" href="$group__twr__timer.html#ga8b95ffe85fa185b79d7b4c2eea961491" title="Initialize timer. " alt="" coords="573,5,686,32"/>
+<area shape="rect" id="node5" href="$group__twr__timer.html#gab94da353716218723f9af0a07017e99b" title="Start timer. " alt="" coords="568,56,691,83"/>
+<area shape="rect" id="node6" href="$group__twr__timer.html#gaa059ce422d0c0c67a3cd5c9d90c0877f" title="Relative delay. " alt="" coords="565,107,693,133"/>
+<area shape="rect" id="node8" href="$group__twr__timer.html#gaa30d762d9247fd4d2baba987a6abd309" title="Stop timer. " alt="" coords="569,157,689,184"/>
+<area shape="rect" id="node7" href="$group__twr__timer.html#gacc752416f6a5c8c0fb012d7366836c40" title="Get actual tick of timer. " alt="" coords="741,107,952,133"/>
+</map>

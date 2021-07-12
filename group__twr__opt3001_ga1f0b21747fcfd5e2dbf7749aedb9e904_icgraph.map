@@ -1,0 +1,4 @@
+<map id="twr_opt3001_set_event_handler" name="twr_opt3001_set_event_handler">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#gac0193120827c4b27167e0bdfba926b64" title="Initialize HARDWARIO Climate Module. " alt="" coords="228,5,411,32"/>
+<area shape="rect" id="node3" href="$group__twr__tag__lux__meter.html#ga820b9845fb7ed80a11ae861964c6319c" title="Set callback function. " alt="" coords="234,57,405,98"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="twr_onewire_gpio_init" name="twr_onewire_gpio_init">
+<area shape="rect" id="node2" href="$group__twr__module__sensor.html#ga8ea55a11c81f2af1412b68db35859a3b" title="Initialize and get Instance 1&#45;Wire for channel B. " alt="" coords="219,597,396,638"/>
+<area shape="rect" id="node3" href="$group__twr__ds18b20.html#ga13988a92a2396cb3677673438e991605" title="Initialize single ds18b20 over channel B on Sensor Module. " alt="" coords="452,528,631,555"/>
+<area shape="rect" id="node4" href="$group__twr__ds18b20.html#gad299d696c061db237cdb71fd9952bad6" title="Initialize multiple ds18b20 over channel B on Sensor Module. " alt="" coords="444,579,639,605"/>
+<area shape="rect" id="node5" href="$group__twr__i2c.html#ga286eab51a1468de797ed590ef08f7984" title="Initialize I2C channel. " alt="" coords="493,629,590,656"/>
+<area shape="rect" id="node48" href="$group__twr__soil__sensor.html#gad070905c3de077aa06761838f7d9a9d6" title="Initialize multiple Soil sensor. " alt="" coords="466,930,617,971"/>
+<area shape="rect" id="node6" href="$group__twr__atsha204.html#ga41033791fc10ee37c46c2a33da3f1d89" title="Initialize ATSHA204 driver. " alt="" coords="715,157,854,184"/>
+<area shape="rect" id="node8" href="$group__twr__cy8cmbr3102.html#gac38ca1fc3b8d6cc240fdb532bd21fb41" title="Initialize CY8CMBR3102. " alt="" coords="701,208,868,235"/>
+<area shape="rect" id="node9" href="$group__twr__ds2484.html#ga91bf94cf3df5fd958801ceea79f3e49c" title="Initialize DS2484. " alt="" coords="722,259,847,285"/>
+<area shape="rect" id="node12" href="$group__twr__hdc2080.html#ga5f3972a44ca57d73825b79d4a7659292" title="Initialize HDC2080. " alt="" coords="718,553,851,580"/>
+<area shape="rect" id="node14" href="$group__twr__hts221.html#gacdcd126b54925d84afe88a36785fd27c" title="Initialize HTS221. " alt="" coords="723,604,846,631"/>
+<area shape="rect" id="node15" href="$group__twr__lis2dh12.html#ga9eb4b97c1466fe2d44f397141cddcb9e" title="Initialize LIS2DH12. " alt="" coords="718,908,851,935"/>
+<area shape="rect" id="node16" href="$group__twr__module__infra__grid.html#gaa35590b16b1edbe6727c78186497483d" title="Initialize Infra Grid Module. " alt="" coords="687,959,883,985"/>
+<area shape="rect" id="node17" href="$group__twr__mpl3115a2.html#ga0478691a3bb93e1a206ab387551f1ab2" title="Initialize MPL3115A2. " alt="" coords="709,807,860,833"/>
+<area shape="rect" id="node20" href="$group__twr__opt3001.html#ga09d25476cb40eacd8ddfb46fb467a483" title="Initialize OPT3001 driver. " alt="" coords="719,857,850,884"/>
+<area shape="rect" id="node22" href="$group__twr__sam__m8q.html#ga1fb3c90e8f69e657f69951ff1e10c407" title="Initialize SAM&#45;M8Q module driver. " alt="" coords="713,1009,856,1036"/>
+<area shape="rect" id="node23" href="$group__twr__sc16is740.html#gaa00e1266f0a933406c6da523d6ab15bb" title="SC16IS740 instance. " alt="" coords="713,360,856,387"/>
+<area shape="rect" id="node26" href="$group__twr__sgp30.html#ga9e14d1c5e6c734bd24eecbc0a9439c63" title="Initialize SGP30. " alt="" coords="726,1060,843,1087"/>
+<area shape="rect" id="node28" href="$group__twr__sgpc3.html#gaaae669956807dfe7bc1fb8c95de51255" title="Initialize SGPC3. " alt="" coords="727,1111,843,1137"/>
+<area shape="rect" id="node30" href="$group__twr__sht20.html#ga14adff3ac34db00b088d01b7741e740e" title="Initialize SHT20. " alt="" coords="727,705,842,732"/>
+<area shape="rect" id="node32" href="$group__twr__sht30.html#gae0ac142fe97c9423880e8bde9d7f6b5e" title="Initialize SHT30. " alt="" coords="727,655,842,681"/>
+<area shape="rect" id="node33" href="$group__twr__sps30.html#ga19948f548553feaefc505f6a40b9ad8b" title="Initialize SPS30. " alt="" coords="727,1161,843,1188"/>
+<area shape="rect" id="node34" href="$group__twr__ssd1306.html#ga3db5b63010927ffe69a1aa68a975c6d4" title="Initialize lcd driver. " alt="" coords="719,5,851,32"/>
+<area shape="rect" id="node35" href="$group__twr__tag__nfc.html#ga47b20be5c3cb5180970f22eba447160d" title="Initialize NFC Tag. " alt="" coords="721,56,848,83"/>
+<area shape="rect" id="node36" href="$group__twr__tca9534a.html#gacf098ee03916b91aebbda19827577948" title="Initialize TCA9534A. " alt="" coords="715,452,854,479"/>
+<area shape="rect" id="node45" href="$group__twr__tmp112.html#gaeafc95258a46da4c0c521230f148e812" title="Initialize TMP112. " alt="" coords="721,756,849,783"/>
+<area shape="rect" id="node47" href="$group__twr__zssc3123.html#gae957ecbdcaf4834b43a09998a95b2b2a" title="Initialize ZSSC3123. " alt="" coords="715,107,854,133"/>
+<area shape="rect" id="node7" href="$group__twr__radio.html#ga9d548eee91f772379c5b854c386a953c" title="Initialize radio. " alt="" coords="978,116,1089,143"/>
+<area shape="rect" id="node10" href="$group__twr__onewire.html#gaec59dcd3d3dbc37ab40fce30fa139d75" title="Initialize 1&#45;Wire. " alt="" coords="941,167,1125,193"/>
+<area shape="rect" id="node11" href="$group__twr__module__x1.html#ga3ddeffc8c34754f355cb93cdb766e821" title="Initialize X1 Module. " alt="" coords="1219,217,1370,244"/>
+<area shape="rect" id="node13" href="$group__twr__tag__humidity.html#gac73ff22c8edb01a26e1654743266e47d" title="Initialize HARDWARIO Humidity Module. " alt="" coords="951,655,1115,681"/>
+<area shape="rect" id="node18" href="$group__twr__module__climate.html#gac0193120827c4b27167e0bdfba926b64" title="Initialize HARDWARIO Climate Module. " alt="" coords="942,823,1125,849"/>
+<area shape="rect" id="node19" href="$group__twr__tag__barometer.html#ga3aa1d9765f22960e60fc5defd60e8077" title="Initialize HARDWARIO Barometer Module. " alt="" coords="946,873,1121,900"/>
+<area shape="rect" id="node21" href="$group__twr__tag__lux__meter.html#gabb9e2186fd66c9f1e3f2bb7448f8b05f" title="Initialize HARDWARIO Lux Meter Module. " alt="" coords="947,924,1119,951"/>
+<area shape="rect" id="node24" href="$group__twr__module__co2.html#gae4366e6477c71738d1fc063b21522f2b" title="Request sensor calibration. " alt="" coords="931,319,1136,345"/>
+<area shape="rect" id="node25" href="$group__twr__module__rs485.html#ga97afa924ee3ef5fefdb925e571aa2773" title="Initialize RS&#45;485 Module. " alt="" coords="948,268,1119,295"/>
+<area shape="rect" id="node27" href="$group__twr__tag__voc.html#gaee8d98cd3f9ad868358ca79047435e38" title="Initialize HARDWARIO VOC Module. " alt="" coords="969,1060,1098,1087"/>
+<area shape="rect" id="node29" href="$group__twr__tag__voc__lp.html#ga39221ada4173650fa19ce07faef7953c" title="Initialize HARDWARIO VOC&#45;LP Module. " alt="" coords="959,1111,1107,1137"/>
+<area shape="rect" id="node31" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="952,706,1115,747"/>
+<area shape="rect" id="node37" href="$group__twr__module__gps.html#ga82ec03537a39f12715607bb810f7df01" title="Initialize HARDWARIO GPS Module. " alt="" coords="955,553,1112,580"/>
+<area shape="rect" id="node38" href="$group__twr__module__infra__grid.html#ga3718ccb481fa2519d70ff603b43b765b" title="Get measured temperature in degrees of Celsius as a array of float numbers. " alt="" coords="935,370,1132,411"/>
+<area shape="rect" id="node39" href="$group__twr__module__lcd.html#gae682f364f188a725410b3b9f74f530f8" title="Lcd get button driver. " alt="" coords="957,487,1110,529"/>
+<area shape="rect" id="node41" href="$group__twr__module__sensor.html#gab13f9c29632d62290f1bb90da3e6b5c9" title="Initialize Sensor Module. " alt="" coords="945,604,1122,631"/>
+<area shape="rect" id="node40" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="1219,481,1371,522"/>
+<area shape="rect" id="node42" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="1184,546,1405,587"/>
+<area shape="rect" id="node43" href="$group__twr__pulse__counter.html#ga0d8120cc233f7a2a2a515b5dac93610b" title="Initialize pulse counter. " alt="" coords="1210,612,1379,639"/>
+<area shape="rect" id="node44" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="1219,663,1370,705"/>
+<area shape="rect" id="node46" href="$group__twr__tag__temperature.html#ga0d125e90e3391320e1a6f876deb72e14" title="Initialize HARDWARIO Temperature Module. " alt="" coords="940,772,1127,799"/>
+<area shape="rect" id="node49" href="$group__twr__soil__sensor.html#gabbdc56682e7ff0453196e6a16b25a74d" title="Initialize Soil sensor. " alt="" coords="709,1212,860,1239"/>
+</map>

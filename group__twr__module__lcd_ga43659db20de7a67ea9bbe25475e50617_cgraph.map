@@ -1,0 +1,3 @@
+<map id="twr_module_lcd_set_button_click_timeout" name="twr_module_lcd_set_button_click_timeout">
+<area shape="rect" id="node2" href="$group__twr__button.html#ga3993e7b0737339583fef623e9a6c4418" title="Set click timeout (maximum interval within which button has to be released to recognize click event) ..." alt="" coords="220,5,376,47"/>
+</map>

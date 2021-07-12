@@ -1,0 +1,10 @@
+<map id="twr_module_lcd_t" name="twr_module_lcd_t">
+<area shape="rect" id="node2" href="$structtwr__ls013b7dh03__t.html" title="Instance. " alt="" coords="5,273,151,300"/>
+<area shape="rect" id="node3" href="$structtwr__tca9534a__t.html" title="Pin state. " alt="" coords="175,273,298,300"/>
+<area shape="rect" id="node4" href="$structtwr__gfx__t.html" title="Instance. " alt="" coords="322,273,405,300"/>
+<area shape="rect" id="node5" href="$structtwr__gfx__caps__t.html" title="Display size. " alt="" coords="233,95,353,121"/>
+<area shape="rect" id="node6" href="$structtwr__gfx__driver__t.html" title="Display driver interface. " alt="" coords="299,184,427,211"/>
+<area shape="rect" id="node7" href="$structtwr__font__t.html" title="twr_font_t" alt="" coords="451,184,539,211"/>
+<area shape="rect" id="node8" href="$structtwr__font__char__t.html" title="twr_font_char_t" alt="" coords="434,95,557,121"/>
+<area shape="rect" id="node9" href="$structtwr__font__image__t.html" title="twr_font_image_t" alt="" coords="427,5,563,32"/>
+</map>

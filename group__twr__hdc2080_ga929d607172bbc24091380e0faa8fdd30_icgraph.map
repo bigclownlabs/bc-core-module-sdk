@@ -1,0 +1,7 @@
+<map id="twr_hdc2080_measure" name="twr_hdc2080_measure">
+<area shape="rect" id="node2" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="223,5,444,47"/>
+<area shape="rect" id="node4" href="$group__twr__hdc2080.html#gaed3d22c20ed6787c3f8a688b5dd5c4f2" title="Set measurement interval. " alt="" coords="241,71,425,112"/>
+<area shape="rect" id="node6" href="$group__twr__tag__humidity.html#ga2291449e497d1ea758f652f9ed60f16b" title="Start measurement manually. " alt="" coords="233,137,433,163"/>
+<area shape="rect" id="node3" href="$group__twr__tag__humidity.html#ga697b69dfc8fe0d8fbb77fdcf85687f15" title="Get measured temperature in degrees of Celsius. " alt="" coords="492,5,656,47"/>
+<area shape="rect" id="node5" href="$group__twr__tag__humidity.html#ga379580ba5d37cee41665a2cf14a788eb" title="Set measurement interval. " alt="" coords="493,71,655,112"/>
+</map>

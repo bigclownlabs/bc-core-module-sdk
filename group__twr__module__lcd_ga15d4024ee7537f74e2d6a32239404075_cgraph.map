@@ -1,0 +1,5 @@
+<map id="twr_module_lcd_draw_rectangle" name="twr_module_lcd_draw_rectangle">
+<area shape="rect" id="node2" href="$group__twr__gfx.html#ga07a23da2e8a99bec38a814605ab5e159" title="Display draw rectangle. " alt="" coords="217,13,396,39"/>
+<area shape="rect" id="node3" href="$group__twr__gfx.html#ga19710773f252b15bbe4d7b61bd404159" title="Display draw line. " alt="" coords="444,13,585,39"/>
+<area shape="rect" id="node4" href="$group__twr__gfx.html#ga9e666cc5a7148f345d1f55edd68c98e8" title="Draw pixel. " alt="" coords="633,13,783,39"/>
+</map>

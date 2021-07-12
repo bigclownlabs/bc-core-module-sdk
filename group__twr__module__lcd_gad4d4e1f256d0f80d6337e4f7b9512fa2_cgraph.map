@@ -1,0 +1,7 @@
+<map id="twr_module_lcd_off" name="twr_module_lcd_off">
+<area shape="rect" id="node2" href="$group__twr__tca9534a.html#gaefb2d2d4df144de912fb017128bc0689" title="Write pin state. " alt="" coords="203,13,380,39"/>
+<area shape="rect" id="node3" href="$group__twr__tca9534a.html#ga42ad181a18dddc574e8e2f50a42b1299" title="Write state to all pins. " alt="" coords="428,13,611,39"/>
+<area shape="rect" id="node4" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="659,13,853,39"/>
+<area shape="rect" id="node5" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="901,13,1072,39"/>
+<area shape="rect" id="node6" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="1120,5,1287,47"/>
+</map>

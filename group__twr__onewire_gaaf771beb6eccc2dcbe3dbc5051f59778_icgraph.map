@@ -1,0 +1,51 @@
+<map id="twr_onewire_select" name="twr_onewire_select">
+<area shape="rect" id="node2" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="201,623,423,664"/>
+<area shape="rect" id="node3" href="$group__twr__ds28e17.html#ga5778c65f5dd6eb1b541f2350422ca015" title="Memory read from I2C. " alt="" coords="211,689,413,715"/>
+<area shape="rect" id="node32" href="$group__twr__ds28e17.html#gab8143cf3fefbcce42553a185551bc457" title="Set I2C speed. " alt="" coords="223,739,401,766"/>
+<area shape="rect" id="node49" href="$group__twr__onewire__relay.html#ga7de4a7fedc5eae3ab161004df3c96a87" title="Get current relay state. " alt="" coords="227,791,397,832"/>
+<area shape="rect" id="node50" href="$group__twr__onewire__relay.html#ga03ca246ddadb45024d6bd4c7fbc4b2e0" title="Set relay to specified state. " alt="" coords="227,856,397,897"/>
+<area shape="rect" id="node4" href="$group__twr__i2c.html#ga95b02a5c1d0636f36d58b7fc212d9174" title="Memory read from I2C channel. " alt="" coords="471,689,637,715"/>
+<area shape="rect" id="node31" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="479,623,629,664"/>
+<area shape="rect" id="node5" href="$group__twr__i2c.html#gaedddada7a7d84f001b34bb42c731cf1f" title="Memory read 1 byte from I2C channel. " alt="" coords="689,689,880,715"/>
+<area shape="rect" id="node10" href="$group__twr__lis2dh12.html#gac0a5cfd7920a78418f972bdd379ac2e0" title="Get measured acceleration in g. " alt="" coords="957,922,1149,949"/>
+<area shape="rect" id="node12" href="$group__twr__mpl3115a2.html#ga81e732c3d6e9606bbeb09c6c792a88b7" title="Get measured pressured in Pascal. " alt="" coords="945,973,1160,1015"/>
+<area shape="rect" id="node18" href="$group__twr__sc16is740.html#ga86f31eb992e1222cdd9dab79a8830c10" title="Read. " alt="" coords="1243,237,1394,263"/>
+<area shape="rect" id="node24" href="$group__twr__i2c.html#gad9c9f8f3e4fb1c43fd9d6bfadd2649fb" title="Memory read 2 bytes from I2C channel. " alt="" coords="685,287,884,314"/>
+<area shape="rect" id="node27" href="$group__twr__sam__m8q.html#ga6d5d8c0a134f56e3a9d4763a1051c084" title="Get accuracy. " alt="" coords="949,35,1156,62"/>
+<area shape="rect" id="node29" href="$group__twr__module__infra__grid.html#gabcf4a144c4152ab8dff0363b4427b20b" title="Read measured data from sensor to the buffer. " alt="" coords="701,71,869,112"/>
+<area shape="rect" id="node30" href="$group__twr__tag__nfc.html#ga47b20be5c3cb5180970f22eba447160d" title="Initialize NFC Tag. " alt="" coords="989,1090,1116,1117"/>
+<area shape="rect" id="node6" href="$group__twr__cy8cmbr3102.html#ga32e2c584c26458c0267e56301a5a9964" title="Is touch. " alt="" coords="975,572,1131,613"/>
+<area shape="rect" id="node7" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="942,404,1163,445"/>
+<area shape="rect" id="node8" href="$group__twr__hts221.html#ga38ea323be66af4a9384f1df1bf436dff" title="Deinitialize HTS221. " alt="" coords="983,739,1122,766"/>
+<area shape="rect" id="node9" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="959,791,1146,832"/>
+<area shape="rect" id="node11" href="$group__twr__module__infra__grid.html#ga4df48e5444ab732ab60f355b957014de" title="Read and return thermistor temperature sensor value. " alt="" coords="969,856,1137,897"/>
+<area shape="rect" id="node15" href="$group__twr__sc16is740.html#gafe35864dab6df601fdd74d5a8af899cf" title="Get TX FIXO space available. " alt="" coords="1221,569,1416,611"/>
+<area shape="rect" id="node17" href="$group__twr__sc16is740.html#gacf4cd9e7237019023d396ad55a27513c" title="Get RX FIXO available data. " alt="" coords="961,470,1144,497"/>
+<area shape="rect" id="node20" href="$group__twr__sc16is740.html#ga88bd0315de5374e49aaab1a20e3652ad" title="Set baudrate. " alt="" coords="949,521,1156,547"/>
+<area shape="rect" id="node21" href="$group__twr__tca9534a.html#gacf098ee03916b91aebbda19827577948" title="Initialize TCA9534A. " alt="" coords="983,1039,1122,1066"/>
+<area shape="rect" id="node22" href="$group__twr__tca9534a.html#ga308a29afe05056c8130ede9d1f79dfcd" title="Read state of all pins. " alt="" coords="963,689,1142,715"/>
+<area shape="rect" id="node23" href="$group__twr__tmp112.html#ga12df9950a886baa5df540771f624822f" title="Get measured temperature in kelvin. " alt="" coords="945,339,1161,380"/>
+<area shape="rect" id="node13" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="1237,1007,1400,1048"/>
+<area shape="rect" id="node14" href="$group__twr__tag__barometer.html#gabe4b7e1ddc3459087b7c62934041bd79" title="Get measured pressure in Pascal. " alt="" coords="1231,941,1406,983"/>
+<area shape="rect" id="node16" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="1464,342,1671,369"/>
+<area shape="rect" id="node19" href="$group__twr__module__rs485.html#ga09a686370ab538c780afa53ce69cd104" title="Read the received data. " alt="" coords="1478,237,1657,263"/>
+<area shape="rect" id="node25" href="$group__twr__cy8cmbr3102.html#ga6dd865f4d7d5f861e14efced33c71833" title="Get proximity (Capacitive sensor difference count signal.) " alt="" coords="969,171,1136,212"/>
+<area shape="rect" id="node26" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="932,237,1173,263"/>
+<area shape="rect" id="node28" href="$group__twr__module__gps.html#gabb8286b7464026ee933c74b8e857607e" title="Get accuracy. " alt="" coords="1240,28,1397,69"/>
+<area shape="rect" id="node33" href="$group__twr__i2c.html#ga987a812f42e53e426ae8af64defd31cf" title="Set I2C channel speed. " alt="" coords="483,1369,625,1395"/>
+<area shape="rect" id="node34" href="$group__twr__atsha204.html#ga0a5e96713dbb8a2b4e7c526bf42e3f03" title="Get serial number. " alt="" coords="694,1420,875,1461"/>
+<area shape="rect" id="node35" href="$group__twr__i2c.html#ga286eab51a1468de797ed590ef08f7984" title="Initialize I2C channel. " alt="" coords="736,1369,833,1395"/>
+<area shape="rect" id="node36" href="$group__twr__atsha204.html#ga41033791fc10ee37c46c2a33da3f1d89" title="Initialize ATSHA204 driver. " alt="" coords="983,1445,1122,1471"/>
+<area shape="rect" id="node37" href="$group__twr__cy8cmbr3102.html#gac38ca1fc3b8d6cc240fdb532bd21fb41" title="Initialize CY8CMBR3102. " alt="" coords="969,1495,1136,1522"/>
+<area shape="rect" id="node38" href="$group__twr__ds2484.html#ga91bf94cf3df5fd958801ceea79f3e49c" title="Initialize DS2484. " alt="" coords="990,1546,1115,1573"/>
+<area shape="rect" id="node39" href="$group__twr__hdc2080.html#ga5f3972a44ca57d73825b79d4a7659292" title="Initialize HDC2080. " alt="" coords="986,1597,1119,1623"/>
+<area shape="rect" id="node40" href="$group__twr__hts221.html#gacdcd126b54925d84afe88a36785fd27c" title="Initialize HTS221. " alt="" coords="991,1647,1114,1674"/>
+<area shape="rect" id="node41" href="$group__twr__lis2dh12.html#ga9eb4b97c1466fe2d44f397141cddcb9e" title="Initialize LIS2DH12. " alt="" coords="986,1698,1119,1725"/>
+<area shape="rect" id="node42" href="$group__twr__module__infra__grid.html#gaa35590b16b1edbe6727c78186497483d" title="Initialize Infra Grid Module. " alt="" coords="955,1749,1151,1775"/>
+<area shape="rect" id="node43" href="$group__twr__mpl3115a2.html#ga0478691a3bb93e1a206ab387551f1ab2" title="Initialize MPL3115A2. " alt="" coords="977,1141,1128,1167"/>
+<area shape="rect" id="node44" href="$group__twr__opt3001.html#ga09d25476cb40eacd8ddfb46fb467a483" title="Initialize OPT3001 driver. " alt="" coords="987,1191,1118,1218"/>
+<area shape="rect" id="node45" href="$group__twr__sam__m8q.html#ga1fb3c90e8f69e657f69951ff1e10c407" title="Initialize SAM&#45;M8Q module driver. " alt="" coords="981,1242,1124,1269"/>
+<area shape="rect" id="node46" href="$group__twr__sc16is740.html#gaa00e1266f0a933406c6da523d6ab15bb" title="SC16IS740 instance. " alt="" coords="981,1293,1124,1319"/>
+<area shape="rect" id="node47" href="$group__twr__sgp30.html#ga9e14d1c5e6c734bd24eecbc0a9439c63" title="Initialize SGP30. " alt="" coords="994,1343,1111,1370"/>
+<area shape="rect" id="node48" href="$group__twr__sgpc3.html#gaaae669956807dfe7bc1fb8c95de51255" title="Initialize SGPC3. " alt="" coords="995,1394,1111,1421"/>
+</map>

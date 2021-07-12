@@ -1,0 +1,5 @@
+<map id="twr_ds18b20_set_update_interval" name="twr_ds18b20_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="455,25,603,67"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="248,25,396,67"/>
+<area shape="rect" id="node4" href="$group__twr__ds18b20.html#gac40691df35877fd8bee2cae8e25f8556" title="Start measurement manually. " alt="" coords="237,91,407,118"/>
+</map>

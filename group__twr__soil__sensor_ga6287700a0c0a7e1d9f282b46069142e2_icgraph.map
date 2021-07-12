@@ -1,0 +1,4 @@
+<map id="twr_soil_sensor_measure" name="twr_soil_sensor_measure">
+<area shape="rect" id="node2" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="240,5,391,47"/>
+<area shape="rect" id="node3" href="$group__twr__soil__sensor.html#gad921867e72ba29310ae2ae77ddd62277" title="Set measurement interval. " alt="" coords="240,71,391,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="twr_exti_register" name="twr_exti_register">
+<area shape="rect" id="node2" href="$group__twr__lis2dh12.html#gaf7e9161364c7e7835cb5d10d7917b1ac" title="Enable or disable accelerometer threshold alarm. " alt="" coords="185,5,363,32"/>
+<area shape="rect" id="node3" href="$group__twr__module__encoder.html#ga2f1ce6e98422e0f27db2995166d6e22a" title="Get Encoder Module is pressent, can use without twr_module_encoder_init. " alt="" coords="195,57,353,98"/>
+<area shape="rect" id="node4" href="$group__twr__pulse__counter.html#ga0d8120cc233f7a2a2a515b5dac93610b" title="Initialize pulse counter. " alt="" coords="189,123,359,149"/>
+<area shape="rect" id="node5" href="$group__twr__spirit.html#ga9ebed87621366305b55b7568b9dcd6d0" title="Enter sleep state. " alt="" coords="207,173,341,200"/>
+</map>

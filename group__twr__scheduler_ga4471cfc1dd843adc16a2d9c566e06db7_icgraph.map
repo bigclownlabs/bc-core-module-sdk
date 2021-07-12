@@ -1,0 +1,27 @@
+<map id="twr_scheduler_plan_current_absolute" name="twr_scheduler_plan_current_absolute">
+<area shape="rect" id="node2" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="211,5,433,47"/>
+<area shape="rect" id="node4" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="229,71,415,112"/>
+<area shape="rect" id="node6" href="$group__twr__module__battery.html#ga541361981d1be7b1433879aa4f3649dc" title="Get Battery Module is pressent, can use without twr_module_battery_init. " alt="" coords="245,136,399,177"/>
+<area shape="rect" id="node7" href="$group__twr__module__relay.html#ga6f5442a803d31777a75671cca93eee86" title="Initialize HARDWARIO Relay Module. " alt="" coords="239,202,405,229"/>
+<area shape="rect" id="node8" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="219,253,425,279"/>
+<area shape="rect" id="node10" href="$group__twr__mpl3115a2.html#ga81e732c3d6e9606bbeb09c6c792a88b7" title="Get measured pressured in Pascal. " alt="" coords="215,304,429,345"/>
+<area shape="rect" id="node13" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="201,370,443,397"/>
+<area shape="rect" id="node16" href="$group__twr__sgp30.html#gaa82d36df88b8a019e4a16cc2b4c3bc05" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="215,421,429,447"/>
+<area shape="rect" id="node18" href="$group__twr__sgpc3.html#ga342896f1abc29b9c1b4eb439fa141acf" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="215,471,429,498"/>
+<area shape="rect" id="node20" href="$group__twr__sht20.html#ga5ef3b4a449cdcc3aa0b479559bfb6110" title="Get measured temperature in kelvin. " alt="" coords="221,523,423,564"/>
+<area shape="rect" id="node21" href="$group__twr__sht30.html#ga3d783362a8fc81b326a8e43a9e404625" title="Get measured temperature in kelvin. " alt="" coords="221,588,423,629"/>
+<area shape="rect" id="node23" href="$group__twr__spirit.html#ga9ebed87621366305b55b7568b9dcd6d0" title="Enter sleep state. " alt="" coords="255,654,389,681"/>
+<area shape="rect" id="node24" href="$group__twr__tmp112.html#ga12df9950a886baa5df540771f624822f" title="Get measured temperature in kelvin. " alt="" coords="214,705,430,747"/>
+<area shape="rect" id="node26" href="$group__twr__zssc3123.html#ga9cb202ab75e29f0b81150e7956e5d2fd" title="Unlock eerpom, work only with command mode. " alt="" coords="242,771,402,812"/>
+<area shape="rect" id="node3" href="$group__twr__tag__humidity.html#ga697b69dfc8fe0d8fbb77fdcf85687f15" title="Get measured temperature in degrees of Celsius. " alt="" coords="522,5,686,47"/>
+<area shape="rect" id="node5" href="$group__twr__tag__humidity.html#ga86572e19d178962f0abc64f24e583273" title="Get measured humidity as percentage. " alt="" coords="521,71,687,112"/>
+<area shape="rect" id="node9" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="519,167,689,208"/>
+<area shape="rect" id="node11" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="523,232,685,273"/>
+<area shape="rect" id="node12" href="$group__twr__tag__barometer.html#gabe4b7e1ddc3459087b7c62934041bd79" title="Get measured pressure in Pascal. " alt="" coords="517,297,691,339"/>
+<area shape="rect" id="node14" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="524,363,684,404"/>
+<area shape="rect" id="node15" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="518,428,690,469"/>
+<area shape="rect" id="node17" href="$group__twr__tag__voc.html#gadcfe758f81af5b6d092c7a6ef2a94ed3" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="491,494,717,521"/>
+<area shape="rect" id="node19" href="$group__twr__tag__voc__lp.html#ga79936075a9c34d669e8f26aa01eb9f82" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="531,545,677,587"/>
+<area shape="rect" id="node22" href="$group__twr__module__climate.html#ga12952a030dfe35b40da2c50f8189510a" title="Get measured temperature in kelvin. " alt="" coords="511,625,697,667"/>
+<area shape="rect" id="node25" href="$group__twr__tag__temperature.html#ga994d04b114b7556ed73cd903e60e80fc" title="Get measured temperature in kelvin. " alt="" coords="511,705,697,747"/>
+</map>

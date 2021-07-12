@@ -1,0 +1,7 @@
+<map id="twr_hc_sr04_get_distance_millimeter" name="twr_hc_sr04_get_distance_millimeter">
+<area shape="rect" id="node2" href="$group__twr__hc__sr04.html#gaa4039e076ad14ddac0fd12dd5d217025" title="Start measurement manually. " alt="" coords="255,5,419,32"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="263,57,411,98"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="244,123,431,149"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="246,173,429,200"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="479,5,649,32"/>
+</map>

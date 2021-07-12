@@ -1,0 +1,4 @@
+<map id="twr_module_climate_measure_lux_meter" name="twr_module_climate_measure_lux_meter">
+<area shape="rect" id="node2" href="$group__twr__opt3001.html#ga6be950d3f4b642137711f0ba99b83bdd" title="Start measurement manually. " alt="" coords="212,13,379,39"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="427,5,575,47"/>
+</map>

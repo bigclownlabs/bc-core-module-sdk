@@ -1,0 +1,30 @@
+<map id="twr_tmp112_get_temperature_kelvin" name="twr_tmp112_get_temperature_kelvin">
+<area shape="rect" id="node2" href="$group__twr__tmp112.html#gab72990ec5faa28083612f82e50b1d1f0" title="Get measured temperature in degrees of Celsius. " alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node4" href="$group__twr__tmp112.html#ga914fd94275d4c8f51df6daf962becda2" title="Start measurement manually. " alt="" coords="295,71,459,98"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="303,123,451,164"/>
+<area shape="rect" id="node7" href="$group__twr__i2c.html#gacaf2a9041a7908e29598536cf586d3bf" title="Memory write 2 bytes to I2C channel. " alt="" coords="276,357,479,383"/>
+<area shape="rect" id="node10" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="1136,374,1239,401"/>
+<area shape="rect" id="node13" href="$group__twr__scheduler.html#ga4471cfc1dd843adc16a2d9c566e06db7" title="Schedule current task to absolute tick. " alt="" coords="303,291,451,332"/>
+<area shape="rect" id="node14" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="280,239,475,266"/>
+<area shape="rect" id="node15" href="$group__twr__scheduler.html#ga39d14277e9c8269517346f394edf645b" title="Schedule current task to tick relative from now. " alt="" coords="855,205,1003,247"/>
+<area shape="rect" id="node16" href="$group__twr__i2c.html#gaedddada7a7d84f001b34bb42c731cf1f" title="Memory read 1 byte from I2C channel. " alt="" coords="282,546,473,573"/>
+<area shape="rect" id="node28" href="$group__twr__i2c.html#gad9c9f8f3e4fb1c43fd9d6bfadd2649fb" title="Memory read 2 bytes from I2C channel. " alt="" coords="278,470,477,497"/>
+<area shape="rect" id="node3" href="$group__twr__tmp112.html#ga7fba371e248ab93c553d5b9e6f48c3a1" title="Get measured temperature as raw value. " alt="" coords="533,13,780,39"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="583,64,731,105"/>
+<area shape="rect" id="node8" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="571,302,742,329"/>
+<area shape="rect" id="node9" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="846,295,1013,336"/>
+<area shape="rect" id="node11" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="1344,349,1465,375"/>
+<area shape="rect" id="node12" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="1345,399,1464,426"/>
+<area shape="rect" id="node17" href="$group__twr__i2c.html#ga95b02a5c1d0636f36d58b7fc212d9174" title="Memory read from I2C channel. " alt="" coords="573,559,740,586"/>
+<area shape="rect" id="node18" href="$group__twr__ds28e17.html#ga5778c65f5dd6eb1b541f2350422ca015" title="Memory read from I2C. " alt="" coords="828,593,1031,619"/>
+<area shape="rect" id="node19" href="$group__twr__onewire.html#ga62d16eadaa229627e490ecb48f7389a6" title="Start transaction, enable pll and run timer. " alt="" coords="1096,476,1279,517"/>
+<area shape="rect" id="node20" href="$group__twr__onewire.html#ga6441ee52c20b2381ab08d9cb0ee96ac1" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="1116,542,1259,569"/>
+<area shape="rect" id="node21" href="$group__twr__onewire.html#gad0d9fbf6c1f6e9806f3409a92042f981" title="Stop transaction. " alt="" coords="1079,593,1296,619"/>
+<area shape="rect" id="node22" href="$group__twr__onewire.html#gac163fd0b3fe8b4aa8eb875443d328fb4" title="Calculate 16&#45;bit CRC, polynomial 0x8005. " alt="" coords="1115,643,1259,670"/>
+<area shape="rect" id="node23" href="$group__twr__onewire.html#gaaf771beb6eccc2dcbe3dbc5051f59778" title="Select device. " alt="" coords="1113,694,1261,721"/>
+<area shape="rect" id="node24" href="$group__twr__onewire.html#ga0342106061d58212efc91ebad24579dd" title="Select device. " alt="" coords="1116,745,1259,771"/>
+<area shape="rect" id="node25" href="$group__twr__onewire.html#gacc7fb763cff4065214a50a809ac73f06" title="Select device. " alt="" coords="1106,795,1269,822"/>
+<area shape="rect" id="node26" href="$group__twr__onewire.html#gaafc6eafbe2c69bcaed5876c3aa418635" title="Select device. " alt="" coords="1100,846,1275,873"/>
+<area shape="rect" id="node27" href="$group__twr__onewire.html#gaa31f28e38411caf6badad7a5f59a13e1" title="Select device. " alt="" coords="1118,425,1257,451"/>
+<area shape="rect" id="node29" href="$group__twr__i2c.html#gae5ea24512df9d4f6a54717a75acf2584" title="Get speed I2C channel. " alt="" coords="585,509,728,535"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="twr_config_save" name="twr_config_save">
+<area shape="rect" id="node2" href="$group__twr__sha256.html#ga94fa1686082c2757206cfa3e11de664a" title="Initialize SHA256 structure. " alt="" coords="192,5,317,32"/>
+<area shape="rect" id="node3" href="$group__twr__sha256.html#ga428cd2b24ca4290dfc6d42e80f9983e2" title="Compute SHA256 from data. " alt="" coords="180,56,329,83"/>
+<area shape="rect" id="node4" href="$group__twr__sha256.html#ga7dea38544b8847d31926a01354502cc3" title="Finalize SHA256 computation and read the final hash. " alt="" coords="189,107,321,133"/>
+<area shape="rect" id="node5" href="$group__twr__eeprom.html#ga9a55405114963534fbc35900c7ac7d09" title="Read buffer from EEPROM area. " alt="" coords="187,157,323,184"/>
+<area shape="rect" id="node6" href="$group__twr__eeprom.html#gaf35e9135586e196688e077703da02c53" title="Write buffer to EEPROM area and verify it. " alt="" coords="185,208,325,235"/>
+</map>

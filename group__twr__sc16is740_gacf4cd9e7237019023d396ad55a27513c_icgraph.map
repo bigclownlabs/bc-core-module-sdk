@@ -1,0 +1,7 @@
+<map id="twr_sc16is740_available" name="twr_sc16is740_available">
+<area shape="rect" id="node2" href="$group__twr__module__rs485.html#ga55dd019873b11b520ca4e368a46e63af" title="Get number of received bytes. " alt="" coords="236,5,445,32"/>
+<area shape="rect" id="node3" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="493,56,700,83"/>
+<area shape="rect" id="node5" href="$group__twr__sc16is740.html#ga86f31eb992e1222cdd9dab79a8830c10" title="Read. " alt="" coords="265,107,416,133"/>
+<area shape="rect" id="node4" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="748,49,917,90"/>
+<area shape="rect" id="node6" href="$group__twr__module__rs485.html#ga09a686370ab538c780afa53ce69cd104" title="Read the received data. " alt="" coords="507,107,686,133"/>
+</map>

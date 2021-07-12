@@ -1,0 +1,5 @@
+<map id="twr_soil_sensor_get_temperature_raw" name="twr_soil_sensor_get_temperature_raw">
+<area shape="rect" id="node2" href="$group__twr__soil__sensor.html#ga9de54657b9a347c4c82b566ae78e6792" title="Get measured temperature in degrees of Celsius. " alt="" coords="204,39,367,80"/>
+<area shape="rect" id="node3" href="$group__twr__soil__sensor.html#gaa2e9810668226563d8cf7618f54a5776" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="415,5,599,47"/>
+<area shape="rect" id="node4" href="$group__twr__soil__sensor.html#gae5a03f394631efa2c3e0025e055ba60a" title="Get measured temperature in kelvin. " alt="" coords="428,71,585,112"/>
+</map>

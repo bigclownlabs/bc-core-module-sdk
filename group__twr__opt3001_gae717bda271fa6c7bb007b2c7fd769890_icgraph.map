@@ -1,0 +1,6 @@
+<map id="twr_opt3001_get_illuminance_raw" name="twr_opt3001_get_illuminance_raw">
+<area shape="rect" id="node2" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="299,46,540,73"/>
+<area shape="rect" id="node5" href="$group__twr__tag__lux__meter.html#ga012572d2afe410a8aa29fc2c8686fcc1" title="Get measured illuminance as raw value. " alt="" coords="333,97,505,139"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="594,5,754,47"/>
+<area shape="rect" id="node4" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="588,71,760,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="twr_dma_channel_stop" name="twr_dma_channel_stop">
+<area shape="rect" id="node2" href="$group__twr__dac.html#ga20b31489213b6bc4b471eb4a8f62572d" title="Stop asynchronous DAC channel operation. " alt="" coords="227,5,381,32"/>
+<area shape="rect" id="node4" href="$group__twr__uart.html#gab8141308d560e7d32059bb601f2468b8" title="Cancel async reading. " alt="" coords="225,57,383,98"/>
+<area shape="rect" id="node3" href="$group__twr__dac.html#ga0bb5f48de4270fa23eb18341c7a7bf3c" title="Deitialize DAC channel. " alt="" coords="432,5,549,32"/>
+<area shape="rect" id="node5" href="$group__twr__uart.html#gacfd54a34c04b83cc519f94d1666864a6" title="Deinitialize UART channel. " alt="" coords="431,64,551,91"/>
+</map>

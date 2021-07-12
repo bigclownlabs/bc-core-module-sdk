@@ -1,0 +1,16 @@
+<map id="twr_wssfm10r1at_init" name="twr_wssfm10r1at_init">
+<area shape="rect" id="node2" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="478,107,585,133"/>
+<area shape="rect" id="node5" href="$group__twr__gpio.html#ga2bc776e5bbc460948f25846055ac4461" title="Set output state for GPIO channel. " alt="" coords="227,563,381,589"/>
+<area shape="rect" id="node6" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="457,5,606,32"/>
+<area shape="rect" id="node7" href="$group__twr__fifo.html#gae90183e9e9b656a8733ebfaaa4f25bae" title="Initialize FIFO buffer. " alt="" coords="707,487,805,513"/>
+<area shape="rect" id="node8" href="$group__twr__uart.html#ga229996e57c54475279dcc2b093afa85a" title="Initialize UART channel. " alt="" coords="252,95,356,121"/>
+<area shape="rect" id="node10" href="$group__twr__uart.html#ga4aa03f03865f3515721c24f2f632cfb9" title="Set buffers for async transfers. " alt="" coords="216,613,392,640"/>
+<area shape="rect" id="node11" href="$group__twr__uart.html#ga7548c8f5c14f670e12e0ee45afb3e5de" title="Start async reading. " alt="" coords="225,302,383,343"/>
+<area shape="rect" id="node12" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="671,411,841,437"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="695,132,817,159"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="697,81,815,108"/>
+<area shape="rect" id="node9" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="463,56,599,83"/>
+<area shape="rect" id="node13" href="$group__twr__dma.html#ga7bd1f60a61692a40e29d7ae4992f0c3d" title="Initialize DMA. " alt="" coords="478,461,585,488"/>
+<area shape="rect" id="node14" href="$group__twr__dma.html#ga0a3b3a12d52c011c18fc5eba31e4cf2a" title="Configure DMA channel. " alt="" coords="440,208,623,235"/>
+<area shape="rect" id="node15" href="$group__twr__dma.html#ga14113380c3f8e4f0e4d478d6775e0dd4" title="Start DMA channel. " alt="" coords="449,259,614,285"/>
+</map>

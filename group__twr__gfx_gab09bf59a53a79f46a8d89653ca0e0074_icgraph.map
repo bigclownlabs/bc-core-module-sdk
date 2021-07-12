@@ -1,0 +1,4 @@
+<map id="twr_gfx_clear" name="twr_gfx_clear">
+<area shape="rect" id="node2" href="$group__twr__module__lcd.html#ga0cbee9c081dfaac062dd221074f23e49" title="Lcd clear. " alt="" coords="164,5,328,32"/>
+<area shape="rect" id="node3" href="$group__twr__module__lcd.html#gaf934e9beb1adcc41bda7441b94837640" title="Initialize lcd. " alt="" coords="169,56,323,83"/>
+</map>

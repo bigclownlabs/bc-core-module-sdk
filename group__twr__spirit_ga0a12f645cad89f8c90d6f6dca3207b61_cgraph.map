@@ -1,0 +1,6 @@
+<map id="twr_spirit1_deinit" name="twr_spirit1_deinit">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="188,5,375,32"/>
+<area shape="rect" id="node3" href="$group__twr__exti.html#ga61361d2494e4ca994925f4e516263b3f" title="Disable EXTI line interrupt. " alt="" coords="207,56,355,83"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="423,31,544,57"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="424,81,543,108"/>
+</map>

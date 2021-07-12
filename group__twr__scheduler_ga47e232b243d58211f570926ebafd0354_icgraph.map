@@ -1,0 +1,51 @@
+<map id="twr_scheduler_plan_absolute" name="twr_scheduler_plan_absolute">
+<area shape="rect" id="node2" href="$group__twr__analog__sensor.html#gac603b14858b77817f2129f0296f21001" title="Set measurement interval. " alt="" coords="219,5,390,47"/>
+<area shape="rect" id="node3" href="$group__twr__button.html#gabfda73a21fb2d34f07ad2baa93805c65" title="Set callback function. " alt="" coords="223,71,386,112"/>
+<area shape="rect" id="node6" href="$group__twr__cy8cmbr3102.html#ga9826a1f598369471c323b1ae0720e6ee" title="Set scan interval. " alt="" coords="222,136,387,177"/>
+<area shape="rect" id="node7" href="$group__twr__ds18b20.html#gac40691df35877fd8bee2cae8e25f8556" title="Start measurement manually. " alt="" coords="220,253,389,279"/>
+<area shape="rect" id="node8" href="$group__twr__ds18b20.html#ga1fb7d8ec9b6edbc222224213cca8df19" title="Set measurement interval. " alt="" coords="475,195,659,236"/>
+<area shape="rect" id="node10" href="$group__twr__flood__detector.html#gadec3c861a10649800d8c04a766c56da5" title="Set measurement interval. " alt="" coords="225,304,384,345"/>
+<area shape="rect" id="node11" href="$group__twr__hc__sr04.html#ga4250a9e52ae88c1c35bde9ac4e67e48b" title="Set measurement interval. " alt="" coords="215,369,394,411"/>
+<area shape="rect" id="node12" href="$group__twr__hdc2080.html#ga929d607172bbc24091380e0faa8fdd30" title="Start measurement manually. " alt="" coords="220,587,389,614"/>
+<area shape="rect" id="node13" href="$group__twr__hdc2080.html#gaed3d22c20ed6787c3f8a688b5dd5c4f2" title="Set measurement interval. " alt="" coords="475,456,659,497"/>
+<area shape="rect" id="node17" href="$group__twr__hts221.html#ga68eca06c20d7fce261fe0f78c6335577" title="Start measurement manually. " alt="" coords="225,486,384,513"/>
+<area shape="rect" id="node18" href="$group__twr__hts221.html#ga5ba0341c801dffa7cde4186a73d93520" title="Set measurement interval. " alt="" coords="480,325,653,367"/>
+<area shape="rect" id="node20" href="$group__twr__lis2dh12.html#ga880091e432e70787d287d4d6efd186a2" title="Set measurement interval. " alt="" coords="213,1145,397,1187"/>
+<area shape="rect" id="node21" href="$group__twr__lp8.html#ga87b15302b625e9d741205960e3bf05ec" title="Set measurement interval. " alt="" coords="230,1211,379,1252"/>
+<area shape="rect" id="node23" href="$group__twr__module__battery.html#ga8b3c8f0966061333f74cc0e75a94690c" title="Set update interval. " alt="" coords="225,1276,384,1317"/>
+<area shape="rect" id="node24" href="$group__twr__module__infra__grid.html#ga9190d3a872b91c63aedefd64d2dd7efa" title="Start measurement manually. " alt="" coords="221,1393,389,1435"/>
+<area shape="rect" id="node25" href="$group__twr__module__infra__grid.html#ga4d2ea294d40cbe2049fd4262232a9274" title="Set measurement interval. " alt="" coords="483,1335,651,1376"/>
+<area shape="rect" id="node27" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="201,1510,408,1537"/>
+<area shape="rect" id="node28" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="482,1484,651,1525"/>
+<area shape="rect" id="node29" href="$group__twr__mpl3115a2.html#ga8c978d7dad4da50cb05f75aa0b507b10" title="Start measurement manually. " alt="" coords="211,841,398,867"/>
+<area shape="rect" id="node32" href="$group__twr__mpl3115a2.html#gac58b8dd99547529f52b9f468fbe1cc05" title="Set measurement interval. " alt="" coords="465,1017,668,1059"/>
+<area shape="rect" id="node35" href="$group__twr__opt3001.html#ga6be950d3f4b642137711f0ba99b83bdd" title="Start measurement manually. " alt="" coords="221,942,388,969"/>
+<area shape="rect" id="node36" href="$group__twr__opt3001.html#ga342d8d12eb3535080672511cf2ac40e7" title="Set measurement interval. " alt="" coords="475,1083,658,1124"/>
+<area shape="rect" id="node37" href="$group__twr__pulse__counter.html#ga8c71ca149553dff3869007d0065ff5e8" title="Set update interval. " alt="" coords="221,1561,389,1603"/>
+<area shape="rect" id="node38" href="$group__twr__sgp30.html#ga88c82a88e3e745f0bd652b6433f69f3c" title="Set measurement interval. " alt="" coords="221,1627,389,1668"/>
+<area shape="rect" id="node39" href="$group__twr__sgpc3.html#ga33b9a2231e044403f00eb95b84d9be22" title="Set measurement interval. " alt="" coords="221,1692,388,1733"/>
+<area shape="rect" id="node40" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="229,739,380,766"/>
+<area shape="rect" id="node41" href="$group__twr__sht20.html#ga35a052c5aee9a39e5a022e829e0a2b05" title="Set measurement interval. " alt="" coords="484,704,649,745"/>
+<area shape="rect" id="node42" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="229,689,380,715"/>
+<area shape="rect" id="node43" href="$group__twr__sht30.html#ga0c0a7d2c417c9ca14fdacce37b48aaf4" title="Set measurement interval. " alt="" coords="484,639,649,680"/>
+<area shape="rect" id="node44" href="$group__twr__soil__sensor.html#gad921867e72ba29310ae2ae77ddd62277" title="Set measurement interval. " alt="" coords="229,1757,380,1799"/>
+<area shape="rect" id="node45" href="$group__twr__spirit.html#ga795d59a2d24a4d5edcd0e05d4cbda684" title="Set TX timeout. " alt="" coords="235,1823,374,1864"/>
+<area shape="rect" id="node46" href="$group__twr__sps30.html#gaa832afd519688f3c4e0a435f193ed73e" title="Set measurement interval. " alt="" coords="221,1888,388,1929"/>
+<area shape="rect" id="node47" href="$group__twr__tmp112.html#ga914fd94275d4c8f51df6daf962becda2" title="Start measurement manually. " alt="" coords="223,993,387,1019"/>
+<area shape="rect" id="node48" href="$group__twr__tmp112.html#ga2f36101c443477c80d1d5cb1c07c649b" title="Set measurement interval. " alt="" coords="477,1148,656,1189"/>
+<area shape="rect" id="node49" href="$group__twr__uart.html#ga4a76bdf90af23bac54bb34f0a5ae74fd" title="Add data to be transmited in async mode. " alt="" coords="224,1954,385,1981"/>
+<area shape="rect" id="node50" href="$group__twr__zssc3123.html#ga811478ead9d066aadb6badae946e7bc2" title="Set scan interval. " alt="" coords="210,2005,399,2047"/>
+<area shape="rect" id="node4" href="$group__twr__module__encoder.html#ga4254e0aea8071ae292f4bf220724428b" title="Initialize Encoder Module. " alt="" coords="473,49,660,75"/>
+<area shape="rect" id="node5" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="491,100,643,141"/>
+<area shape="rect" id="node9" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="456,260,677,301"/>
+<area shape="rect" id="node15" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="456,521,677,563"/>
+<area shape="rect" id="node16" href="$group__twr__tag__humidity.html#ga2291449e497d1ea758f652f9ed60f16b" title="Start measurement manually. " alt="" coords="467,587,667,614"/>
+<area shape="rect" id="node14" href="$group__twr__tag__humidity.html#ga379580ba5d37cee41665a2cf14a788eb" title="Set measurement interval. " alt="" coords="725,548,888,589"/>
+<area shape="rect" id="node19" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="473,391,660,432"/>
+<area shape="rect" id="node22" href="$group__twr__module__co2.html#gac6e75a8ee3bd63b5f0a27db18891b5d4" title="Set measurement interval. " alt="" coords="489,1213,645,1255"/>
+<area shape="rect" id="node26" href="$group__twr__module__infra__grid.html#ga3718ccb481fa2519d70ff603b43b765b" title="Get measured temperature in degrees of Celsius as a array of float numbers. " alt="" coords="468,1400,665,1441"/>
+<area shape="rect" id="node30" href="$group__twr__module__climate.html#gacb5a39bd817d0523dea9952d97c05809" title="Start measurement of all sensors manually. " alt="" coords="483,769,650,811"/>
+<area shape="rect" id="node31" href="$group__twr__module__climate.html#gadc7b00fa33611b2e5da59821d3f72e89" title="Start barometer measurement manually. " alt="" coords="486,835,647,876"/>
+<area shape="rect" id="node33" href="$group__twr__mpl3115a2.html#ga81e732c3d6e9606bbeb09c6c792a88b7" title="Get measured pressured in Pascal. " alt="" coords="459,900,674,941"/>
+<area shape="rect" id="node34" href="$group__twr__tag__barometer.html#ga789cf3b6bd3cc8219418bf5d5d9b3000" title="Start measurement manually. " alt="" coords="461,966,672,993"/>
+</map>

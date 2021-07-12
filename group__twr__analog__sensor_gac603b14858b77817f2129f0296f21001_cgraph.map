@@ -1,0 +1,12 @@
+<map id="twr_analog_sensor_set_update_interval" name="twr_analog_sensor_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="254,5,402,47"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="254,71,402,112"/>
+<area shape="rect" id="node4" href="$group__twr__analog__sensor.html#ga96d4a5a9f7a5fe2f938a7fe79a52a868" title="Start measurement manually. " alt="" coords="224,137,432,163"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="480,45,663,71"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="497,96,645,137"/>
+<area shape="rect" id="node7" href="$group__twr__scheduler.html#ga39d14277e9c8269517346f394edf645b" title="Schedule current task to tick relative from now. " alt="" coords="497,161,645,203"/>
+<area shape="rect" id="node11" href="$group__twr__adc.html#gad19bbc2a66345473b2bbf5b26b6ad497" title="Reads the ADC channel value. " alt="" coords="499,227,643,254"/>
+<area shape="rect" id="node8" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="711,169,813,195"/>
+<area shape="rect" id="node9" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="861,143,983,170"/>
+<area shape="rect" id="node10" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="863,194,981,221"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="twr_module_lcd_set_button_hold_time" name="twr_module_lcd_set_button_hold_time">
+<area shape="rect" id="node2" href="$group__twr__button.html#ga6d587bb6aa9c6bdb8922ee9badd0841a" title="Set hold time (interval after which hold event is recognized when button is steadily pressed) ..." alt="" coords="205,93,396,120"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gab25eb80ff164190c8b03427fe461671e" title="Get current tick of spin in which task has been run. " alt="" coords="444,5,651,32"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="473,57,621,98"/>
+<area shape="rect" id="node5" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="494,123,601,149"/>
+<area shape="rect" id="node8" href="$group__twr__gpio.html#gabfbe0f42fa02fd72b4584fdd0964ea3f" title="Get input state for GPIO channel. " alt="" coords="474,173,621,200"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="699,97,820,124"/>
+<area shape="rect" id="node7" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="700,148,819,175"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="twr_sc16is740_get_spaces_available" name="twr_sc16is740_get_spaces_available">
+<area shape="rect" id="node2" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="681,13,888,39"/>
+<area shape="rect" id="node4" href="$group__twr__sc16is740.html#ga4d6a65bc2f86c4da1088bbfa71200b7d" title="Write. " alt="" coords="248,38,403,65"/>
+<area shape="rect" id="node3" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="936,5,1105,47"/>
+<area shape="rect" id="node5" href="$group__twr__module__rs485.html#ga2e76a424127992b43b10e1a9de848d86" title="Write data to RS&#45;485 bus. " alt="" coords="451,38,633,65"/>
+</map>

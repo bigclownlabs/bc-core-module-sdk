@@ -1,0 +1,4 @@
+<map id="twr_gpio_set_mode" name="twr_gpio_set_mode">
+<area shape="rect" id="node2" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="203,5,324,32"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="204,56,323,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="twr_log_init" name="twr_log_init">
+<area shape="rect" id="node2" href="$group__twr__uart.html#ga229996e57c54475279dcc2b093afa85a" title="Initialize UART channel. " alt="" coords="152,56,256,83"/>
+<area shape="rect" id="node3" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="325,5,432,32"/>
+<area shape="rect" id="node6" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="311,56,447,83"/>
+<area shape="rect" id="node7" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="304,107,453,133"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="501,31,623,57"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="503,81,621,108"/>
+</map>

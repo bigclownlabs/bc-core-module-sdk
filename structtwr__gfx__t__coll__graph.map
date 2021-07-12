@@ -1,0 +1,7 @@
+<map id="twr_gfx_t" name="twr_gfx_t">
+<area shape="rect" id="node2" href="$structtwr__gfx__caps__t.html" title="Display size. " alt="" coords="16,95,136,121"/>
+<area shape="rect" id="node3" href="$structtwr__gfx__driver__t.html" title="Display driver interface. " alt="" coords="64,184,192,211"/>
+<area shape="rect" id="node4" href="$structtwr__font__t.html" title="twr_font_t" alt="" coords="216,184,304,211"/>
+<area shape="rect" id="node5" href="$structtwr__font__char__t.html" title="twr_font_char_t" alt="" coords="198,95,321,121"/>
+<area shape="rect" id="node6" href="$structtwr__font__image__t.html" title="twr_font_image_t" alt="" coords="192,5,328,32"/>
+</map>

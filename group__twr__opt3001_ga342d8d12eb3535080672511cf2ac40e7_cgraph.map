@@ -1,0 +1,5 @@
+<map id="twr_opt3001_set_update_interval" name="twr_opt3001_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="451,25,599,66"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="245,25,393,66"/>
+<area shape="rect" id="node4" href="$group__twr__opt3001.html#ga6be950d3f4b642137711f0ba99b83bdd" title="Start measurement manually. " alt="" coords="236,91,403,118"/>
+</map>

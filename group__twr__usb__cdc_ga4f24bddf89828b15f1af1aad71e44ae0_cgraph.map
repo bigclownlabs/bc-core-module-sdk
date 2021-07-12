@@ -1,0 +1,9 @@
+<map id="twr_usb_cdc_read" name="twr_usb_cdc_read">
+<area shape="rect" id="node2" href="$group__twr__fifo.html#gac964da9bfe020888cd31365496280b5e" title="Read data from FIFO. " alt="" coords="232,31,339,57"/>
+<area shape="rect" id="node5" href="$group__twr__fifo.html#gac5be6a0c2ddcdc584b6134ef5ce58f78" title="Write data to FIFO from interrupt. " alt="" coords="218,81,353,108"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="192,132,379,159"/>
+<area shape="rect" id="node7" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="200,183,371,209"/>
+<area shape="rect" id="node8" href="$group__twr__scheduler.html#gaa83e800be017cbd785a210a6af53dce1" title="Schedule current task for immediate execution. " alt="" coords="211,234,359,275"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="427,5,548,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="428,56,547,83"/>
+</map>

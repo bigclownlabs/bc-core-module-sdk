@@ -1,0 +1,4 @@
+<map id="twr_pulse_counter_reset" name="twr_pulse_counter_reset">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="252,5,400,47"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="235,71,417,98"/>
+</map>

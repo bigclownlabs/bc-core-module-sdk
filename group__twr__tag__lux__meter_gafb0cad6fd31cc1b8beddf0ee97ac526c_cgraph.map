@@ -1,0 +1,6 @@
+<map id="twr_tag_lux_meter_set_update_interval" name="twr_tag_lux_meter_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__opt3001.html#ga342d8d12eb3535080672511cf2ac40e7" title="Set measurement interval. " alt="" coords="224,25,407,66"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="669,25,817,66"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="464,25,612,66"/>
+<area shape="rect" id="node5" href="$group__twr__opt3001.html#ga6be950d3f4b642137711f0ba99b83bdd" title="Start measurement manually. " alt="" coords="455,91,621,118"/>
+</map>

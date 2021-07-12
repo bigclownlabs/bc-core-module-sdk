@@ -1,0 +1,7 @@
+<map id="twr_rf_ook_init" name="twr_rf_ook_init">
+<area shape="rect" id="node2" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="203,56,309,83"/>
+<area shape="rect" id="node5" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="181,5,331,32"/>
+<area shape="rect" id="node6" href="$group__twr__rf__ook.html#ga230661a282a714beda924043e84a71b0" title="Configure OOK bitrate. " alt="" coords="172,107,340,133"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="388,5,509,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="389,56,508,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="twr_tag_humidity_set_update_interval" name="twr_tag_humidity_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__hts221.html#ga5ba0341c801dffa7cde4186a73d93520" title="Set measurement interval. " alt="" coords="221,67,395,109"/>
+<area shape="rect" id="node6" href="$group__twr__hdc2080.html#gaed3d22c20ed6787c3f8a688b5dd5c4f2" title="Set measurement interval. " alt="" coords="216,163,400,205"/>
+<area shape="rect" id="node8" href="$group__twr__sht20.html#ga35a052c5aee9a39e5a022e829e0a2b05" title="Set measurement interval. " alt="" coords="225,337,391,378"/>
+<area shape="rect" id="node10" href="$group__twr__sht30.html#ga0c0a7d2c417c9ca14fdacce37b48aaf4" title="Set measurement interval. " alt="" coords="225,254,391,295"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="665,209,813,250"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="459,209,607,250"/>
+<area shape="rect" id="node5" href="$group__twr__hts221.html#ga68eca06c20d7fce261fe0f78c6335577" title="Start measurement manually. " alt="" coords="453,5,612,32"/>
+<area shape="rect" id="node7" href="$group__twr__hdc2080.html#ga929d607172bbc24091380e0faa8fdd30" title="Start measurement manually. " alt="" coords="448,107,617,133"/>
+<area shape="rect" id="node9" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="457,427,608,453"/>
+<area shape="rect" id="node11" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="457,275,608,301"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="twr_esp8266_get_received_message_data" name="twr_esp8266_get_received_message_data">
+<area shape="rect" id="node2" href="$group__twr__uart.html#gabe1881a63579335adf4aa6d726164c8d" title="Get data that has been received in async mode. " alt="" coords="251,81,408,108"/>
+<area shape="rect" id="node9" href="$group__twr__rtc.html#ga999bd9c374d200aceb1a252f9e94593b" title="twr_rtc_set_datetime" alt="" coords="249,132,409,159"/>
+<area shape="rect" id="node3" href="$group__twr__fifo.html#gac964da9bfe020888cd31365496280b5e" title="Read data from FIFO. " alt="" coords="497,5,604,32"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="457,107,644,133"/>
+<area shape="rect" id="node7" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="477,158,625,199"/>
+<area shape="rect" id="node8" href="$group__twr__fifo.html#ga77526c19bac59dc159b6f21451d1704e" title="Is empty. " alt="" coords="481,56,620,83"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="692,5,813,32"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="693,56,812,83"/>
+</map>

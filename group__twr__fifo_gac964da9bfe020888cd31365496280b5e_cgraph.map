@@ -1,0 +1,4 @@
+<map id="twr_fifo_read" name="twr_fifo_read">
+<area shape="rect" id="node2" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="160,5,281,32"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="161,56,280,83"/>
+</map>

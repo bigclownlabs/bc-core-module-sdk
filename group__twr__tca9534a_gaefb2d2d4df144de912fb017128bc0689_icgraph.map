@@ -1,0 +1,8 @@
+<map id="twr_tca9534a_write_pin" name="twr_tca9534a_write_pin">
+<area shape="rect" id="node2" href="$group__twr__module__gps.html#gab852df3ae3ecbb664e1e25bff9a96427" title="Get LED driver. " alt="" coords="231,5,388,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__gps.html#ga82ec03537a39f12715607bb810f7df01" title="Initialize HARDWARIO GPS Module. " alt="" coords="231,71,388,98"/>
+<area shape="rect" id="node4" href="$group__twr__module__lcd.html#gae682f364f188a725410b3b9f74f530f8" title="Lcd get button driver. " alt="" coords="233,123,386,164"/>
+<area shape="rect" id="node6" href="$group__twr__module__lcd.html#gad4d4e1f256d0f80d6337e4f7b9512fa2" title="Lcd off. " alt="" coords="235,189,384,215"/>
+<area shape="rect" id="node7" href="$group__twr__module__lcd.html#ga12ca39fb0a1cdf4a36cdae58ec9305f5" title="Lcd on. " alt="" coords="235,239,383,266"/>
+<area shape="rect" id="node5" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="436,123,588,164"/>
+</map>

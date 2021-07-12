@@ -1,0 +1,51 @@
+<map id="twr_i2c_memory_write_8b" name="twr_i2c_memory_write_8b">
+<area shape="rect" id="node2" href="$group__twr__cy8cmbr3102.html#ga32e2c584c26458c0267e56301a5a9964" title="Is touch. " alt="" coords="281,5,437,47"/>
+<area shape="rect" id="node3" href="$group__twr__hdc2080.html#ga82544f793f8cddf53baff9691f54e903" title="Deinitialize HDC2080. " alt="" coords="284,71,433,98"/>
+<area shape="rect" id="node4" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="248,123,469,164"/>
+<area shape="rect" id="node6" href="$group__twr__hts221.html#ga38ea323be66af4a9384f1df1bf436dff" title="Deinitialize HTS221. " alt="" coords="289,189,428,215"/>
+<area shape="rect" id="node7" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="265,240,452,281"/>
+<area shape="rect" id="node9" href="$group__twr__lis2dh12.html#gac0a5cfd7920a78418f972bdd379ac2e0" title="Get measured acceleration in g. " alt="" coords="263,306,455,333"/>
+<area shape="rect" id="node10" href="$group__twr__lis2dh12.html#gaf7e9161364c7e7835cb5d10d7917b1ac" title="Enable or disable accelerometer threshold alarm. " alt="" coords="270,357,447,383"/>
+<area shape="rect" id="node11" href="$group__twr__module__rs485.html#ga73e517decccfd6d5a573e38ec56677ae" title="Deinitialize RS&#45;485 Module. " alt="" coords="265,407,452,434"/>
+<area shape="rect" id="node12" href="$group__twr__mpl3115a2.html#gad5c84e2f09fc71192ae868db9bc00a0d" title="Deinitialize MPL3115A2. " alt="" coords="275,458,442,485"/>
+<area shape="rect" id="node13" href="$group__twr__mpl3115a2.html#ga81e732c3d6e9606bbeb09c6c792a88b7" title="Get measured pressured in Pascal. " alt="" coords="251,509,466,551"/>
+<area shape="rect" id="node16" href="$group__twr__sc16is740.html#gaa00e1266f0a933406c6da523d6ab15bb" title="SC16IS740 instance. " alt="" coords="1261,626,1404,653"/>
+<area shape="rect" id="node19" href="$group__twr__sc16is740.html#ga292320f441e58812a9aa4c81cdfc3c3d" title="Reset FIFO. " alt="" coords="1241,575,1424,602"/>
+<area shape="rect" id="node20" href="$group__twr__sc16is740.html#ga88bd0315de5374e49aaab1a20e3652ad" title="Set baudrate. " alt="" coords="255,1091,462,1118"/>
+<area shape="rect" id="node22" href="$group__twr__ssd1306.html#ga6f78205840beb0b43586bd341588a417" title="Get Lcd driver. " alt="" coords="270,1142,447,1169"/>
+<area shape="rect" id="node23" href="$group__twr__tca9534a.html#gad13e3a65c109efc556015855383fb763" title="Set direction of all pins. " alt="" coords="273,1025,444,1067"/>
+<area shape="rect" id="node36" href="$group__twr__tca9534a.html#ga42ad181a18dddc574e8e2f50a42b1299" title="Write state to all pins. " alt="" coords="267,974,450,1001"/>
+<area shape="rect" id="node48" href="$group__twr__tmp112.html#ga12df9950a886baa5df540771f624822f" title="Get measured temperature in kelvin. " alt="" coords="251,1629,467,1671"/>
+<area shape="rect" id="node5" href="$group__twr__tag__humidity.html#ga697b69dfc8fe0d8fbb77fdcf85687f15" title="Get measured temperature in degrees of Celsius. " alt="" coords="539,123,703,164"/>
+<area shape="rect" id="node8" href="$group__twr__tag__humidity.html#ga86572e19d178962f0abc64f24e583273" title="Get measured humidity as percentage. " alt="" coords="537,240,704,281"/>
+<area shape="rect" id="node14" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="539,444,702,485"/>
+<area shape="rect" id="node15" href="$group__twr__tag__barometer.html#gabe4b7e1ddc3459087b7c62934041bd79" title="Get measured pressure in Pascal. " alt="" coords="533,509,708,551"/>
+<area shape="rect" id="node17" href="$group__twr__module__co2.html#gae4366e6477c71738d1fc063b21522f2b" title="Request sensor calibration. " alt="" coords="1472,651,1677,678"/>
+<area shape="rect" id="node18" href="$group__twr__module__rs485.html#ga97afa924ee3ef5fefdb925e571aa2773" title="Initialize RS&#45;485 Module. " alt="" coords="1489,589,1660,615"/>
+<area shape="rect" id="node21" href="$group__twr__module__rs485.html#gab16ae18ff9d87531f26f1ef6f37fc373" title="Set baudrate. " alt="" coords="536,1564,705,1605"/>
+<area shape="rect" id="node24" href="$group__twr__module__gps.html#ga82ec03537a39f12715607bb810f7df01" title="Initialize HARDWARIO GPS Module. " alt="" coords="804,961,961,987"/>
+<area shape="rect" id="node25" href="$group__twr__module__lcd.html#gae682f364f188a725410b3b9f74f530f8" title="Lcd get button driver. " alt="" coords="806,728,959,769"/>
+<area shape="rect" id="node27" href="$group__twr__module__sensor.html#gab13f9c29632d62290f1bb90da3e6b5c9" title="Initialize Sensor Module. " alt="" coords="532,1181,709,1207"/>
+<area shape="rect" id="node35" href="$group__twr__module__x1.html#ga3ddeffc8c34754f355cb93cdb766e821" title="Initialize X1 Module. " alt="" coords="545,1282,696,1309"/>
+<area shape="rect" id="node26" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="1041,728,1193,769"/>
+<area shape="rect" id="node28" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="772,1143,993,1184"/>
+<area shape="rect" id="node29" href="$group__twr__i2c.html#ga286eab51a1468de797ed590ef08f7984" title="Initialize I2C channel. " alt="" coords="1069,1361,1166,1387"/>
+<area shape="rect" id="node33" href="$group__twr__pulse__counter.html#ga0d8120cc233f7a2a2a515b5dac93610b" title="Initialize pulse counter. " alt="" coords="798,1259,967,1286"/>
+<area shape="rect" id="node34" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="1042,1077,1193,1119"/>
+<area shape="rect" id="node30" href="$group__twr__atsha204.html#ga41033791fc10ee37c46c2a33da3f1d89" title="Initialize ATSHA204 driver. " alt="" coords="1263,1411,1402,1438"/>
+<area shape="rect" id="node31" href="$group__twr__cy8cmbr3102.html#gac38ca1fc3b8d6cc240fdb532bd21fb41" title="Initialize CY8CMBR3102. " alt="" coords="1249,1310,1416,1337"/>
+<area shape="rect" id="node32" href="$group__twr__ds2484.html#ga91bf94cf3df5fd958801ceea79f3e49c" title="Initialize DS2484. " alt="" coords="1270,1361,1395,1387"/>
+<area shape="rect" id="node37" href="$group__twr__module__relay.html#ga6f5442a803d31777a75671cca93eee86" title="Initialize HARDWARIO Relay Module. " alt="" coords="537,978,704,1005"/>
+<area shape="rect" id="node38" href="$group__twr__module__sensor.html#gad2bd43d6e1a59f5da25feca66550a704" title="Set pull of Sensor Module channel. " alt="" coords="517,1130,724,1157"/>
+<area shape="rect" id="node42" href="$group__twr__module__sensor.html#gaa7b14b43c3ccd53c5927363fccf7ae0b" title="Set VDD On / Off. " alt="" coords="517,1079,724,1106"/>
+<area shape="rect" id="node43" href="$group__twr__module__x1.html#ga3f60bb31fad9722cce68d5fb7f9b693c" title="Initialize and get Instance 1&#45;Wire for channel B. " alt="" coords="778,1411,987,1438"/>
+<area shape="rect" id="node44" href="$group__twr__tca9534a.html#gaefb2d2d4df144de912fb017128bc0689" title="Write pin state. " alt="" coords="532,870,709,897"/>
+<area shape="rect" id="node39" href="$group__twr__i2c.html#ga114617537fac26bae48276477de053d9" title="Deitialize I2C channel. " alt="" coords="826,1209,939,1235"/>
+<area shape="rect" id="node40" href="$group__twr__module__sensor.html#ga9faebc3210f730ac0a314c6305d30330" title="Semaphore for 1Wire Power up: for R1.1 set VDD On, for R1.0 pull up 56R on channel A..." alt="" coords="779,1077,987,1119"/>
+<area shape="rect" id="node41" href="$group__twr__module__sensor.html#ga9e6fe94c15d8f257ac155a43660558c4" title="Semaphore for 1Wire Power down: for R1.1 set VDD Off, for R1.0 pull none on channel A..." alt="" coords="779,1012,987,1053"/>
+<area shape="rect" id="node45" href="$group__twr__module__gps.html#gab852df3ae3ecbb664e1e25bff9a96427" title="Get LED driver. " alt="" coords="804,793,961,835"/>
+<area shape="rect" id="node46" href="$group__twr__module__lcd.html#ga12ca39fb0a1cdf4a36cdae58ec9305f5" title="Lcd on. " alt="" coords="809,859,957,886"/>
+<area shape="rect" id="node47" href="$group__twr__module__lcd.html#gad4d4e1f256d0f80d6337e4f7b9512fa2" title="Lcd off. " alt="" coords="808,910,957,937"/>
+<area shape="rect" id="node49" href="$group__twr__module__climate.html#ga12952a030dfe35b40da2c50f8189510a" title="Get measured temperature in kelvin. " alt="" coords="528,1629,713,1671"/>
+<area shape="rect" id="node50" href="$group__twr__tag__temperature.html#ga994d04b114b7556ed73cd903e60e80fc" title="Get measured temperature in kelvin. " alt="" coords="528,1695,713,1736"/>
+</map>

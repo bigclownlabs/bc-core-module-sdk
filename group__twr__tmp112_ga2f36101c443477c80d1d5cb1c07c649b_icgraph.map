@@ -1,0 +1,6 @@
+<map id="twr_tmp112_set_update_interval" name="twr_tmp112_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="232,5,395,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#gaa2360d9f20f8731bec68ddb26f8d24fe" title="Set measurement interval for all sensors. " alt="" coords="234,71,393,127"/>
+<area shape="rect" id="node4" href="$group__twr__module__climate.html#ga27d63a9fb8dda4e5066483b0588c5482" title="Set measurement interval for thermometer. " alt="" coords="234,151,393,207"/>
+<area shape="rect" id="node5" href="$group__twr__tag__temperature.html#ga170a7cbb474579e306e1f088189b05e0" title="Set measurement interval. " alt="" coords="234,232,393,273"/>
+</map>

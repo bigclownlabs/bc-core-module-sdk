@@ -1,0 +1,12 @@
+<map id="twr_atci_init" name="twr_atci_init">
+<area shape="rect" id="node2" href="$group__twr__fifo.html#gae90183e9e9b656a8733ebfaaa4f25bae" title="Initialize FIFO buffer. " alt="" coords="197,5,296,32"/>
+<area shape="rect" id="node3" href="$group__twr__atci.html#gad254650b10cbb18f6ae1c3cf13e2c6d9" title="Set callback function for scan if uart is active. Used for low&#45;power when USB is disconnected (defaul..." alt="" coords="156,57,337,98"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="385,13,572,40"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="393,64,564,91"/>
+<area shape="rect" id="node6" href="$group__twr__uart.html#ga229996e57c54475279dcc2b093afa85a" title="Initialize UART channel. " alt="" coords="427,115,531,141"/>
+<area shape="rect" id="node7" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="641,64,748,91"/>
+<area shape="rect" id="node10" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="627,115,763,141"/>
+<area shape="rect" id="node11" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="620,165,769,192"/>
+<area shape="rect" id="node8" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="817,89,939,116"/>
+<area shape="rect" id="node9" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="819,140,937,167"/>
+</map>

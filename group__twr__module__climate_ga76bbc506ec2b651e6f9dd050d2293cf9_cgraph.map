@@ -1,0 +1,51 @@
+<map id="twr_module_climate_get_pressure_pascal" name="twr_module_climate_get_pressure_pascal">
+<area shape="rect" id="node2" href="$group__twr__mpl3115a2.html#ga81e732c3d6e9606bbeb09c6c792a88b7" title="Get measured pressured in Pascal. " alt="" coords="216,587,431,629"/>
+<area shape="rect" id="node21" href="$group__twr__tmp112.html#gab6f4547cfce8ffba814833740cc66851" title="Deinitialize TMP112. " alt="" coords="251,789,395,816"/>
+<area shape="rect" id="node24" href="$group__twr__sht20.html#ga8442bfdebbfa2f7284e3f3af4320ee41" title="Deinitialize SHT20. " alt="" coords="258,891,389,917"/>
+<area shape="rect" id="node25" href="$group__twr__sht30.html#gae0ac142fe97c9423880e8bde9d7f6b5e" title="Initialize SHT30. " alt="" coords="523,1043,637,1069"/>
+<area shape="rect" id="node38" href="$group__twr__sht30.html#gaafdd37563fb8955e4e898adf93b17f13" title="Set callback function. " alt="" coords="245,1094,402,1135"/>
+<area shape="rect" id="node39" href="$group__twr__sht30.html#ga0c0a7d2c417c9ca14fdacce37b48aaf4" title="Set measurement interval. " alt="" coords="241,195,406,237"/>
+<area shape="rect" id="node42" href="$group__twr__sht30.html#ga2a66081f7df9ab79406875c7970c55e0" title="Deinitialize SHT30. " alt="" coords="258,840,389,867"/>
+<area shape="rect" id="node43" href="$group__twr__sht20.html#ga14adff3ac34db00b088d01b7741e740e" title="Initialize SHT20. " alt="" coords="523,941,637,968"/>
+<area shape="rect" id="node44" href="$group__twr__sht20.html#gacdf50e6bf951554990fa746b7a186b80" title="Set callback function. " alt="" coords="245,1159,402,1201"/>
+<area shape="rect" id="node45" href="$group__twr__sht20.html#ga35a052c5aee9a39e5a022e829e0a2b05" title="Set measurement interval. " alt="" coords="241,78,406,119"/>
+<area shape="rect" id="node47" href="$group__twr__tmp112.html#gaeafc95258a46da4c0c521230f148e812" title="Initialize TMP112. " alt="" coords="516,992,644,1019"/>
+<area shape="rect" id="node48" href="$group__twr__tmp112.html#ga8a29077b6d5aa9063b429e5325e142b0" title="Set callback function. " alt="" coords="238,1225,409,1266"/>
+<area shape="rect" id="node49" href="$group__twr__tmp112.html#ga2f36101c443477c80d1d5cb1c07c649b" title="Set measurement interval. " alt="" coords="234,293,413,334"/>
+<area shape="rect" id="node3" href="$group__twr__mpl3115a2.html#ga8c978d7dad4da50cb05f75aa0b507b10" title="Start measurement manually. " alt="" coords="487,376,673,403"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="506,646,654,687"/>
+<area shape="rect" id="node6" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="483,763,677,789"/>
+<area shape="rect" id="node9" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="1263,851,1365,877"/>
+<area shape="rect" id="node12" href="$group__twr__scheduler.html#ga4471cfc1dd843adc16a2d9c566e06db7" title="Schedule current task to absolute tick. " alt="" coords="506,529,654,570"/>
+<area shape="rect" id="node13" href="$group__twr__scheduler.html#ga39d14277e9c8269517346f394edf645b" title="Schedule current task to tick relative from now. " alt="" coords="741,617,889,658"/>
+<area shape="rect" id="node14" href="$group__twr__i2c.html#gaedddada7a7d84f001b34bb42c731cf1f" title="Memory read 1 byte from I2C channel. " alt="" coords="485,427,675,453"/>
+<area shape="rect" id="node15" href="$group__twr__i2c.html#ga95b02a5c1d0636f36d58b7fc212d9174" title="Memory read from I2C channel. " alt="" coords="731,477,898,504"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="741,217,889,258"/>
+<area shape="rect" id="node7" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="729,767,900,793"/>
+<area shape="rect" id="node8" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="969,759,1136,801"/>
+<area shape="rect" id="node10" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="1471,1119,1592,1145"/>
+<area shape="rect" id="node11" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="1472,1169,1591,1196"/>
+<area shape="rect" id="node16" href="$group__twr__ds28e17.html#ga5778c65f5dd6eb1b541f2350422ca015" title="Memory read from I2C. " alt="" coords="951,556,1154,583"/>
+<area shape="rect" id="node17" href="$group__twr__onewire.html#ga62d16eadaa229627e490ecb48f7389a6" title="Start transaction, enable pll and run timer. " alt="" coords="1223,465,1405,506"/>
+<area shape="rect" id="node18" href="$group__twr__onewire.html#ga6441ee52c20b2381ab08d9cb0ee96ac1" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="1243,531,1385,557"/>
+<area shape="rect" id="node19" href="$group__twr__onewire.html#gad0d9fbf6c1f6e9806f3409a92042f981" title="Stop transaction. " alt="" coords="1205,581,1423,608"/>
+<area shape="rect" id="node20" href="$group__twr__onewire.html#gac163fd0b3fe8b4aa8eb875443d328fb4" title="Calculate 16&#45;bit CRC, polynomial 0x8005. " alt="" coords="1242,632,1386,659"/>
+<area shape="rect" id="node22" href="$group__twr__i2c.html#gacaf2a9041a7908e29598536cf586d3bf" title="Memory write 2 bytes to I2C channel. " alt="" coords="479,813,681,840"/>
+<area shape="rect" id="node23" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="487,864,673,891"/>
+<area shape="rect" id="node26" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="729,992,900,1019"/>
+<area shape="rect" id="node27" href="$group__twr__i2c.html#ga286eab51a1468de797ed590ef08f7984" title="Initialize I2C channel. " alt="" coords="766,1043,863,1069"/>
+<area shape="rect" id="node28" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="1261,1119,1367,1145"/>
+<area shape="rect" id="node29" href="$group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="1246,1169,1382,1196"/>
+<area shape="rect" id="node30" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="1239,1220,1389,1247"/>
+<area shape="rect" id="node31" href="$group__twr__i2c.html#ga987a812f42e53e426ae8af64defd31cf" title="Set I2C channel speed. " alt="" coords="981,1296,1124,1323"/>
+<area shape="rect" id="node32" href="$group__twr__module__sensor.html#gab13f9c29632d62290f1bb90da3e6b5c9" title="Initialize Sensor Module. " alt="" coords="964,1093,1141,1120"/>
+<area shape="rect" id="node33" href="$group__twr__module__sensor.html#ga9faebc3210f730ac0a314c6305d30330" title="Semaphore for 1Wire Power up: for R1.1 set VDD On, for R1.0 pull up 56R on channel A..." alt="" coords="949,1347,1157,1389"/>
+<area shape="rect" id="node34" href="$group__twr__module__sensor.html#ga8ea55a11c81f2af1412b68db35859a3b" title="Initialize and get Instance 1&#45;Wire for channel B. " alt="" coords="964,825,1141,866"/>
+<area shape="rect" id="node35" href="$group__twr__module__x1.html#ga3ddeffc8c34754f355cb93cdb766e821" title="Initialize X1 Module. " alt="" coords="977,891,1128,917"/>
+<area shape="rect" id="node36" href="$group__twr__module__x1.html#ga3f60bb31fad9722cce68d5fb7f9b693c" title="Initialize and get Instance 1&#45;Wire for channel B. " alt="" coords="948,941,1157,968"/>
+<area shape="rect" id="node37" href="$group__twr__ds28e17.html#gae0b02aebafc15e58072c53ad56f241c0" title="Initialize DS28E17. " alt="" coords="986,1043,1119,1069"/>
+<area shape="rect" id="node40" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="506,107,654,149"/>
+<area shape="rect" id="node41" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="505,173,655,200"/>
+<area shape="rect" id="node46" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="505,5,655,32"/>
+<area shape="rect" id="node50" href="$group__twr__tmp112.html#ga914fd94275d4c8f51df6daf962becda2" title="Start measurement manually. " alt="" coords="498,325,662,352"/>
+</map>

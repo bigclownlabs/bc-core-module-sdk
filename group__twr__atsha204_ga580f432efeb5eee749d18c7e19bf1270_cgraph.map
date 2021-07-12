@@ -1,0 +1,4 @@
+<map id="twr_atsha204_read_serial_number" name="twr_atsha204_read_serial_number">
+<area shape="rect" id="node2" href="$group__twr__atsha204.html#ga2300596cbfe2ad7741e1d4929bc4d86b" title="Check if is ready for commands. " alt="" coords="243,5,415,32"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="255,57,403,98"/>
+</map>

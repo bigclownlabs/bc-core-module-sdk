@@ -1,0 +1,4 @@
+<map id="twr_tag_barometer_measure" name="twr_tag_barometer_measure">
+<area shape="rect" id="node2" href="$group__twr__mpl3115a2.html#ga8c978d7dad4da50cb05f75aa0b507b10" title="Start measurement manually. " alt="" coords="264,13,451,39"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="499,5,647,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="twr_eeprom_write" name="twr_eeprom_write">
+<area shape="rect" id="node2" href="$group__twr__config.html#gaae9596671a764be00210e93527a805db" title="Save configuration to EEPROM. " alt="" coords="193,5,320,32"/>
+<area shape="rect" id="node3" href="$group__twr__config.html#ga0310addf60b17b007ce651acd0f466c7" title="Initialize and load the config from EEPROM. " alt="" coords="368,5,485,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="twr_module_relay_init" name="twr_module_relay_init">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="230,5,417,32"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="238,56,409,83"/>
+<area shape="rect" id="node4" href="$group__twr__tca9534a.html#ga42ad181a18dddc574e8e2f50a42b1299" title="Write state to all pins. " alt="" coords="232,107,415,133"/>
+<area shape="rect" id="node8" href="$group__twr__scheduler.html#ga4471cfc1dd843adc16a2d9c566e06db7" title="Schedule current task to absolute tick. " alt="" coords="249,158,397,199"/>
+<area shape="rect" id="node9" href="$group__twr__scheduler.html#gab25eb80ff164190c8b03427fe461671e" title="Get current tick of spin in which task has been run. " alt="" coords="220,224,427,251"/>
+<area shape="rect" id="node5" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="475,107,669,133"/>
+<area shape="rect" id="node6" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="717,107,888,133"/>
+<area shape="rect" id="node7" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="936,99,1103,141"/>
+</map>

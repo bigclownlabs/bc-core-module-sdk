@@ -1,0 +1,3 @@
+<map id="twr_module_sigfox_get_device_id" name="twr_module_sigfox_get_device_id">
+<area shape="rect" id="node2" href="$group__twr__wssfm10r1at.html#ga0242074dd12882893dac5d19ba542f86" title="Get device ID (can be called only in TWR_WSSFM10R1AT_EVENT_READ_DEVICE_ID event) " alt="" coords="228,5,391,47"/>
+</map>

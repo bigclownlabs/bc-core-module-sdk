@@ -1,0 +1,32 @@
+<map id="twr_tag_humidity_get_humidity_percentage" name="twr_tag_humidity_get_humidity_percentage">
+<area shape="rect" id="node2" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="226,339,413,380"/>
+<area shape="rect" id="node26" href="$group__twr__hdc2080.html#ga9cd03de810f829e8400c97e690632c8b" title="Get measured humidity as percentage. " alt="" coords="220,524,419,565"/>
+<area shape="rect" id="node28" href="$group__twr__sht20.html#ga910fa43544abc1a221e38ffab8e34fb8" title="Get measured humidity as percentage. " alt="" coords="230,589,409,631"/>
+<area shape="rect" id="node30" href="$group__twr__sht30.html#gab605eac250c0ea05fdff27ecaee3b3fa" title="Get measured humidity as percentage. " alt="" coords="230,655,409,696"/>
+<area shape="rect" id="node3" href="$group__twr__hts221.html#ga68eca06c20d7fce261fe0f78c6335577" title="Start measurement manually. " alt="" coords="502,153,661,179"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="507,204,655,245"/>
+<area shape="rect" id="node6" href="$group__twr__i2c.html#gaedddada7a7d84f001b34bb42c731cf1f" title="Memory read 1 byte from I2C channel. " alt="" coords="486,270,677,297"/>
+<area shape="rect" id="node15" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="1271,477,1373,503"/>
+<area shape="rect" id="node21" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="484,371,679,398"/>
+<area shape="rect" id="node24" href="$group__twr__scheduler.html#ga4471cfc1dd843adc16a2d9c566e06db7" title="Schedule current task to absolute tick. " alt="" coords="507,423,655,464"/>
+<area shape="rect" id="node25" href="$group__twr__scheduler.html#ga39d14277e9c8269517346f394edf645b" title="Schedule current task to tick relative from now. " alt="" coords="990,477,1138,519"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="755,145,903,187"/>
+<area shape="rect" id="node7" href="$group__twr__i2c.html#ga95b02a5c1d0636f36d58b7fc212d9174" title="Memory read from I2C channel. " alt="" coords="746,270,913,297"/>
+<area shape="rect" id="node8" href="$group__twr__ds28e17.html#ga5778c65f5dd6eb1b541f2350422ca015" title="Memory read from I2C. " alt="" coords="963,270,1165,297"/>
+<area shape="rect" id="node9" href="$group__twr__onewire.html#ga62d16eadaa229627e490ecb48f7389a6" title="Start transaction, enable pll and run timer. " alt="" coords="1231,5,1413,47"/>
+<area shape="rect" id="node10" href="$group__twr__onewire.html#ga6441ee52c20b2381ab08d9cb0ee96ac1" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="1251,71,1393,98"/>
+<area shape="rect" id="node11" href="$group__twr__onewire.html#gad0d9fbf6c1f6e9806f3409a92042f981" title="Stop transaction. " alt="" coords="1213,122,1431,149"/>
+<area shape="rect" id="node12" href="$group__twr__onewire.html#gac163fd0b3fe8b4aa8eb875443d328fb4" title="Calculate 16&#45;bit CRC, polynomial 0x8005. " alt="" coords="1250,173,1394,199"/>
+<area shape="rect" id="node13" href="$group__twr__onewire.html#gaaf771beb6eccc2dcbe3dbc5051f59778" title="Select device. " alt="" coords="1248,223,1396,250"/>
+<area shape="rect" id="node14" href="$group__twr__onewire.html#ga0342106061d58212efc91ebad24579dd" title="Select device. " alt="" coords="1251,274,1393,301"/>
+<area shape="rect" id="node18" href="$group__twr__onewire.html#gacc7fb763cff4065214a50a809ac73f06" title="Select device. " alt="" coords="1241,325,1403,351"/>
+<area shape="rect" id="node19" href="$group__twr__onewire.html#gaafc6eafbe2c69bcaed5876c3aa418635" title="Select device. " alt="" coords="1235,375,1409,402"/>
+<area shape="rect" id="node20" href="$group__twr__onewire.html#gaa31f28e38411caf6badad7a5f59a13e1" title="Select device. " alt="" coords="1253,426,1391,453"/>
+<area shape="rect" id="node16" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="1479,451,1600,478"/>
+<area shape="rect" id="node17" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="1480,502,1599,529"/>
+<area shape="rect" id="node22" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="744,375,915,402"/>
+<area shape="rect" id="node23" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="981,372,1147,413"/>
+<area shape="rect" id="node27" href="$group__twr__hdc2080.html#gae7097a9ba494f1e61b16a221284ecaad" title="Get measured humidity as raw value. " alt="" coords="467,539,696,566"/>
+<area shape="rect" id="node29" href="$group__twr__sht20.html#ga5eec89523420b90f8aef2834b02d84aa" title="Get measured humidity as raw value. " alt="" coords="476,597,687,623"/>
+<area shape="rect" id="node31" href="$group__twr__sht30.html#gafab63a72b008888efa24a57600fe6d3b" title="Get measured humidity as raw value. " alt="" coords="476,662,687,689"/>
+</map>

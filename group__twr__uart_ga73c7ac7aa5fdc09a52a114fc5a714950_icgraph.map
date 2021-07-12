@@ -1,0 +1,11 @@
+<map id="twr_uart_write" name="twr_uart_write">
+<area shape="rect" id="node2" href="$group__twr__atci.html#ga73c4c2274653f0f565633c89b334bff9" title="Print message. " alt="" coords="192,5,303,32"/>
+<area shape="rect" id="node3" href="$group__twr__atci.html#gab7b1e2f452cb263e3a35e07fc614a3b0" title="Print buffer as HEX string. " alt="" coords="169,57,325,98"/>
+<area shape="rect" id="node4" href="$group__twr__atci.html#ga39b7fe8e9ed706ef54616b485affcc16" title="Prinf message. " alt="" coords="189,123,305,149"/>
+<area shape="rect" id="node5" href="$group__twr__atci.html#gafd8d773bef7e9bd4cb829eb6e804a58a" title="Prinf message and add CR LF. " alt="" coords="184,173,311,200"/>
+<area shape="rect" id="node8" href="$group__twr__atci.html#gac9ba27a87a9e6045905b558c0489df4d" title="Print message and add CR LF. " alt="" coords="186,224,309,251"/>
+<area shape="rect" id="node9" href="$group__twr__atci.html#ga823e6bb61ab7b2ff25907fc1c167823e" title="Write ERROR. " alt="" coords="171,275,323,301"/>
+<area shape="rect" id="node10" href="$group__twr__atci.html#ga9b94ae050c09448c733d48727aeda626" title="Write OK. " alt="" coords="179,325,316,352"/>
+<area shape="rect" id="node6" href="$group__twr__atci.html#ga42911e78ab51625f71e3431cf98701e8" title="Helper for clac action. " alt="" coords="374,173,529,200"/>
+<area shape="rect" id="node7" href="$group__twr__atci.html#ga45cec5cc5b0173278f8277f2b8fa4eb3" title="Helper for help action. " alt="" coords="373,275,529,301"/>
+</map>

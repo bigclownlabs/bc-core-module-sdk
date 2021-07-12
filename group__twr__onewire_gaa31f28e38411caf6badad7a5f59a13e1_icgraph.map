@@ -1,0 +1,51 @@
+<map id="twr_onewire_read" name="twr_onewire_read">
+<area shape="rect" id="node2" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="1451,27,1672,69"/>
+<area shape="rect" id="node3" href="$group__twr__ds28e17.html#ga5778c65f5dd6eb1b541f2350422ca015" title="Memory read from I2C. " alt="" coords="192,43,395,69"/>
+<area shape="rect" id="node4" href="$group__twr__i2c.html#ga95b02a5c1d0636f36d58b7fc212d9174" title="Memory read from I2C channel. " alt="" coords="443,799,609,825"/>
+<area shape="rect" id="node35" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="1486,177,1637,218"/>
+<area shape="rect" id="node5" href="$group__twr__i2c.html#gaedddada7a7d84f001b34bb42c731cf1f" title="Memory read 1 byte from I2C channel. " alt="" coords="661,545,852,572"/>
+<area shape="rect" id="node12" href="$group__twr__lis2dh12.html#gac0a5cfd7920a78418f972bdd379ac2e0" title="Get measured acceleration in g. " alt="" coords="929,144,1121,171"/>
+<area shape="rect" id="node14" href="$group__twr__mpl3115a2.html#ga81e732c3d6e9606bbeb09c6c792a88b7" title="Get measured pressured in Pascal. " alt="" coords="917,850,1132,891"/>
+<area shape="rect" id="node24" href="$group__twr__sc16is740.html#ga86f31eb992e1222cdd9dab79a8830c10" title="Read. " alt="" coords="1223,799,1373,825"/>
+<area shape="rect" id="node42" href="$group__twr__i2c.html#gad9c9f8f3e4fb1c43fd9d6bfadd2649fb" title="Memory read 2 bytes from I2C channel. " alt="" coords="657,1148,856,1175"/>
+<area shape="rect" id="node47" href="$group__twr__sam__m8q.html#ga6d5d8c0a134f56e3a9d4763a1051c084" title="Get accuracy. " alt="" coords="921,1345,1128,1372"/>
+<area shape="rect" id="node49" href="$group__twr__module__infra__grid.html#gabcf4a144c4152ab8dff0363b4427b20b" title="Read measured data from sensor to the buffer. " alt="" coords="673,1250,841,1291"/>
+<area shape="rect" id="node50" href="$group__twr__tag__nfc.html#ga47b20be5c3cb5180970f22eba447160d" title="Initialize NFC Tag. " alt="" coords="693,495,820,521"/>
+<area shape="rect" id="node6" href="$group__twr__cy8cmbr3102.html#ga32e2c584c26458c0267e56301a5a9964" title="Is touch. " alt="" coords="947,261,1103,302"/>
+<area shape="rect" id="node7" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="914,1111,1135,1153"/>
+<area shape="rect" id="node9" href="$group__twr__hts221.html#ga38ea323be66af4a9384f1df1bf436dff" title="Deinitialize HTS221. " alt="" coords="955,327,1094,353"/>
+<area shape="rect" id="node10" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="931,195,1118,237"/>
+<area shape="rect" id="node13" href="$group__twr__module__infra__grid.html#ga4df48e5444ab732ab60f355b957014de" title="Read and return thermistor temperature sensor value. " alt="" coords="941,429,1109,470"/>
+<area shape="rect" id="node17" href="$group__twr__sc16is740.html#gafe35864dab6df601fdd74d5a8af899cf" title="Get TX FIXO space available. " alt="" coords="927,690,1122,731"/>
+<area shape="rect" id="node22" href="$group__twr__sc16is740.html#gacf4cd9e7237019023d396ad55a27513c" title="Get RX FIXO available data. " alt="" coords="933,617,1116,644"/>
+<area shape="rect" id="node26" href="$group__twr__sc16is740.html#ga88bd0315de5374e49aaab1a20e3652ad" title="Set baudrate. " alt="" coords="921,377,1128,404"/>
+<area shape="rect" id="node28" href="$group__twr__tca9534a.html#gacf098ee03916b91aebbda19827577948" title="Initialize TCA9534A. " alt="" coords="955,545,1094,572"/>
+<area shape="rect" id="node37" href="$group__twr__tca9534a.html#ga308a29afe05056c8130ede9d1f79dfcd" title="Read state of all pins. " alt="" coords="935,495,1114,521"/>
+<area shape="rect" id="node39" href="$group__twr__tmp112.html#ga12df9950a886baa5df540771f624822f" title="Get measured temperature in kelvin. " alt="" coords="917,1013,1133,1054"/>
+<area shape="rect" id="node8" href="$group__twr__tag__humidity.html#ga697b69dfc8fe0d8fbb77fdcf85687f15" title="Get measured temperature in degrees of Celsius. " alt="" coords="1216,1111,1380,1153"/>
+<area shape="rect" id="node11" href="$group__twr__tag__humidity.html#ga86572e19d178962f0abc64f24e583273" title="Get measured humidity as percentage. " alt="" coords="1215,94,1381,135"/>
+<area shape="rect" id="node15" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="1217,850,1379,891"/>
+<area shape="rect" id="node16" href="$group__twr__tag__barometer.html#gabe4b7e1ddc3459087b7c62934041bd79" title="Get measured pressure in Pascal. " alt="" coords="1211,915,1385,957"/>
+<area shape="rect" id="node18" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="1720,748,1927,775"/>
+<area shape="rect" id="node20" href="$group__twr__sc16is740.html#ga4d6a65bc2f86c4da1088bbfa71200b7d" title="Write. " alt="" coords="1221,748,1375,775"/>
+<area shape="rect" id="node19" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="1975,741,2144,782"/>
+<area shape="rect" id="node21" href="$group__twr__module__rs485.html#ga2e76a424127992b43b10e1a9de848d86" title="Write data to RS&#45;485 bus. " alt="" coords="1470,748,1653,775"/>
+<area shape="rect" id="node23" href="$group__twr__module__rs485.html#ga55dd019873b11b520ca4e368a46e63af" title="Get number of received bytes. " alt="" coords="1193,596,1403,623"/>
+<area shape="rect" id="node25" href="$group__twr__module__rs485.html#ga09a686370ab538c780afa53ce69cd104" title="Read the received data. " alt="" coords="1472,799,1651,825"/>
+<area shape="rect" id="node27" href="$group__twr__module__rs485.html#gab16ae18ff9d87531f26f1ef6f37fc373" title="Set baudrate. " alt="" coords="1213,159,1383,201"/>
+<area shape="rect" id="node29" href="$group__twr__module__co2.html#gae4366e6477c71738d1fc063b21522f2b" title="Request sensor calibration. " alt="" coords="1459,465,1664,492"/>
+<area shape="rect" id="node30" href="$group__twr__module__gps.html#ga82ec03537a39f12715607bb810f7df01" title="Initialize HARDWARIO GPS Module. " alt="" coords="1219,377,1377,404"/>
+<area shape="rect" id="node31" href="$group__twr__module__infra__grid.html#ga3718ccb481fa2519d70ff603b43b765b" title="Get measured temperature in degrees of Celsius as a array of float numbers. " alt="" coords="1199,429,1397,470"/>
+<area shape="rect" id="node32" href="$group__twr__module__lcd.html#gae682f364f188a725410b3b9f74f530f8" title="Lcd get button driver. " alt="" coords="1485,294,1638,335"/>
+<area shape="rect" id="node34" href="$group__twr__module__sensor.html#gab13f9c29632d62290f1bb90da3e6b5c9" title="Initialize Sensor Module. " alt="" coords="1209,225,1387,252"/>
+<area shape="rect" id="node36" href="$group__twr__module__x1.html#ga3ddeffc8c34754f355cb93cdb766e821" title="Initialize X1 Module. " alt="" coords="1223,495,1373,521"/>
+<area shape="rect" id="node33" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="1747,294,1899,335"/>
+<area shape="rect" id="node38" href="$group__twr__tca9534a.html#ga7d060e48192b4258d98431c6daaed9e3" title="Read pin state. " alt="" coords="1211,327,1385,353"/>
+<area shape="rect" id="node40" href="$group__twr__module__climate.html#ga12952a030dfe35b40da2c50f8189510a" title="Get measured temperature in kelvin. " alt="" coords="1205,981,1391,1022"/>
+<area shape="rect" id="node41" href="$group__twr__tag__temperature.html#ga994d04b114b7556ed73cd903e60e80fc" title="Get measured temperature in kelvin. " alt="" coords="1205,1046,1391,1087"/>
+<area shape="rect" id="node43" href="$group__twr__cy8cmbr3102.html#ga6dd865f4d7d5f861e14efced33c71833" title="Get proximity (Capacitive sensor difference count signal.) " alt="" coords="941,1279,1108,1321"/>
+<area shape="rect" id="node44" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="904,1228,1145,1255"/>
+<area shape="rect" id="node45" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="1218,1229,1378,1270"/>
+<area shape="rect" id="node46" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="1212,1294,1384,1335"/>
+<area shape="rect" id="node48" href="$group__twr__module__gps.html#gabb8286b7464026ee933c74b8e857607e" title="Get accuracy. " alt="" coords="1219,1359,1377,1401"/>
+</map>

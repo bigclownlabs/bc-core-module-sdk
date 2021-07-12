@@ -1,0 +1,6 @@
+<map id="twr_uart_async_read_cancel" name="twr_uart_async_read_cancel">
+<area shape="rect" id="node2" href="$group__twr__dma.html#gafd30d79e3596d4db446ec026e35b56d9" title="Stop DMA channel. " alt="" coords="218,5,390,32"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga77cc7533dc20ee696fb73ae8798b052a" title="Unregister specified task. " alt="" coords="211,56,397,83"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="243,107,365,133"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="245,157,363,184"/>
+</map>

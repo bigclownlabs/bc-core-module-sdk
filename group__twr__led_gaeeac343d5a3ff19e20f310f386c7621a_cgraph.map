@@ -1,0 +1,6 @@
+<map id="twr_led_pulse" name="twr_led_pulse">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga98688bcc23e487e0b187874c6ae48ef5" title="Schedule specified task to tick relative from now. " alt="" coords="165,23,313,65"/>
+<area shape="rect" id="node3" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="361,31,464,57"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="512,5,633,32"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="513,56,632,83"/>
+</map>

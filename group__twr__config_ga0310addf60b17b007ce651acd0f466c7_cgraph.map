@@ -1,0 +1,10 @@
+<map id="twr_config_init" name="twr_config_init">
+<area shape="rect" id="node2" href="$group__twr__config.html#ga3bc07bd8218b50108752c585bb74070b" title="Load EEPROM configuration. " alt="" coords="173,56,297,83"/>
+<area shape="rect" id="node6" href="$group__twr__config.html#gafcb57ae7046d1c9b7f297021ba014043" title="Reset EEPROM configuration to zeros or init_config. " alt="" coords="171,157,300,184"/>
+<area shape="rect" id="node7" href="$group__twr__config.html#gaae9596671a764be00210e93527a805db" title="Save configuration to EEPROM. " alt="" coords="172,107,299,133"/>
+<area shape="rect" id="node3" href="$group__twr__sha256.html#ga94fa1686082c2757206cfa3e11de664a" title="Initialize SHA256 structure. " alt="" coords="360,5,485,32"/>
+<area shape="rect" id="node4" href="$group__twr__sha256.html#ga428cd2b24ca4290dfc6d42e80f9983e2" title="Compute SHA256 from data. " alt="" coords="348,56,497,83"/>
+<area shape="rect" id="node5" href="$group__twr__sha256.html#ga7dea38544b8847d31926a01354502cc3" title="Finalize SHA256 computation and read the final hash. " alt="" coords="357,107,489,133"/>
+<area shape="rect" id="node8" href="$group__twr__eeprom.html#ga9a55405114963534fbc35900c7ac7d09" title="Read buffer from EEPROM area. " alt="" coords="355,208,491,235"/>
+<area shape="rect" id="node9" href="$group__twr__eeprom.html#gaf35e9135586e196688e077703da02c53" title="Write buffer to EEPROM area and verify it. " alt="" coords="353,157,493,184"/>
+</map>

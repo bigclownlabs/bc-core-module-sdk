@@ -1,0 +1,4 @@
+<map id="twr_module_infra_grid_measure" name="twr_module_infra_grid_measure">
+<area shape="rect" id="node2" href="$group__twr__module__infra__grid.html#ga3718ccb481fa2519d70ff603b43b765b" title="Get measured temperature in degrees of Celsius as a array of float numbers. " alt="" coords="221,5,419,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__infra__grid.html#ga4d2ea294d40cbe2049fd4262232a9274" title="Set measurement interval. " alt="" coords="236,71,404,112"/>
+</map>

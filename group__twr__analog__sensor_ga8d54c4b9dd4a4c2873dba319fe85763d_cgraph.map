@@ -1,0 +1,9 @@
+<map id="twr_analog_sensor_init" name="twr_analog_sensor_init">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="473,5,644,32"/>
+<area shape="rect" id="node3" href="$group__twr__adc.html#gaf3f471573f748780f775aa40f7ef4d99" title="Initialize ADC converter. " alt="" coords="275,56,376,83"/>
+<area shape="rect" id="node8" href="$group__twr__adc.html#ga279784613539a7a60ff4804d3dc7f134" title="Set callback function. " alt="" coords="225,107,425,133"/>
+<area shape="rect" id="node4" href="$group__twr__adc.html#ga34b3a460a4440aa42071534de900a78b" title="Calibration. " alt="" coords="484,56,633,83"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="723,5,844,32"/>
+<area shape="rect" id="node6" href="$group__twr__adc.html#ga116e430db0221c8a12f1762425b75f14" title="Begins reading the ADC channel voltage in asynchronous mode. " alt="" coords="692,56,875,83"/>
+<area shape="rect" id="node7" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="724,107,843,133"/>
+</map>

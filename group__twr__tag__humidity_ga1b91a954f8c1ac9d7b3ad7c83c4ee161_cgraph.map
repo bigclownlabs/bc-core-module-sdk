@@ -1,0 +1,5 @@
+<map id="twr_tag_humidity_get_temperature_raw" name="twr_tag_humidity_get_temperature_raw">
+<area shape="rect" id="node2" href="$group__twr__hdc2080.html#ga6b44777c6053b3532814297ef292556c" title="Get measured temperature as raw value. " alt="" coords="217,5,469,32"/>
+<area shape="rect" id="node3" href="$group__twr__sht20.html#ga3a3a624088c96171349e7554c96d5ec0" title="Get measured temperature as raw value. " alt="" coords="227,56,460,83"/>
+<area shape="rect" id="node4" href="$group__twr__sht30.html#gaf4d574738946d64e0f5dac43bf22e0b1" title="Get measured temperature as raw value. " alt="" coords="227,107,460,133"/>
+</map>

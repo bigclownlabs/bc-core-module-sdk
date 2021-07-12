@@ -1,0 +1,4 @@
+<map id="twr_module_climate_measure_thermometer" name="twr_module_climate_measure_thermometer">
+<area shape="rect" id="node2" href="$group__twr__tmp112.html#ga914fd94275d4c8f51df6daf962becda2" title="Start measurement manually. " alt="" coords="232,13,396,39"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="444,5,592,47"/>
+</map>

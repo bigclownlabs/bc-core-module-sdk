@@ -1,0 +1,4 @@
+<map id="twr_ds18b20_init" name="twr_ds18b20_init">
+<area shape="rect" id="node2" href="$group__twr__ds18b20.html#gad299d696c061db237cdb71fd9952bad6" title="Initialize multiple ds18b20 over channel B on Sensor Module. " alt="" coords="187,5,381,32"/>
+<area shape="rect" id="node3" href="$group__twr__ds18b20.html#ga13988a92a2396cb3677673438e991605" title="Initialize single ds18b20 over channel B on Sensor Module. " alt="" coords="195,56,373,83"/>
+</map>

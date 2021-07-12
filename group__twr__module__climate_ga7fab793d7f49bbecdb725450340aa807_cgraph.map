@@ -1,0 +1,8 @@
+<map id="twr_module_climate_get_temperature_fahrenheit" name="twr_module_climate_get_temperature_fahrenheit">
+<area shape="rect" id="node2" href="$group__twr__tmp112.html#gae51c135996f6e7979b985ef2dcac4b03" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="265,5,481,47"/>
+<area shape="rect" id="node5" href="$group__twr__sht30.html#ga3ef72dcc4726830f1dfc78ccab3f2cf5" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="272,71,475,112"/>
+<area shape="rect" id="node3" href="$group__twr__tmp112.html#gab72990ec5faa28083612f82e50b1d1f0" title="Get measured temperature in degrees of Celsius. " alt="" coords="529,5,745,47"/>
+<area shape="rect" id="node4" href="$group__twr__tmp112.html#ga7fba371e248ab93c553d5b9e6f48c3a1" title="Get measured temperature as raw value. " alt="" coords="793,13,1040,39"/>
+<area shape="rect" id="node6" href="$group__twr__sht30.html#ga135e1d3f98d6536b518faaf949b57cbe" title="Get measured temperature in degrees of Celsius. " alt="" coords="536,71,739,112"/>
+<area shape="rect" id="node7" href="$group__twr__sht30.html#gaf4d574738946d64e0f5dac43bf22e0b1" title="Get measured temperature as raw value. " alt="" coords="800,78,1033,105"/>
+</map>

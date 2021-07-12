@@ -1,0 +1,18 @@
+<map id="twr_atsha204_get_serial_number" name="twr_atsha204_get_serial_number">
+<area shape="rect" id="node2" href="$group__twr__atsha204.html#ga2300596cbfe2ad7741e1d4929bc4d86b" title="Check if is ready for commands. " alt="" coords="235,5,407,32"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga39d14277e9c8269517346f394edf645b" title="Schedule current task to tick relative from now. " alt="" coords="247,57,395,98"/>
+<area shape="rect" id="node7" href="$group__twr__i2c.html#gae8097b226e2cab90469e926c3dda7071" title="Write to I2C channel. " alt="" coords="266,123,375,149"/>
+<area shape="rect" id="node9" href="$group__twr__i2c.html#gab21971b0e27ae85a568aa4cf21c0b9df" title="Read from I2C channel. " alt="" coords="268,173,373,200"/>
+<area shape="rect" id="node11" href="$group__twr__i2c.html#ga987a812f42e53e426ae8af64defd31cf" title="Set I2C channel speed. " alt="" coords="249,228,392,255"/>
+<area shape="rect" id="node4" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="493,63,595,89"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="729,12,851,39"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="731,63,849,89"/>
+<area shape="rect" id="node8" href="$group__twr__ds28e17.html#ga04696c854d2aa78bf22d52bb38f14179" title="Write to I2C. " alt="" coords="471,123,617,149"/>
+<area shape="rect" id="node10" href="$group__twr__ds28e17.html#gaef052e04c475d0b31a0f0f8f7797e683" title="Read from I2C. " alt="" coords="473,173,615,200"/>
+<area shape="rect" id="node12" href="$group__twr__ds28e17.html#gab8143cf3fefbcce42553a185551bc457" title="Set I2C speed. " alt="" coords="455,229,633,256"/>
+<area shape="rect" id="node13" href="$group__twr__onewire.html#ga62d16eadaa229627e490ecb48f7389a6" title="Start transaction, enable pll and run timer. " alt="" coords="699,114,881,155"/>
+<area shape="rect" id="node14" href="$group__twr__onewire.html#ga6441ee52c20b2381ab08d9cb0ee96ac1" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="719,180,861,207"/>
+<area shape="rect" id="node15" href="$group__twr__onewire.html#gad0d9fbf6c1f6e9806f3409a92042f981" title="Stop transaction. " alt="" coords="681,231,899,257"/>
+<area shape="rect" id="node16" href="$group__twr__onewire.html#gaaf771beb6eccc2dcbe3dbc5051f59778" title="Select device. " alt="" coords="716,281,864,308"/>
+<area shape="rect" id="node17" href="$group__twr__onewire.html#ga0342106061d58212efc91ebad24579dd" title="Select device. " alt="" coords="719,332,861,359"/>
+</map>

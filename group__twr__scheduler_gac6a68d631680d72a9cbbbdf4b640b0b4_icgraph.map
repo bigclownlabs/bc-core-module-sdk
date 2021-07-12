@@ -1,0 +1,40 @@
+<map id="twr_scheduler_plan_relative" name="twr_scheduler_plan_relative">
+<area shape="rect" id="node2" href="$group__twr__analog__sensor.html#gac603b14858b77817f2129f0296f21001" title="Set measurement interval. " alt="" coords="217,5,388,47"/>
+<area shape="rect" id="node3" href="$group__twr__atsha204.html#ga580f432efeb5eee749d18c7e19bf1270" title="Reqeust for serial number. " alt="" coords="208,71,397,112"/>
+<area shape="rect" id="node5" href="$group__twr__cmwx1zzabz.html#ga14d4c613489903dd50463f4f45b21cbe" title="Initialize CMWX1ZZABZ. " alt="" coords="221,137,384,163"/>
+<area shape="rect" id="node6" href="$group__twr__ds18b20.html#ga1fb7d8ec9b6edbc222224213cca8df19" title="Set measurement interval. " alt="" coords="211,188,395,229"/>
+<area shape="rect" id="node7" href="$group__twr__flood__detector.html#gadec3c861a10649800d8c04a766c56da5" title="Set measurement interval. " alt="" coords="223,253,382,295"/>
+<area shape="rect" id="node8" href="$group__twr__hc__sr04.html#ga4250a9e52ae88c1c35bde9ac4e67e48b" title="Set measurement interval. " alt="" coords="213,319,392,360"/>
+<area shape="rect" id="node9" href="$group__twr__hdc2080.html#gaed3d22c20ed6787c3f8a688b5dd5c4f2" title="Set measurement interval. " alt="" coords="211,515,395,556"/>
+<area shape="rect" id="node11" href="$group__twr__hts221.html#ga5ba0341c801dffa7cde4186a73d93520" title="Set measurement interval. " alt="" coords="216,449,389,491"/>
+<area shape="rect" id="node12" href="$group__twr__lis2dh12.html#ga880091e432e70787d287d4d6efd186a2" title="Set measurement interval. " alt="" coords="211,841,395,883"/>
+<area shape="rect" id="node13" href="$group__twr__lp8.html#ga7fd86ca4ddb4e27c488f38986d785871" title="Request sensor calibration. " alt="" coords="229,907,376,934"/>
+<area shape="rect" id="node15" href="$group__twr__lp8.html#ga87b15302b625e9d741205960e3bf05ec" title="Set measurement interval. " alt="" coords="228,959,377,1000"/>
+<area shape="rect" id="node17" href="$group__twr__module__infra__grid.html#ga4d2ea294d40cbe2049fd4262232a9274" title="Set measurement interval. " alt="" coords="219,1024,387,1065"/>
+<area shape="rect" id="node18" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="218,1089,387,1131"/>
+<area shape="rect" id="node19" href="$group__twr__mpl3115a2.html#gac58b8dd99547529f52b9f468fbe1cc05" title="Set measurement interval. " alt="" coords="201,384,404,425"/>
+<area shape="rect" id="node23" href="$group__twr__opt3001.html#ga342d8d12eb3535080672511cf2ac40e7" title="Set measurement interval. " alt="" coords="211,711,394,752"/>
+<area shape="rect" id="node26" href="$group__twr__pulse__counter.html#ga8c71ca149553dff3869007d0065ff5e8" title="Set update interval. " alt="" coords="219,1155,387,1196"/>
+<area shape="rect" id="node27" href="$group__twr__sgp30.html#ga88c82a88e3e745f0bd652b6433f69f3c" title="Set measurement interval. " alt="" coords="219,1220,387,1261"/>
+<area shape="rect" id="node29" href="$group__twr__sgpc3.html#ga33b9a2231e044403f00eb95b84d9be22" title="Set measurement interval. " alt="" coords="219,1285,386,1327"/>
+<area shape="rect" id="node31" href="$group__twr__sht20.html#ga35a052c5aee9a39e5a022e829e0a2b05" title="Set measurement interval. " alt="" coords="220,645,385,687"/>
+<area shape="rect" id="node34" href="$group__twr__sht30.html#ga0c0a7d2c417c9ca14fdacce37b48aaf4" title="Set measurement interval. " alt="" coords="220,580,385,621"/>
+<area shape="rect" id="node35" href="$group__twr__soil__sensor.html#gad921867e72ba29310ae2ae77ddd62277" title="Set measurement interval. " alt="" coords="227,1351,378,1392"/>
+<area shape="rect" id="node36" href="$group__twr__sps30.html#gaa832afd519688f3c4e0a435f193ed73e" title="Set measurement interval. " alt="" coords="219,1416,386,1457"/>
+<area shape="rect" id="node37" href="$group__twr__tmp112.html#ga2f36101c443477c80d1d5cb1c07c649b" title="Set measurement interval. " alt="" coords="213,776,392,817"/>
+<area shape="rect" id="node4" href="$group__twr__radio.html#ga9d548eee91f772379c5b854c386a953c" title="Initialize radio. " alt="" coords="499,78,610,105"/>
+<area shape="rect" id="node10" href="$group__twr__tag__humidity.html#ga379580ba5d37cee41665a2cf14a788eb" title="Set measurement interval. " alt="" coords="473,449,636,491"/>
+<area shape="rect" id="node14" href="$group__twr__module__co2.html#gae4366e6477c71738d1fc063b21522f2b" title="Request sensor calibration. " alt="" coords="452,1035,657,1062"/>
+<area shape="rect" id="node16" href="$group__twr__module__co2.html#gac6e75a8ee3bd63b5f0a27db18891b5d4" title="Set measurement interval. " alt="" coords="477,1087,633,1128"/>
+<area shape="rect" id="node20" href="$group__twr__module__climate.html#gaa2360d9f20f8731bec68ddb26f8d24fe" title="Set measurement interval for all sensors. " alt="" coords="475,595,634,651"/>
+<area shape="rect" id="node21" href="$group__twr__module__climate.html#ga02c832a0bf6d9f1403f903d69d260003" title="Set measurement interval for barometer. " alt="" coords="475,303,634,359"/>
+<area shape="rect" id="node22" href="$group__twr__tag__barometer.html#ga5cf632eef3e99d37e9c64eef42acaa04" title="Set measurement interval. " alt="" coords="468,384,641,425"/>
+<area shape="rect" id="node24" href="$group__twr__module__climate.html#gaf1ff8f9f8c91633f883c5754966901df" title="Set measurement interval for lux meter. " alt="" coords="475,742,634,798"/>
+<area shape="rect" id="node25" href="$group__twr__tag__lux__meter.html#gafb0cad6fd31cc1b8beddf0ee97ac526c" title="Set measurement interval. " alt="" coords="469,823,640,864"/>
+<area shape="rect" id="node28" href="$group__twr__tag__voc.html#ga2654afd1d008d7ce4a614250637e7c24" title="Set measurement interval. " alt="" coords="465,1220,645,1261"/>
+<area shape="rect" id="node30" href="$group__twr__tag__voc__lp.html#ga612b9a8b8139deab9262419a1c362277" title="Set measurement interval. " alt="" coords="481,1285,628,1327"/>
+<area shape="rect" id="node32" href="$group__twr__module__climate.html#gad9f3ffe7f34d03ae9f62606b9ce87d94" title="Set measurement interval for hygrometer. " alt="" coords="475,515,634,571"/>
+<area shape="rect" id="node33" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="473,676,636,717"/>
+<area shape="rect" id="node38" href="$group__twr__module__climate.html#ga27d63a9fb8dda4e5066483b0588c5482" title="Set measurement interval for thermometer. " alt="" coords="475,889,634,945"/>
+<area shape="rect" id="node39" href="$group__twr__tag__temperature.html#ga170a7cbb474579e306e1f088189b05e0" title="Set measurement interval. " alt="" coords="475,969,634,1011"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="twr_onewire_write_byte" name="twr_onewire_write_byte">
+<area shape="rect" id="node2" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="232,5,453,47"/>
+<area shape="rect" id="node3" href="$group__twr__onewire__relay.html#ga7de4a7fedc5eae3ab161004df3c96a87" title="Get current relay state. " alt="" coords="257,71,428,112"/>
+</map>

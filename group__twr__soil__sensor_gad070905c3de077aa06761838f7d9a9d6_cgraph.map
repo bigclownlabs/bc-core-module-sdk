@@ -1,0 +1,8 @@
+<map id="twr_soil_sensor_init_multiple" name="twr_soil_sensor_init_multiple">
+<area shape="rect" id="node2" href="$group__twr__module__sensor.html#ga8ea55a11c81f2af1412b68db35859a3b" title="Initialize and get Instance 1&#45;Wire for channel B. " alt="" coords="215,5,393,47"/>
+<area shape="rect" id="node5" href="$group__twr__onewire.html#gae76801b3ecf96d048bec175924c11eb7" title="Enable call sleep mode for all ds28e17 after transaction. " alt="" coords="204,71,404,112"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="219,137,389,163"/>
+<area shape="rect" id="node7" href="$group__twr__soil__sensor.html#gaf881c444ec4524b10008ed3efdd82b01" title="Set callback function. " alt="" coords="229,188,379,229"/>
+<area shape="rect" id="node3" href="$group__twr__onewire.html#ga4942066d2b5fd009d65de9390966393a" title="Initialize 1&#45;Wire. " alt="" coords="452,13,617,39"/>
+<area shape="rect" id="node4" href="$group__twr__onewire.html#ga87e8483ea4b467e238c41fdf12b80421" title="Initialize 1&#45;Wire. " alt="" coords="665,13,796,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="twr_opt3001_set_update_interval" name="twr_opt3001_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#gaa2360d9f20f8731bec68ddb26f8d24fe" title="Set measurement interval for all sensors. " alt="" coords="242,5,401,61"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#gaf1ff8f9f8c91633f883c5754966901df" title="Set measurement interval for lux meter. " alt="" coords="242,85,401,141"/>
+<area shape="rect" id="node4" href="$group__twr__tag__lux__meter.html#gafb0cad6fd31cc1b8beddf0ee97ac526c" title="Set measurement interval. " alt="" coords="236,166,407,207"/>
+</map>

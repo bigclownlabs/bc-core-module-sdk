@@ -1,0 +1,8 @@
+<map id="twr_module_climate_measure_all_sensors" name="twr_module_climate_measure_all_sensors">
+<area shape="rect" id="node2" href="$group__twr__tmp112.html#ga914fd94275d4c8f51df6daf962becda2" title="Start measurement manually. " alt="" coords="231,5,395,32"/>
+<area shape="rect" id="node4" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="238,56,389,83"/>
+<area shape="rect" id="node5" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="238,107,389,133"/>
+<area shape="rect" id="node6" href="$group__twr__opt3001.html#ga6be950d3f4b642137711f0ba99b83bdd" title="Start measurement manually. " alt="" coords="230,157,397,184"/>
+<area shape="rect" id="node7" href="$group__twr__mpl3115a2.html#ga8c978d7dad4da50cb05f75aa0b507b10" title="Start measurement manually. " alt="" coords="220,208,407,235"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="455,99,603,141"/>
+</map>

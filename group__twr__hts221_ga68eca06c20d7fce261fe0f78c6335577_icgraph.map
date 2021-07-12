@@ -1,0 +1,7 @@
+<map id="twr_hts221_measure" name="twr_hts221_measure">
+<area shape="rect" id="node2" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="219,5,405,47"/>
+<area shape="rect" id="node4" href="$group__twr__hts221.html#ga5ba0341c801dffa7cde4186a73d93520" title="Set measurement interval. " alt="" coords="225,71,399,112"/>
+<area shape="rect" id="node6" href="$group__twr__tag__humidity.html#ga2291449e497d1ea758f652f9ed60f16b" title="Start measurement manually. " alt="" coords="212,137,412,163"/>
+<area shape="rect" id="node3" href="$group__twr__tag__humidity.html#ga86572e19d178962f0abc64f24e583273" title="Get measured humidity as percentage. " alt="" coords="460,5,627,47"/>
+<area shape="rect" id="node5" href="$group__twr__tag__humidity.html#ga379580ba5d37cee41665a2cf14a788eb" title="Set measurement interval. " alt="" coords="462,71,625,112"/>
+</map>

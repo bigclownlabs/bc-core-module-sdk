@@ -1,0 +1,8 @@
+<map id="twr_button_set_hold_time" name="twr_button_set_hold_time">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#gab25eb80ff164190c8b03427fe461671e" title="Get current tick of spin in which task has been run. " alt="" coords="244,5,451,32"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="273,57,421,98"/>
+<area shape="rect" id="node4" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="294,123,401,149"/>
+<area shape="rect" id="node7" href="$group__twr__gpio.html#gabfbe0f42fa02fd72b4584fdd0964ea3f" title="Get input state for GPIO channel. " alt="" coords="274,173,421,200"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="499,97,620,124"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="500,148,619,175"/>
+</map>

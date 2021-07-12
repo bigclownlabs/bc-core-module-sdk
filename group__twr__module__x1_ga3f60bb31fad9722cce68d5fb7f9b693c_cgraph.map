@@ -1,0 +1,7 @@
+<map id="twr_module_x1_get_onewire" name="twr_module_x1_get_onewire">
+<area shape="rect" id="node2" href="$group__twr__tca9534a.html#ga42ad181a18dddc574e8e2f50a42b1299" title="Write state to all pins. " alt="" coords="263,13,445,39"/>
+<area shape="rect" id="node6" href="$group__twr__log.html#ga09e88ba96b4141212f9860f7b50ec9f7" title="Log ERROR message (annotated in log as &lt;E&gt;) " alt="" coords="300,63,408,90"/>
+<area shape="rect" id="node3" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="493,13,688,39"/>
+<area shape="rect" id="node4" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="736,13,907,39"/>
+<area shape="rect" id="node5" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="955,5,1121,47"/>
+</map>

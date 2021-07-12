@@ -1,0 +1,4 @@
+<map id="twr_sht30_get_temperature_fahrenheit" name="twr_sht30_get_temperature_fahrenheit">
+<area shape="rect" id="node2" href="$group__twr__sht30.html#ga135e1d3f98d6536b518faaf949b57cbe" title="Get measured temperature in degrees of Celsius. " alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$group__twr__sht30.html#gaf4d574738946d64e0f5dac43bf22e0b1" title="Get measured temperature as raw value. " alt="" coords="507,13,740,39"/>
+</map>

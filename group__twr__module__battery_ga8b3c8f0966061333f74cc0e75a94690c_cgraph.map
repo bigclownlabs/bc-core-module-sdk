@@ -1,0 +1,5 @@
+<map id="twr_module_battery_set_update_interval" name="twr_module_battery_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="215,5,363,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__battery.html#gad83c541a4016f958be5d52a22c607a90" title="Start mesurement. " alt="" coords="212,71,365,112"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="413,78,596,105"/>
+</map>

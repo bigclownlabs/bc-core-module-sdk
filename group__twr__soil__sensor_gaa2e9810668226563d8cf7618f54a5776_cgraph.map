@@ -1,0 +1,5 @@
+<map id="twr_soil_sensor_get_temperature_fahrenheit" name="twr_soil_sensor_get_temperature_fahrenheit">
+<area shape="rect" id="node2" href="$group__twr__soil__sensor.html#ga9de54657b9a347c4c82b566ae78e6792" title="Get measured temperature in degrees of Celsius. " alt="" coords="237,5,400,47"/>
+<area shape="rect" id="node3" href="$group__twr__soil__sensor.html#ga0e2c80dd588ac5966d5fcd7d9930b518" title="Get measured temperature as raw value. " alt="" coords="448,5,599,47"/>
+<area shape="rect" id="node4" href="$group__twr__soil__sensor.html#ga2a6c1d204d96ac955dbea597ea8bdc8a" title="Get device index by its device address. " alt="" coords="647,5,843,47"/>
+</map>

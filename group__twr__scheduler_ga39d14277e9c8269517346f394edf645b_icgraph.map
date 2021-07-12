@@ -1,0 +1,40 @@
+<map id="twr_scheduler_plan_current_from_now" name="twr_scheduler_plan_current_from_now">
+<area shape="rect" id="node2" href="$group__twr__analog__sensor.html#ga96d4a5a9f7a5fe2f938a7fe79a52a868" title="Start measurement manually. " alt="" coords="225,13,433,39"/>
+<area shape="rect" id="node4" href="$group__twr__atsha204.html#ga0a5e96713dbb8a2b4e7c526bf42e3f03" title="Get serial number. " alt="" coords="238,64,419,105"/>
+<area shape="rect" id="node5" href="$group__twr__cmwx1zzabz.html#ga3fd7eea358f8d151d919b8397101b4d9" title="Set debugging flag which prints modem communication to twr_log. " alt="" coords="248,129,409,171"/>
+<area shape="rect" id="node6" href="$group__twr__cy8cmbr3102.html#ga32e2c584c26458c0267e56301a5a9964" title="Is touch. " alt="" coords="251,195,407,236"/>
+<area shape="rect" id="node7" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="218,260,439,301"/>
+<area shape="rect" id="node8" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="218,325,439,367"/>
+<area shape="rect" id="node10" href="$group__twr__hts221.html#gaa29a35ef0cd7781c8442ec23baa31e2a" title="Get measured humidity as percentage. " alt="" coords="235,391,422,432"/>
+<area shape="rect" id="node12" href="$group__twr__lis2dh12.html#gac0a5cfd7920a78418f972bdd379ac2e0" title="Get measured acceleration in g. " alt="" coords="233,457,425,483"/>
+<area shape="rect" id="node13" href="$group__twr__lp8.html#ga7fd86ca4ddb4e27c488f38986d785871" title="Request sensor calibration. " alt="" coords="255,507,402,534"/>
+<area shape="rect" id="node15" href="$group__twr__ls013b7dh03.html#ga273de54a71930eab4ead34902446876d" title="Send Lcd clear memory command. " alt="" coords="243,559,415,600"/>
+<area shape="rect" id="node16" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="225,625,432,651"/>
+<area shape="rect" id="node18" href="$group__twr__mpl3115a2.html#ga81e732c3d6e9606bbeb09c6c792a88b7" title="Get measured pressured in Pascal. " alt="" coords="221,676,436,717"/>
+<area shape="rect" id="node21" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="208,742,449,769"/>
+<area shape="rect" id="node24" href="$group__twr__sgp30.html#gaa82d36df88b8a019e4a16cc2b4c3bc05" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="221,793,436,819"/>
+<area shape="rect" id="node26" href="$group__twr__sgpc3.html#ga342896f1abc29b9c1b4eb439fa141acf" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="221,843,436,870"/>
+<area shape="rect" id="node28" href="$group__twr__sht20.html#ga5ef3b4a449cdcc3aa0b479559bfb6110" title="Get measured temperature in kelvin. " alt="" coords="227,895,430,936"/>
+<area shape="rect" id="node29" href="$group__twr__sht30.html#ga3d783362a8fc81b326a8e43a9e404625" title="Get measured temperature in kelvin. " alt="" coords="227,960,430,1001"/>
+<area shape="rect" id="node31" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="253,1025,404,1067"/>
+<area shape="rect" id="node32" href="$group__twr__sps30.html#gaed5e4a55ca2d4bf997f781cc31b20f10" title="Get measured typical particle size in μm. " alt="" coords="245,1091,412,1132"/>
+<area shape="rect" id="node33" href="$group__twr__td1207r.html#ga05600b8913a68f90720e0b25e328cafc" title="Send RF frame command. " alt="" coords="251,1221,406,1263"/>
+<area shape="rect" id="node35" href="$group__twr__tmp112.html#ga12df9950a886baa5df540771f624822f" title="Get measured temperature in kelvin. " alt="" coords="221,1156,437,1197"/>
+<area shape="rect" id="node37" href="$group__twr__wssfm10r1at.html#gaffcd9ea4dfd89fee06ca56150a419a8a" title="Generate continuous wave command. " alt="" coords="201,1287,456,1314"/>
+<area shape="rect" id="node39" href="$group__twr__zssc3123.html#ga9cb202ab75e29f0b81150e7956e5d2fd" title="Unlock eerpom, work only with command mode. " alt="" coords="249,1339,409,1380"/>
+<area shape="rect" id="node3" href="$group__twr__analog__sensor.html#gac603b14858b77817f2129f0296f21001" title="Set measurement interval. " alt="" coords="552,5,723,47"/>
+<area shape="rect" id="node9" href="$group__twr__tag__humidity.html#ga697b69dfc8fe0d8fbb77fdcf85687f15" title="Get measured temperature in degrees of Celsius. " alt="" coords="555,325,719,367"/>
+<area shape="rect" id="node11" href="$group__twr__tag__humidity.html#ga86572e19d178962f0abc64f24e583273" title="Get measured humidity as percentage. " alt="" coords="554,391,721,432"/>
+<area shape="rect" id="node14" href="$group__twr__module__co2.html#gae4366e6477c71738d1fc063b21522f2b" title="Request sensor calibration. " alt="" coords="535,491,740,518"/>
+<area shape="rect" id="node17" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="553,543,722,584"/>
+<area shape="rect" id="node19" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="556,673,719,715"/>
+<area shape="rect" id="node20" href="$group__twr__tag__barometer.html#gabe4b7e1ddc3459087b7c62934041bd79" title="Get measured pressure in Pascal. " alt="" coords="550,608,725,649"/>
+<area shape="rect" id="node22" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="557,804,717,845"/>
+<area shape="rect" id="node23" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="551,739,723,780"/>
+<area shape="rect" id="node25" href="$group__twr__tag__voc.html#gadcfe758f81af5b6d092c7a6ef2a94ed3" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="524,870,751,897"/>
+<area shape="rect" id="node27" href="$group__twr__tag__voc__lp.html#ga79936075a9c34d669e8f26aa01eb9f82" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="564,921,711,963"/>
+<area shape="rect" id="node30" href="$group__twr__module__climate.html#ga12952a030dfe35b40da2c50f8189510a" title="Get measured temperature in kelvin. " alt="" coords="545,1037,730,1079"/>
+<area shape="rect" id="node34" href="$group__twr__module__sigfox.html#gaa9a9f795d046045b52d78a3af5d8bd00" title="Send RF frame command. " alt="" coords="545,1221,729,1263"/>
+<area shape="rect" id="node36" href="$group__twr__tag__temperature.html#ga994d04b114b7556ed73cd903e60e80fc" title="Get measured temperature in kelvin. " alt="" coords="545,1156,730,1197"/>
+<area shape="rect" id="node38" href="$group__twr__module__sigfox.html#gad1d9edd03ddb05846308e1a8108b75c3" title="Generate continuous wave command. " alt="" coords="504,1287,771,1314"/>
+</map>

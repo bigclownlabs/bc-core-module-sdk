@@ -1,0 +1,6 @@
+<map id="twr_sht30_set_update_interval" name="twr_sht30_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#ga76bbc506ec2b651e6f9dd050d2293cf9" title="Get measured pressure in Pascal. " alt="" coords="219,5,381,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#gaa2360d9f20f8731bec68ddb26f8d24fe" title="Set measurement interval for all sensors. " alt="" coords="221,71,379,127"/>
+<area shape="rect" id="node4" href="$group__twr__module__climate.html#gad9f3ffe7f34d03ae9f62606b9ce87d94" title="Set measurement interval for hygrometer. " alt="" coords="221,151,379,207"/>
+<area shape="rect" id="node5" href="$group__twr__tag__humidity.html#ga379580ba5d37cee41665a2cf14a788eb" title="Set measurement interval. " alt="" coords="219,232,381,273"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="twr_soil_sensor_get_index_by_device_address" name="twr_soil_sensor_get_index_by_device_address">
+<area shape="rect" id="node2" href="$group__twr__soil__sensor.html#gae6c15638b0e5b53e65af7f287e962abd" title="Set value for calibration point by device address. " alt="" coords="259,5,458,47"/>
+<area shape="rect" id="node3" href="$group__twr__soil__sensor.html#gafdddce22cddcc3ac6587322032b8a082" title="Save calibration points and label to eeprom by device address. " alt="" coords="249,71,468,98"/>
+<area shape="rect" id="node4" href="$group__twr__soil__sensor.html#gab9c2416addb156a1dae6b489b4514fdc" title="Get capacite as raw value. " alt="" coords="283,123,434,164"/>
+<area shape="rect" id="node5" href="$group__twr__soil__sensor.html#ga2546ad31acf91156fc24599bc0e7b5fa" title="Get device label by its device address. " alt="" coords="283,188,434,229"/>
+<area shape="rect" id="node6" href="$group__twr__soil__sensor.html#ga05784768e216a9a12fa65d48ee4c01db" title="Get measured moisture in percent. " alt="" coords="283,253,434,295"/>
+<area shape="rect" id="node7" href="$group__twr__soil__sensor.html#ga0e2c80dd588ac5966d5fcd7d9930b518" title="Get measured temperature as raw value. " alt="" coords="283,319,434,360"/>
+<area shape="rect" id="node11" href="$group__twr__soil__sensor.html#gaf4336d6f116439b94845bafecf717003" title="Get device label by its device address. " alt="" coords="283,384,434,425"/>
+<area shape="rect" id="node8" href="$group__twr__soil__sensor.html#ga9de54657b9a347c4c82b566ae78e6792" title="Get measured temperature in degrees of Celsius. " alt="" coords="516,319,679,360"/>
+<area shape="rect" id="node9" href="$group__twr__soil__sensor.html#gaa2e9810668226563d8cf7618f54a5776" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="727,285,911,327"/>
+<area shape="rect" id="node10" href="$group__twr__soil__sensor.html#gae5a03f394631efa2c3e0025e055ba60a" title="Get measured temperature in kelvin. " alt="" coords="740,351,897,392"/>
+</map>

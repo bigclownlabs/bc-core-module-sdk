@@ -1,0 +1,57 @@
+var group__twr__gpio =
+[
+    [ "twr_gpio_channel_t", "group__twr__gpio.html#ga73baa82f69c14997ae1c4a002b5d5e7b", [
+      [ "TWR_GPIO_P0", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7bae84caf8bdbb9a5b61d27c92ce322526a", null ],
+      [ "TWR_GPIO_P1", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba1e62117f15947b7bb403c0d706d3a04f", null ],
+      [ "TWR_GPIO_P2", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7badd8e56b55197f780911d8af6048e4bc5", null ],
+      [ "TWR_GPIO_P3", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba255acd1b4262ea59f713b690b0c9457a", null ],
+      [ "TWR_GPIO_P4", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7baf09339396efda0ef8f6551fb5f635f3a", null ],
+      [ "TWR_GPIO_P5", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba37ed6616e692c27ac7892586579a32ea", null ],
+      [ "TWR_GPIO_P6", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba89e1cfbc3ea3bac9507f50746930bcce", null ],
+      [ "TWR_GPIO_P7", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7baf7fd7614b54ff598aa6a9837e216cbf9", null ],
+      [ "TWR_GPIO_P8", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba205e19fcae1caae9cfcf03d848162944", null ],
+      [ "TWR_GPIO_P9", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba61db347956f587ad46860844e2c88424", null ],
+      [ "TWR_GPIO_P10", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7babd8dab994d34ce89a50f90c589f42fad", null ],
+      [ "TWR_GPIO_P11", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba14e38274d326c6a77a680dc5e21bead9", null ],
+      [ "TWR_GPIO_P12", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba188a41707154925809222ff6e8a3706b", null ],
+      [ "TWR_GPIO_P13", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba35b2fbab4a81a5e6dd20f18635b42a14", null ],
+      [ "TWR_GPIO_P14", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7baee1b07ff91b29390cc3ac5e10c81369a", null ],
+      [ "TWR_GPIO_P15", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba9d2bbd67866f5ce54f866edfb1f4a357", null ],
+      [ "TWR_GPIO_P16", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7baf69199218660f1acdca8121756d4cc40", null ],
+      [ "TWR_GPIO_P17", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba89348f1c4ff76c4d098ddcf2c375da35", null ],
+      [ "TWR_GPIO_LED", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7bab471016d437f7db45bd8f51bb20e2245", null ],
+      [ "TWR_GPIO_BUTTON", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7baa1d113916200636b2504b2c3ad385f9d", null ],
+      [ "TWR_GPIO_INT", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba7f01c68c2e5881b4fdd5c145574c8982", null ],
+      [ "TWR_GPIO_SCL0", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7baa7b38eea254ce392db355ff2a20fb4ba", null ],
+      [ "TWR_GPIO_SDA0", "group__twr__gpio.html#gga73baa82f69c14997ae1c4a002b5d5e7ba6239f275b83c7068145104765699d18e", null ]
+    ] ],
+    [ "twr_gpio_mode_t", "group__twr__gpio.html#ga513877d02f6f2e624b53d04e2eef4879", [
+      [ "TWR_GPIO_MODE_INPUT", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a0b37f93784599da0b8b2961343bf2010", null ],
+      [ "TWR_GPIO_MODE_OUTPUT", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a12eb3cc49166ce897e518c8fe733b810", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a79b2c6b9b56bc574c0ef5a5ba27796a7", null ],
+      [ "TWR_GPIO_MODE_ANALOG", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879ab5a98d6a191ec81659a41d42baafedd8", null ],
+      [ "TWR_GPIO_MODE_OUTPUT_OD", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879ac2ff69e5cd22f5d3b4235ec222585454", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_0", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a4c912fbc15d53eb53d00e3698d0ad3be", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_1", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879aec0acb5345f71fca1ec6380e9d0912ee", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_2", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a35fbcd6660567cd31a23b005f296ebe9", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_3", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a6f14bf5f2444ed58caefcaa95a4f9013", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_4", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a9c04e46201ee22d4c6a2359cfaab78db", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_5", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a41719c15c1469c3b4d643d383233ebfb", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_6", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879a4735e718d2b61fc66452c5023f7979cb", null ],
+      [ "TWR_GPIO_MODE_ALTERNATE_7", "group__twr__gpio.html#gga513877d02f6f2e624b53d04e2eef4879aa80ccc9dd25e62eaf143497a1e7eb950", null ]
+    ] ],
+    [ "twr_gpio_pull_t", "group__twr__gpio.html#gaa7f8f9fa254cdd4a398f3dc248e97fe6", [
+      [ "TWR_GPIO_PULL_NONE", "group__twr__gpio.html#ggaa7f8f9fa254cdd4a398f3dc248e97fe6a14066810aa6b6b60627c21e3c4fa4c1e", null ],
+      [ "TWR_GPIO_PULL_UP", "group__twr__gpio.html#ggaa7f8f9fa254cdd4a398f3dc248e97fe6a98dabda7025ab8582777ab90e3b51032", null ],
+      [ "TWR_GPIO_PULL_DOWN", "group__twr__gpio.html#ggaa7f8f9fa254cdd4a398f3dc248e97fe6a691f284c0d11b3150a7b40451dc2fcd6", null ]
+    ] ],
+    [ "twr_gpio_get_input", "group__twr__gpio.html#gabfbe0f42fa02fd72b4584fdd0964ea3f", null ],
+    [ "twr_gpio_get_mode", "group__twr__gpio.html#ga9b88356af56b332f7adafcac8cd43659", null ],
+    [ "twr_gpio_get_output", "group__twr__gpio.html#ga97a45872c2b66b790dfc27704787da51", null ],
+    [ "twr_gpio_get_pull", "group__twr__gpio.html#ga0d63527ed6e9d6805a00104195aa16a5", null ],
+    [ "twr_gpio_init", "group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f", null ],
+    [ "twr_gpio_set_mode", "group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9", null ],
+    [ "twr_gpio_set_output", "group__twr__gpio.html#ga2bc776e5bbc460948f25846055ac4461", null ],
+    [ "twr_gpio_set_pull", "group__twr__gpio.html#ga319ca6e2a552cbfa66d04f24bc551bf8", null ],
+    [ "twr_gpio_toggle_output", "group__twr__gpio.html#ga89e53610bfca1171632775eebdd99347", null ]
+];

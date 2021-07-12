@@ -1,0 +1,15 @@
+<map id="twr_i2c_memory_read_16b" name="twr_i2c_memory_read_16b">
+<area shape="rect" id="node2" href="$group__twr__cy8cmbr3102.html#ga6dd865f4d7d5f861e14efced33c71833" title="Get proximity (Capacitive sensor difference count signal.) " alt="" coords="289,5,456,47"/>
+<area shape="rect" id="node3" href="$group__twr__hdc2080.html#ga664149b182a36deca7f52811124518d4" title="Get measured temperature in degrees of Celsius. " alt="" coords="262,71,483,112"/>
+<area shape="rect" id="node5" href="$group__twr__module__rs485.html#ga07a60cf5cd92a8daa4a5bac4e4dab23b" title="Start single voltage measurement. " alt="" coords="269,137,476,163"/>
+<area shape="rect" id="node7" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="252,187,493,214"/>
+<area shape="rect" id="node10" href="$group__twr__sam__m8q.html#ga6d5d8c0a134f56e3a9d4763a1051c084" title="Get accuracy. " alt="" coords="269,278,476,305"/>
+<area shape="rect" id="node12" href="$group__twr__tmp112.html#ga12df9950a886baa5df540771f624822f" title="Get measured temperature in kelvin. " alt="" coords="265,343,481,384"/>
+<area shape="rect" id="node4" href="$group__twr__tag__humidity.html#ga697b69dfc8fe0d8fbb77fdcf85687f15" title="Get measured temperature in degrees of Celsius. " alt="" coords="552,16,716,57"/>
+<area shape="rect" id="node6" href="$group__twr__module__rs485.html#gae0eb8d5dae0f8aaeec1d696f3f7ebc9b" title="Set measurement interval. " alt="" coords="549,81,719,123"/>
+<area shape="rect" id="node8" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="554,147,714,188"/>
+<area shape="rect" id="node9" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="548,212,720,253"/>
+<area shape="rect" id="node11" href="$group__twr__module__gps.html#gabb8286b7464026ee933c74b8e857607e" title="Get accuracy. " alt="" coords="555,277,713,319"/>
+<area shape="rect" id="node13" href="$group__twr__module__climate.html#ga12952a030dfe35b40da2c50f8189510a" title="Get measured temperature in kelvin. " alt="" coords="541,343,727,384"/>
+<area shape="rect" id="node14" href="$group__twr__tag__temperature.html#ga994d04b114b7556ed73cd903e60e80fc" title="Get measured temperature in kelvin. " alt="" coords="541,408,727,449"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="twr_gfx_draw_string" name="twr_gfx_draw_string">
+<area shape="rect" id="node2" href="$group__twr__gfx.html#gae8cdb46e8f575d3974ff9d91d2432a87" title="Display string. " alt="" coords="233,5,347,32"/>
+<area shape="rect" id="node3" href="$group__twr__module__lcd.html#ga66de7eab1c999f28087ffd22e3e0445c" title="Lcd draw string. " alt="" coords="208,57,372,98"/>
+</map>

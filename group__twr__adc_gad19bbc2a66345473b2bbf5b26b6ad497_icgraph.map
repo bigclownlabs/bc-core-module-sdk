@@ -1,0 +1,4 @@
+<map id="twr_adc_get_value" name="twr_adc_get_value">
+<area shape="rect" id="node2" href="$group__twr__analog__sensor.html#ga96d4a5a9f7a5fe2f938a7fe79a52a868" title="Start measurement manually. " alt="" coords="197,13,405,39"/>
+<area shape="rect" id="node3" href="$group__twr__analog__sensor.html#gac603b14858b77817f2129f0296f21001" title="Set measurement interval. " alt="" coords="453,5,624,47"/>
+</map>

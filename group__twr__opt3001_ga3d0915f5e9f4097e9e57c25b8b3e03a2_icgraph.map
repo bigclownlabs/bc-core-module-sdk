@@ -1,0 +1,4 @@
+<map id="twr_opt3001_get_illuminance_lux" name="twr_opt3001_get_illuminance_lux">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="301,5,461,47"/>
+<area shape="rect" id="node3" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="295,71,467,112"/>
+</map>

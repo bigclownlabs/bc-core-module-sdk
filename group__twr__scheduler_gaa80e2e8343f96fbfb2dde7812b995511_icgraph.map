@@ -1,0 +1,51 @@
+<map id="twr_scheduler_plan_now" name="twr_scheduler_plan_now">
+<area shape="rect" id="node2" href="$group__twr__adc.html#ga4336ce416ed7b123466127f1df777673" title="Get voltage on VDDA pin. " alt="" coords="265,5,461,32"/>
+<area shape="rect" id="node3" href="$group__twr__analog__sensor.html#ga96d4a5a9f7a5fe2f938a7fe79a52a868" title="Start measurement manually. " alt="" coords="259,56,467,83"/>
+<area shape="rect" id="node5" href="$group__twr__button.html#gabfda73a21fb2d34f07ad2baa93805c65" title="Set callback function. " alt="" coords="282,107,445,149"/>
+<area shape="rect" id="node8" href="$group__twr__cmwx1zzabz.html#gaf0fb139da084191b485084ef965983c9" title="Get pointer to string containg response on last sent command. " alt="" coords="282,173,445,214"/>
+<area shape="rect" id="node9" href="$group__twr__cmwx1zzabz.html#ga6d2d2a1d628c1ea967006aad2df2fd49" title="Start LoRa OTAA join procedure. " alt="" coords="281,239,446,265"/>
+<area shape="rect" id="node10" href="$group__twr__cmwx1zzabz.html#ga3f7750b4dd381c4da4b382958f14465c" title="Send LoRa message. " alt="" coords="277,290,449,331"/>
+<area shape="rect" id="node11" href="$group__twr__cmwx1zzabz.html#gae7855931e19a4ef3d250f793bf7ee6e2" title="Send LoRa confirmed message. " alt="" coords="277,355,449,397"/>
+<area shape="rect" id="node12" href="$group__twr__flood__detector.html#ga81c2f925493698d9c3e599360c519723" title="Start measurement manually. " alt="" coords="292,421,435,462"/>
+<area shape="rect" id="node14" href="$group__twr__hc__sr04.html#gaaf7094cc25fcf27ba799c10adb403b66" title="Get measured distance in millimeters. " alt="" coords="268,486,459,527"/>
+<area shape="rect" id="node15" href="$group__twr__led.html#gad2ec0db373d7c04f8346ff280c5e0d3d" title="LED blink. " alt="" coords="309,552,418,579"/>
+<area shape="rect" id="node16" href="$group__twr__led.html#gaf89b5849c33fae8977ee091c697e54e9" title="Set LED mode. " alt="" coords="293,603,434,629"/>
+<area shape="rect" id="node17" href="$group__twr__led.html#ga634a033e1e9fdd07d10fadac42156089" title="Set custom blinking pattern. " alt="" coords="288,653,439,680"/>
+<area shape="rect" id="node18" href="$group__twr__lis2dh12.html#ga2b7a97eee6acdfb9c0bb07f78319ea11" title="Start measurement manually. " alt="" coords="279,704,448,731"/>
+<area shape="rect" id="node22" href="$group__twr__lis2dh12.html#gaf224f1c1813917ed3aa52c24eed9bddb" title="Set scale. " alt="" coords="549,755,722,781"/>
+<area shape="rect" id="node23" href="$group__twr__lis2dh12.html#ga7127e491db50a5b74faaf46e8c660f74" title="Set resolution. " alt="" coords="261,805,465,832"/>
+<area shape="rect" id="node24" href="$group__twr__lp8.html#ga60fd1ee60f1dc4b0c59680fe3e778809" title="Start measurement manually. " alt="" coords="296,856,431,883"/>
+<area shape="rect" id="node28" href="$group__twr__module__battery.html#ga541361981d1be7b1433879aa4f3649dc" title="Get Battery Module is pressent, can use without twr_module_battery_init. " alt="" coords="287,907,440,949"/>
+<area shape="rect" id="node29" href="$group__twr__module__battery.html#gad83c541a4016f958be5d52a22c607a90" title="Start mesurement. " alt="" coords="287,973,440,1014"/>
+<area shape="rect" id="node31" href="$group__twr__module__encoder.html#ga2f1ce6e98422e0f27db2995166d6e22a" title="Get Encoder Module is pressent, can use without twr_module_encoder_init. " alt="" coords="284,1038,443,1079"/>
+<area shape="rect" id="node32" href="$group__twr__pulse__counter.html#ga281505cceb65bb34ffe39148270050af" title="Set count to zero. " alt="" coords="273,1104,454,1131"/>
+<area shape="rect" id="node33" href="$group__twr__pyq1648.html#ga242ea700e594dfadb636098d0d9c81e2" title="Set PYQ1648 sensitivity. " alt="" coords="259,1155,467,1181"/>
+<area shape="rect" id="node35" href="$group__twr__sam__m8q.html#ga178fa0f021a57494be368c6c57ee189c" title="Start navigation module. " alt="" coords="288,1205,439,1232"/>
+<area shape="rect" id="node37" href="$group__twr__sam__m8q.html#ga13b6882cd0eb9df06e21397097d7c7f6" title="Stop navigation module. " alt="" coords="289,1256,438,1283"/>
+<area shape="rect" id="node39" href="$group__twr__soil__sensor.html#ga6287700a0c0a7e1d9f282b46069142e2" title="Start measurement manually. " alt="" coords="270,1307,457,1333"/>
+<area shape="rect" id="node42" href="$group__twr__spi.html#ga45a2f6588eb5570c30b037d8d5b6215b" title="Execute async SPI transfer. " alt="" coords="277,1357,449,1384"/>
+<area shape="rect" id="node43" href="$group__twr__spirit.html#gad555c7c771879a3210d9dee0c82d857f" title="Enter RX state. " alt="" coords="308,1408,419,1435"/>
+<area shape="rect" id="node44" href="$group__twr__spirit.html#ga9ebed87621366305b55b7568b9dcd6d0" title="Enter sleep state. " alt="" coords="297,1459,430,1485"/>
+<area shape="rect" id="node45" href="$group__twr__spirit.html#ga6491851f55e36b3fe3b051988d5fedc6" title="Enter TX state. " alt="" coords="308,1509,419,1536"/>
+<area shape="rect" id="node46" href="$group__twr__sps30.html#gabd460d35acaf0fdf071670d95b8d27ec" title="Start measurement manually. " alt="" coords="287,1560,439,1587"/>
+<area shape="rect" id="node47" href="$group__twr__td1207r.html#ga05600b8913a68f90720e0b25e328cafc" title="Send RF frame command. " alt="" coords="286,1611,441,1653"/>
+<area shape="rect" id="node48" href="$group__twr__usb__cdc.html#gada14196b521fb38cc5be8ea1fd197635" title="Write buffer to USB CDC (non&#45;blocking call) " alt="" coords="292,1677,435,1704"/>
+<area shape="rect" id="node49" href="$group__twr__wssfm10r1at.html#gaffcd9ea4dfd89fee06ca56150a419a8a" title="Generate continuous wave command. " alt="" coords="236,1728,491,1755"/>
+<area shape="rect" id="node50" href="$group__twr__zssc3123.html#ga8ceea141c20770d60ff7e0f01614a4c9" title="Start measurement manually. " alt="" coords="276,1779,451,1805"/>
+<area shape="rect" id="node4" href="$group__twr__analog__sensor.html#gac603b14858b77817f2129f0296f21001" title="Set measurement interval. " alt="" coords="550,49,721,90"/>
+<area shape="rect" id="node6" href="$group__twr__module__encoder.html#ga4254e0aea8071ae292f4bf220724428b" title="Initialize Encoder Module. " alt="" coords="542,115,729,141"/>
+<area shape="rect" id="node7" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="559,166,711,207"/>
+<area shape="rect" id="node13" href="$group__twr__flood__detector.html#ga6235581fb8a346aa3a4d2587383d3a59" title="Is alarm. " alt="" coords="564,421,707,462"/>
+<area shape="rect" id="node19" href="$group__twr__lis2dh12.html#ga880091e432e70787d287d4d6efd186a2" title="Set measurement interval. " alt="" coords="543,587,727,629"/>
+<area shape="rect" id="node20" href="$group__twr__lis2dh12.html#gac0a5cfd7920a78418f972bdd379ac2e0" title="Get measured acceleration in g. " alt="" coords="539,653,731,680"/>
+<area shape="rect" id="node21" href="$group__twr__lis2dh12.html#gaf7e9161364c7e7835cb5d10d7917b1ac" title="Enable or disable accelerometer threshold alarm. " alt="" coords="547,704,724,731"/>
+<area shape="rect" id="node25" href="$group__twr__lp8.html#ga87b15302b625e9d741205960e3bf05ec" title="Set measurement interval. " alt="" coords="561,806,710,847"/>
+<area shape="rect" id="node26" href="$group__twr__lp8.html#ga7fd86ca4ddb4e27c488f38986d785871" title="Request sensor calibration. " alt="" coords="562,872,709,899"/>
+<area shape="rect" id="node27" href="$group__twr__module__co2.html#gaca6a02bc07077485804d5478c8049397" title="Start measurement manually. " alt="" coords="539,923,732,949"/>
+<area shape="rect" id="node30" href="$group__twr__module__battery.html#ga8b3c8f0966061333f74cc0e75a94690c" title="Set update interval. " alt="" coords="556,974,715,1015"/>
+<area shape="rect" id="node34" href="$group__twr__module__pir.html#ga22524a92bb7dc5f55f6c1bb92da9f3cc" title="Set sensor sensitivity. " alt="" coords="560,1139,711,1181"/>
+<area shape="rect" id="node36" href="$group__twr__module__gps.html#gaa5b08730a46e5323ae37a23c47deab64" title="Start tracking. " alt="" coords="552,1205,719,1232"/>
+<area shape="rect" id="node38" href="$group__twr__module__gps.html#ga3296c61995c184be8974a83c2048797e" title="Stop tracking. " alt="" coords="553,1256,717,1283"/>
+<area shape="rect" id="node40" href="$group__twr__soil__sensor.html#gad921867e72ba29310ae2ae77ddd62277" title="Set measurement interval. " alt="" coords="560,1307,711,1349"/>
+<area shape="rect" id="node41" href="$group__twr__soil__sensor.html#ga0948c3532090a9e1f6d1b0366d78e14b" title="Get error number. " alt="" coords="560,1373,711,1414"/>
+</map>

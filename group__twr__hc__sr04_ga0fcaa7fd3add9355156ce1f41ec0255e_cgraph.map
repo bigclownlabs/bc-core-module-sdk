@@ -1,0 +1,9 @@
+<map id="twr_hc_sr04_init_sensor_module" name="twr_hc_sr04_init_sensor_module">
+<area shape="rect" id="node2" href="$group__twr__hc__sr04.html#ga62b9fe220602718424e1a61a20f811d0" title="Initialize HC&#45;SR04. " alt="" coords="232,81,360,108"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="408,5,579,32"/>
+<area shape="rect" id="node4" href="$group__twr__gpio.html#ga3dd36682535321c9582f291130e9075f" title="Initialize GPIO channel. " alt="" coords="440,56,547,83"/>
+<area shape="rect" id="node7" href="$group__twr__gpio.html#gad416ca996d1ef6e1b74b3c0bfb039ae9" title="Set mode of operation for GPIO channel. " alt="" coords="419,107,568,133"/>
+<area shape="rect" id="node8" href="$group__twr__gpio.html#ga2bc776e5bbc460948f25846055ac4461" title="Set output state for GPIO channel. " alt="" coords="416,157,571,184"/>
+<area shape="rect" id="node5" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="627,56,748,83"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="628,107,747,133"/>
+</map>

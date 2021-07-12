@@ -1,0 +1,10 @@
+<map id="twr_scheduler_get_spin_tick" name="twr_scheduler_get_spin_tick">
+<area shape="rect" id="node2" href="$group__twr__button.html#ga6d587bb6aa9c6bdb8922ee9badd0841a" title="Set hold time (interval after which hold event is recognized when button is steadily pressed) ..." alt="" coords="272,13,463,39"/>
+<area shape="rect" id="node4" href="$group__twr__module__relay.html#ga6f5442a803d31777a75671cca93eee86" title="Initialize HARDWARIO Relay Module. " alt="" coords="284,63,451,90"/>
+<area shape="rect" id="node5" href="$group__twr__sgp30.html#gaa82d36df88b8a019e4a16cc2b4c3bc05" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="260,114,475,141"/>
+<area shape="rect" id="node7" href="$group__twr__sgpc3.html#ga342896f1abc29b9c1b4eb439fa141acf" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="260,165,475,191"/>
+<area shape="rect" id="node9" href="$group__twr__switch.html#ga43b257de3bc426c46d368d51a6f6bf86" title="Set pull advance time (work only with dynamic pull up/down), default 50us, for time bigger than 1000u..." alt="" coords="292,216,443,257"/>
+<area shape="rect" id="node3" href="$group__twr__module__lcd.html#gac3fc59dfb048b655583333eb31f6a7dd" title="Set hold time (interval after which hold event is recognized when button is steadily pressed) ..." alt="" coords="560,5,712,47"/>
+<area shape="rect" id="node6" href="$group__twr__tag__voc.html#gadcfe758f81af5b6d092c7a6ef2a94ed3" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="523,110,749,137"/>
+<area shape="rect" id="node8" href="$group__twr__tag__voc__lp.html#ga79936075a9c34d669e8f26aa01eb9f82" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="563,161,709,203"/>
+</map>

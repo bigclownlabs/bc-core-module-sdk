@@ -1,0 +1,6 @@
+<map id="twr_tag_temperature_set_update_interval" name="twr_tag_temperature_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__tmp112.html#ga2f36101c443477c80d1d5cb1c07c649b" title="Set measurement interval. " alt="" coords="212,25,391,66"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="651,25,799,66"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="447,25,595,66"/>
+<area shape="rect" id="node5" href="$group__twr__tmp112.html#ga914fd94275d4c8f51df6daf962becda2" title="Start measurement manually. " alt="" coords="439,91,603,118"/>
+</map>

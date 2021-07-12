@@ -1,0 +1,7 @@
+<map id="twr_sgp30_measure" name="twr_sgp30_measure">
+<area shape="rect" id="node2" href="$group__twr__sgp30.html#gaa82d36df88b8a019e4a16cc2b4c3bc05" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="207,5,421,32"/>
+<area shape="rect" id="node4" href="$group__twr__sgp30.html#ga88c82a88e3e745f0bd652b6433f69f3c" title="Set measurement interval. " alt="" coords="230,57,398,98"/>
+<area shape="rect" id="node6" href="$group__twr__tag__voc.html#ga81efc3db2d64f9075c3f65e05e9d350a" title="Start measurement manually. " alt="" coords="231,123,397,149"/>
+<area shape="rect" id="node3" href="$group__twr__tag__voc.html#gadcfe758f81af5b6d092c7a6ef2a94ed3" title="Set sensor compensation (absolute humidity is calculated from temperature and relative humidity) ..." alt="" coords="469,5,696,32"/>
+<area shape="rect" id="node5" href="$group__twr__tag__voc.html#ga2654afd1d008d7ce4a614250637e7c24" title="Set measurement interval. " alt="" coords="493,57,673,98"/>
+</map>

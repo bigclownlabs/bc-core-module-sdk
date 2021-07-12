@@ -1,0 +1,9 @@
+<map id="twr_analog_sensor_measure" name="twr_analog_sensor_measure">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="261,5,444,32"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga3a01cc23214414434e8a981f8e98ebb3" title="Schedule current task to tick relative from current spin. " alt="" coords="279,57,427,98"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#ga39d14277e9c8269517346f394edf645b" title="Schedule current task to tick relative from now. " alt="" coords="279,122,427,163"/>
+<area shape="rect" id="node8" href="$group__twr__adc.html#gad19bbc2a66345473b2bbf5b26b6ad497" title="Reads the ADC channel value. " alt="" coords="281,188,425,215"/>
+<area shape="rect" id="node5" href="$group__twr__tick.html#ga707c04751cedb90e01df66ba3f8b1a13" title="Get absolute timestamp since start of program. " alt="" coords="492,129,595,156"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="643,104,764,131"/>
+<area shape="rect" id="node7" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="644,155,763,181"/>
+</map>

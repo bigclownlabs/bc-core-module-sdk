@@ -1,0 +1,6 @@
+<map id="twr_lp8_set_update_interval" name="twr_lp8_set_update_interval">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="203,5,351,47"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="203,71,351,112"/>
+<area shape="rect" id="node4" href="$group__twr__lp8.html#ga60fd1ee60f1dc4b0c59680fe3e778809" title="Start measurement manually. " alt="" coords="209,137,344,163"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="399,137,581,163"/>
+</map>

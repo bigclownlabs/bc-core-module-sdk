@@ -1,0 +1,5 @@
+<map id="twr_tca9534a_set_port_direction" name="twr_tca9534a_set_port_direction">
+<area shape="rect" id="node2" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="224,13,419,39"/>
+<area shape="rect" id="node3" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="467,13,637,39"/>
+<area shape="rect" id="node4" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="685,5,852,47"/>
+</map>

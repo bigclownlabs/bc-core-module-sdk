@@ -1,0 +1,4 @@
+<map id="twr_button_set_event_handler" name="twr_button_set_event_handler">
+<area shape="rect" id="node2" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="233,5,381,47"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="216,71,399,98"/>
+</map>

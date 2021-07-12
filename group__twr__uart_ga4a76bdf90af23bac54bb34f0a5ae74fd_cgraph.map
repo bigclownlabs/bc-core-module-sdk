@@ -1,0 +1,7 @@
+<map id="twr_uart_async_write" name="twr_uart_async_write">
+<area shape="rect" id="node2" href="$group__twr__fifo.html#ga620eea211340ebf3009265c7cc3d4615" title="Write data to FIFO. " alt="" coords="245,43,355,69"/>
+<area shape="rect" id="node3" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="433,5,555,32"/>
+<area shape="rect" id="node4" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="435,68,553,95"/>
+<area shape="rect" id="node5" href="$group__twr__scheduler.html#gaffd07a0c9f390fb3fbdca75a85dd9959" title="Register task in scheduler. " alt="" coords="215,144,385,171"/>
+<area shape="rect" id="node6" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="226,195,374,237"/>
+</map>

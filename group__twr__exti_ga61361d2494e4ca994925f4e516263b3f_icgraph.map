@@ -1,0 +1,5 @@
+<map id="twr_exti_unregister" name="twr_exti_unregister">
+<area shape="rect" id="node2" href="$group__twr__lis2dh12.html#gaf7e9161364c7e7835cb5d10d7917b1ac" title="Enable or disable accelerometer threshold alarm. " alt="" coords="201,5,379,32"/>
+<area shape="rect" id="node3" href="$group__twr__module__encoder.html#gaa5ebbb7d15bc1ff541b08248841218a9" title="Deinitialize Encoder Module. " alt="" coords="211,57,369,98"/>
+<area shape="rect" id="node4" href="$group__twr__spirit.html#ga0a12f645cad89f8c90d6f6dca3207b61" title="Deitialize. " alt="" coords="223,123,357,149"/>
+</map>

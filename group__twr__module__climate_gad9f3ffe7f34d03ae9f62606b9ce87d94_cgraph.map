@@ -1,0 +1,8 @@
+<map id="twr_module_climate_set_update_interval_hygrometer" name="twr_module_climate_set_update_interval_hygrometer">
+<area shape="rect" id="node2" href="$group__twr__sht20.html#ga35a052c5aee9a39e5a022e829e0a2b05" title="Set measurement interval. " alt="" coords="212,34,377,76"/>
+<area shape="rect" id="node6" href="$group__twr__sht30.html#ga0c0a7d2c417c9ca14fdacce37b48aaf4" title="Set measurement interval. " alt="" coords="212,113,377,154"/>
+<area shape="rect" id="node3" href="$group__twr__scheduler.html#ga47e232b243d58211f570926ebafd0354" title="Schedule specified task to absolute tick. " alt="" coords="624,80,772,121"/>
+<area shape="rect" id="node4" href="$group__twr__scheduler.html#gac6a68d631680d72a9cbbbdf4b640b0b4" title="Schedule specified task to tick relative from current spin. " alt="" coords="427,80,575,121"/>
+<area shape="rect" id="node5" href="$group__twr__sht20.html#ga1d94967c4cf0e578cc39b66c428ef4fb" title="Start measurement manually. " alt="" coords="425,28,576,55"/>
+<area shape="rect" id="node7" href="$group__twr__sht30.html#ga182502d10b112b30568f25b575564030" title="Start measurement manually. " alt="" coords="425,196,576,223"/>
+</map>

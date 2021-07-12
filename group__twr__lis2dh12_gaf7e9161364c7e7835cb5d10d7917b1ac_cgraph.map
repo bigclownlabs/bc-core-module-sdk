@@ -1,0 +1,11 @@
+<map id="twr_lis2dh12_set_alarm" name="twr_lis2dh12_set_alarm">
+<area shape="rect" id="node2" href="$group__twr__i2c.html#gac5797baa23c0e587f693855349bc8990" title="Memory write 1 byte to I2C channel. " alt="" coords="231,13,425,39"/>
+<area shape="rect" id="node5" href="$group__twr__exti.html#ga1538f3526d645e4cb8813f0e3d5debb9" title="Enable EXTI line interrupt and register callback function. " alt="" coords="262,63,394,90"/>
+<area shape="rect" id="node8" href="$group__twr__exti.html#ga61361d2494e4ca994925f4e516263b3f" title="Disable EXTI line interrupt. " alt="" coords="254,114,402,141"/>
+<area shape="rect" id="node9" href="$group__twr__lis2dh12.html#ga2b7a97eee6acdfb9c0bb07f78319ea11" title="Start measurement manually. " alt="" coords="243,165,413,191"/>
+<area shape="rect" id="node3" href="$group__twr__i2c.html#ga8144e77db86d0a54a6a50c7e7c9140b6" title="Memory write to I2C channel. " alt="" coords="479,13,650,39"/>
+<area shape="rect" id="node4" href="$group__twr__ds28e17.html#gaa2a316779ca759c63f351179ef9bfc5a" title="Memory write to I2C. " alt="" coords="704,5,871,47"/>
+<area shape="rect" id="node6" href="$group__twr__irq.html#ga4bf4bcae31426886c47fd4dc9b81ce99" title="Disable interrupt requests globally (call can be nested) " alt="" coords="504,63,625,90"/>
+<area shape="rect" id="node7" href="$group__twr__irq.html#gaf133f90ab90bb3cb13750b0e8d02792f" title="Enable interrupt requests globally (call can be nested) " alt="" coords="505,114,624,141"/>
+<area shape="rect" id="node10" href="$group__twr__scheduler.html#gaa80e2e8343f96fbfb2dde7812b995511" title="Schedule specified task for immediate execution. " alt="" coords="473,165,656,191"/>
+</map>

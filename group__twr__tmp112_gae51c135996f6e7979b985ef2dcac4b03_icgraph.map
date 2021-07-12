@@ -1,0 +1,4 @@
+<map id="twr_tmp112_get_temperature_fahrenheit" name="twr_tmp112_get_temperature_fahrenheit">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#ga7fab793d7f49bbecdb725450340aa807" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="269,5,481,47"/>
+<area shape="rect" id="node3" href="$group__twr__tag__temperature.html#ga885911573d9d227c675db2feb82ee6a8" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="269,71,481,112"/>
+</map>

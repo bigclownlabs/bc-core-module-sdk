@@ -1,0 +1,12 @@
+<map id="twr_opt3001_measure" name="twr_opt3001_measure">
+<area shape="rect" id="node2" href="$group__twr__module__climate.html#gacb5a39bd817d0523dea9952d97c05809" title="Start measurement of all sensors manually. " alt="" coords="257,5,424,47"/>
+<area shape="rect" id="node3" href="$group__twr__module__climate.html#gaa902f993203b62b4f69eb67776f90869" title="Start lux meter measurement manually. " alt="" coords="261,71,420,112"/>
+<area shape="rect" id="node4" href="$group__twr__opt3001.html#ga3d0915f5e9f4097e9e57c25b8b3e03a2" title="Get measured illuminance in lux. " alt="" coords="220,137,461,163"/>
+<area shape="rect" id="node7" href="$group__twr__opt3001.html#ga342d8d12eb3535080672511cf2ac40e7" title="Set measurement interval. " alt="" coords="249,195,432,236"/>
+<area shape="rect" id="node11" href="$group__twr__tag__lux__meter.html#ga4e14839aa82f14d7d2196d21d66029c2" title="Start measurement manually. " alt="" coords="237,261,445,287"/>
+<area shape="rect" id="node5" href="$group__twr__module__climate.html#gadac20a824a4dea28056b5c0563e43270" title="Get measured illuminance in lux. " alt="" coords="515,56,675,97"/>
+<area shape="rect" id="node6" href="$group__twr__tag__lux__meter.html#ga5afb2ad0e644c79208a43fd134927a95" title="Get measured illuminance in lux. " alt="" coords="509,121,681,163"/>
+<area shape="rect" id="node8" href="$group__twr__module__climate.html#gaa2360d9f20f8731bec68ddb26f8d24fe" title="Set measurement interval for all sensors. " alt="" coords="516,187,675,243"/>
+<area shape="rect" id="node9" href="$group__twr__module__climate.html#gaf1ff8f9f8c91633f883c5754966901df" title="Set measurement interval for lux meter. " alt="" coords="516,267,675,323"/>
+<area shape="rect" id="node10" href="$group__twr__tag__lux__meter.html#gafb0cad6fd31cc1b8beddf0ee97ac526c" title="Set measurement interval. " alt="" coords="510,348,681,389"/>
+</map>

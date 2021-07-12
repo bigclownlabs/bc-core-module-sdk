@@ -1,0 +1,5 @@
+<map id="twr_tca9534a_read_pin" name="twr_tca9534a_read_pin">
+<area shape="rect" id="node2" href="$group__twr__module__co2.html#gae4366e6477c71738d1fc063b21522f2b" title="Request sensor calibration. " alt="" coords="227,5,432,32"/>
+<area shape="rect" id="node3" href="$group__twr__module__lcd.html#gae682f364f188a725410b3b9f74f530f8" title="Lcd get button driver. " alt="" coords="253,57,406,98"/>
+<area shape="rect" id="node4" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="480,57,632,98"/>
+</map>

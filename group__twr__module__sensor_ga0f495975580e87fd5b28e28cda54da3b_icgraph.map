@@ -1,0 +1,4 @@
+<map id="twr_module_sensor_set_mode" name="twr_module_sensor_set_mode">
+<area shape="rect" id="node2" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="273,5,495,47"/>
+<area shape="rect" id="node3" href="$group__twr__pulse__counter.html#ga0d8120cc233f7a2a2a515b5dac93610b" title="Initialize pulse counter. " alt="" coords="299,71,469,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="twr_module_sigfox_read_device_pac" name="twr_module_sigfox_read_device_pac">
+<area shape="rect" id="node2" href="$group__twr__wssfm10r1at.html#gadb1635e946e9713500fa2898022a8ae0" title="Read device PAC command. " alt="" coords="236,5,407,47"/>
+<area shape="rect" id="node3" href="$group__twr__wssfm10r1at.html#ga1de71358c973e64cf0d4eb147e1c7aea" title="Check if modem is ready for commands. " alt="" coords="455,5,608,47"/>
+</map>

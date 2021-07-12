@@ -1,0 +1,6 @@
+<map id="twr_module_climate_get_humidity_percentage" name="twr_module_climate_get_humidity_percentage">
+<area shape="rect" id="node2" href="$group__twr__sht20.html#ga910fa43544abc1a221e38ffab8e34fb8" title="Get measured humidity as percentage. " alt="" coords="248,5,427,47"/>
+<area shape="rect" id="node4" href="$group__twr__sht30.html#gab605eac250c0ea05fdff27ecaee3b3fa" title="Get measured humidity as percentage. " alt="" coords="248,71,427,112"/>
+<area shape="rect" id="node3" href="$group__twr__sht20.html#ga5eec89523420b90f8aef2834b02d84aa" title="Get measured humidity as raw value. " alt="" coords="475,13,685,39"/>
+<area shape="rect" id="node5" href="$group__twr__sht30.html#gafab63a72b008888efa24a57600fe6d3b" title="Get measured humidity as raw value. " alt="" coords="475,78,685,105"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="twr_gpio_get_input" name="twr_gpio_get_input">
+<area shape="rect" id="node2" href="$group__twr__button.html#ga6d587bb6aa9c6bdb8922ee9badd0841a" title="Set hold time (interval after which hold event is recognized when button is steadily pressed) ..." alt="" coords="200,13,391,39"/>
+<area shape="rect" id="node4" href="$group__twr__module__battery.html#ga541361981d1be7b1433879aa4f3649dc" title="Get Battery Module is pressent, can use without twr_module_battery_init. " alt="" coords="219,64,372,105"/>
+<area shape="rect" id="node5" href="$group__twr__module__encoder.html#ga2f1ce6e98422e0f27db2995166d6e22a" title="Get Encoder Module is pressent, can use without twr_module_encoder_init. " alt="" coords="216,129,375,171"/>
+<area shape="rect" id="node6" href="$group__twr__module__lcd.html#gae682f364f188a725410b3b9f74f530f8" title="Lcd get button driver. " alt="" coords="219,195,372,236"/>
+<area shape="rect" id="node8" href="$group__twr__module__sensor.html#ga42852452c31879ce4ae32a747b70d50b" title="Get input of Sensor Module channel. " alt="" coords="207,260,384,301"/>
+<area shape="rect" id="node9" href="$group__twr__pyq1648.html#ga3afe3ee4fc8819a671a33ff3d30c2a6e" title="Set blank period (for how long alarm events will be ignored) " alt="" coords="207,325,383,367"/>
+<area shape="rect" id="node10" href="$group__twr__switch.html#ga43b257de3bc426c46d368d51a6f6bf86" title="Set pull advance time (work only with dynamic pull up/down), default 50us, for time bigger than 1000u..." alt="" coords="220,391,371,432"/>
+<area shape="rect" id="node3" href="$group__twr__module__lcd.html#gac3fc59dfb048b655583333eb31f6a7dd" title="Set hold time (interval after which hold event is recognized when button is steadily pressed) ..." alt="" coords="439,5,591,47"/>
+<area shape="rect" id="node7" href="$group__twr__module__lcd.html#ga898a3cfe5defec896e4178a4ffe5fd5d" title="Lcd set event handler for buttons. " alt="" coords="439,195,591,236"/>
+</map>

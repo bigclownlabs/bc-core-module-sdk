@@ -1,0 +1,4 @@
+<map id="twr_ds18b20_measure" name="twr_ds18b20_measure">
+<area shape="rect" id="node2" href="$group__twr__ds18b20.html#ga50031f8dca11e82f435c422a470eb709" title="Get measured temperature in degrees of Celsius. " alt="" coords="223,5,444,47"/>
+<area shape="rect" id="node3" href="$group__twr__ds18b20.html#ga1fb7d8ec9b6edbc222224213cca8df19" title="Set measurement interval. " alt="" coords="241,71,425,112"/>
+</map>
